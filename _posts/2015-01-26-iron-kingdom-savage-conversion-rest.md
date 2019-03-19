@@ -131,7 +131,7 @@ The Alchemy chapter provide a list of basic alchemical items. For more exotic in
 
 #### Free Style
 
-**Rank : ** Novice**
+**Rank :**  Novice**
 **Requirements :** Alchemy d10This edge allows a character to improvise replacement ingredient for a alchemical compound.
 
 ### Arcane Backgrounds
@@ -141,25 +141,25 @@ In Iron Kingdoms RPG, published by Privateer Press, there are two specific arcan
 #### Arcane Background (Focusing)
 
 **Arcane Skill :** Focusing (Smarts)
-**Starting Powers : **2 
-**No power points rules : **In place If the characters must make a *Focusing* roll with a penalty equals to half the Power Point cost of the chosen spell. On a failure, the character loose all sustained spells and his shaken, this can cause a wound. Each sustained spell add a -1 penalty to *Focusing*rolls.
-**Backlash : **Burnout, on a 1 on the arcane check, regardless of the wild die, the character loose the ability to cast spell until the end of the encounter. He can spend a benny to resume this ability.Focusers use latent magic that surrounds everything in Caern. They are the only ones that can becomes warcasters because it requires their unique ability to control warjack and bound to other mechanikal items.When picking this arcane background the character must choose one Arcane Career edge. 
+**Starting Powers :** 2 
+**No power points rules :** In place If the characters must make a *Focusing* roll with a penalty equals to half the Power Point cost of the chosen spell. On a failure, the character loose all sustained spells and his shaken, this can cause a wound. Each sustained spell add a -1 penalty to *Focusing*rolls.
+**Backlash :** Burnout, on a 1 on the arcane check, regardless of the wild die, the character loose the ability to cast spell until the end of the encounter. He can spend a benny to resume this ability.Focusers use latent magic that surrounds everything in Caern. They are the only ones that can becomes warcasters because it requires their unique ability to control warjack and bound to other mechanikal items.When picking this arcane background the character must choose one Arcane Career edge. 
 
 #### Arcane Background (Will Weaver)
 
-**Arcane Skill : **Will Weaving (Smarts)
-**Starting Powers : **2
-**Starting Power Points : **10
-**Backlash : **On a 1 on the arcane check, regardless of the wild die, the character is shaken and suffers a level of fatigue.Will weavers rely on their force of will to summon and harness arcane energy.When picking this arcane background the character must choose one Arcane Career edge.
+**Arcane Skill :** Will Weaving (Smarts)
+**Starting Powers :** 2
+**Starting Power Points :** 10
+**Backlash :** On a 1 on the arcane check, regardless of the wild die, the character is shaken and suffers a level of fatigue.Will weavers rely on their force of will to summon and harness arcane energy.When picking this arcane background the character must choose one Arcane Career edge.
 
 ### Arcane Careers
 
 
 #### Gun mage
 
-**Requirements : **Arcane Background (Will Weaving) or Arcane Background (Focusing) and Shooting d6A gun mage mix arcane energies with fire arms. He can shoots spells using bullet as a delivery system. To do so, the gun mage must uses a magelock weapon, a specially crafted gun with magic sensitive alloys, in conjonction with rune shots, specially crafted bullets for this purpose. Casting a spell through a rune shot requires a arcane roll as usual and a shooting roll to hit the target. But those two actions count as a single one toward for multi-action resolutions. If both rolls are successful the target suffer the shot and the stored power. If a gun mage doesn't have a rune shots or magelock he can still cast spell through a bullet but will suffer penalty to his shooting and arcane roll for trying so. The gun mage will suffer a -2 modifier if he doesn't have a magelock and an other -2 (cumulative) if he doesn't have rune shots.
+**Requirements :** Arcane Background (Will Weaving) or Arcane Background (Focusing) and Shooting d6A gun mage mix arcane energies with fire arms. He can shoots spells using bullet as a delivery system. To do so, the gun mage must uses a magelock weapon, a specially crafted gun with magic sensitive alloys, in conjonction with rune shots, specially crafted bullets for this purpose. Casting a spell through a rune shot requires a arcane roll as usual and a shooting roll to hit the target. But those two actions count as a single one toward for multi-action resolutions. If both rolls are successful the target suffer the shot and the stored power. If a gun mage doesn't have a rune shots or magelock he can still cast spell through a bullet but will suffer penalty to his shooting and arcane roll for trying so. The gun mage will suffer a -2 modifier if he doesn't have a magelock and an other -2 (cumulative) if he doesn't have rune shots.
 
 #### Warcaster
 
-**Requirements : **Arcane Background (Focusing)Warcasters can bound with mechanikal devices, including steamjack. Depending of the nature of the mechanikal device, the warcaster can use the device in special ways. The bouding process requires ten minutes once, and a warcaster can change it's bounds at any time by bounding to an other device. A single device can't be bound to more than one warcaster. The warcaster as a limit of one bound. That limit can be change with edges.While bounded with a mechanikal weapon a warcaster can uses bennies to reroll damages.While bounded with a mechanikal armor a warcaster can generate a protective field that add two to the toughness.While bounded with a steamjack, a warcaster receive the same benefits as the 'Jack Marshal edge with the bounded 'jack. But, the warcaster doesn’t need to talk to give out orders and doesn't need to know the cortex language.
+**Requirements :** Arcane Background (Focusing)Warcasters can bound with mechanikal devices, including steamjack. Depending of the nature of the mechanikal device, the warcaster can use the device in special ways. The bouding process requires ten minutes once, and a warcaster can change it's bounds at any time by bounding to an other device. A single device can't be bound to more than one warcaster. The warcaster as a limit of one bound. That limit can be change with edges.While bounded with a mechanikal weapon a warcaster can uses bennies to reroll damages.While bounded with a mechanikal armor a warcaster can generate a protective field that add two to the toughness.While bounded with a steamjack, a warcaster receive the same benefits as the 'Jack Marshal edge with the bounded 'jack. But, the warcaster doesn’t need to talk to give out orders and doesn't need to know the cortex language.
 
