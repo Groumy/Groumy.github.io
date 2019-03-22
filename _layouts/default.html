@@ -50,5 +50,8 @@
     </div>
 
     {% include analytics.html %}
+    {% if site.tags != "" %}
+      {% include collecttags.html %}
+    {% endif %}
   </body>
 </html>
