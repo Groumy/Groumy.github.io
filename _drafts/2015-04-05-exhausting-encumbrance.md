@@ -1,12 +1,16 @@
-* * *
-
-layout: post title: Exhausting Encumbrance date:
-'2015-04-05T11:58:00.000-07:00' author: Dominic Richard tags: -
-encumbrance - DND 5e - DND modified\_time:
-'2015-04-05T11:58:33.915-07:00' blogger\_id:
-tag:blogger.com,1999:blog-6625729482660748351.post-6061724480368567908
-blogger\_orig\_url:
-http://www.groumy.net/2015/04/exhausting-encumbrance.html ---
+---
+layout: post
+title: Exhausting Encumbrance
+date: '2015-04-05T11:58:00.000-07:00'
+author: Dominic Richard
+tags:
+- encumbrance
+- DND 5e
+- DND
+modified_time: '2015-04-05T11:58:33.915-07:00'
+blogger_id: tag:blogger.com,1999:blog-6625729482660748351.post-6061724480368567908
+blogger_orig_url: http://www.groumy.net/2015/04/exhausting-encumbrance.html
+---
 
 Ever since the D&amp;D 3e, I always felt that the provided encumbrance
 system was somewhat off. The major problem I had was with the fact that
@@ -19,7 +23,7 @@ Before, delving into my though, a little disclaimer :
 <blockquote class=\"tr\_bq\">I'm not a professional game designer, just
 a dabbler. I don't have any personal experience to back up anything I
 says here. Like hiking, military training or anything. Just so you
-know.</blockquote><h3>Inspiration in the new editionÿ </h3>When D&amp;D
+know.</blockquote><h3>Inspiration in the new editionï¿½ </h3>When D&amp;D
 5e came out last summer, I was really please to see that the "default"
 rules are somewhat simpler :  
   
@@ -68,13 +72,13 @@ temperatures, can lead to a special condition called
 exhaustion. Exhaustion is measured in six levels. An effect  
 can give a creature one or more levels of exhaustion, as  
 specified in the effectâ€™s
-description.</blockquote><blockquote>**Level**ÿÿÿ **Effect**  
-1ÿÿÿÿÿÿÿÿÿÿÿÿ Disadvantage on ability checks  
-2ÿÿÿÿÿÿÿÿÿÿÿÿ Speed halved  
-3ÿÿÿÿÿÿÿÿÿÿÿÿ Disadvantage on attack rolls and saving throws  
-4ÿÿÿÿÿÿÿÿÿÿÿÿ Hit point maximum halved  
-5ÿÿÿÿÿÿÿÿÿÿÿÿ Speed reduced to 0   
-6ÿÿÿÿÿÿÿÿÿÿÿÿ Death  
+description.</blockquote><blockquote>**Level**ï¿½ï¿½ï¿½ **Effect**  
+1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Disadvantage on ability checks  
+2ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Speed halved  
+3ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Disadvantage on attack rolls and saving throws  
+4ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Hit point maximum halved  
+5ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Speed reduced to 0   
+6ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Death  
   
 If an already exhausted creature suffers another effect that causes
 exhaustion, its current level of exhaustion increases by the amount
@@ -98,7 +102,7 @@ rules, in the adventuring chapter.
 <blockquote class=\"tr\_bq\">**Forced March.** The Travel Pace table
 assumes that characters travel for 8 hours in day. They can push on
 beyond that limit, at the risk of
-exhaustion.ÿ</blockquote><blockquote>For each additional hour of travel
+exhaustion.ï¿½</blockquote><blockquote>For each additional hour of travel
 beyond 8 hours, the characters cover the distance shown in the Hour
 column for their pace, and each character must make a Constitution
 saving throw at the end of the hour. The DC is 10 + 1 for each hour past
@@ -168,15 +172,15 @@ performing a strenuous activity, make that activity count as three (3)
 for determining exhaustion.</li><li>Wearing an Heavy armor, but while
 meeting the armor's strength prerequisite, or carrying an medium load,
 while performing a strenuous activity, make that activiy count as two
-(2) for determining exhaustion.ÿÿ </li></ul>That way, a average human
+(2) for determining exhaustion.ï¿½ï¿½ </li></ul>That way, a average human
 (10 in all stats) would be able to walk in a full plate for about 3
 hours before starting to feel exhaustion kicking in. (3*3 (for not
 meeting the strength prerequisite) = 9 vs 10 (constitution score)).   
   
 On the other hand, a character with 15 in Strength and 14 in
-constitution (a regular level 1 fighter) would be ableÿ to wear it and
+constitution (a regular level 1 fighter) would be ableï¿½ to wear it and
 walk with it for 7 hours before starting to make exhaustion saving
-throws. Orÿ (7*2 (for meeting the strength prerequisite) vs 14
+throws. Orï¿½ (7*2 (for meeting the strength prerequisite) vs 14
 (constitution score)).  
   
 Sounds good to me.  
