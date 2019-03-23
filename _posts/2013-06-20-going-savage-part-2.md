@@ -16,12 +16,19 @@ they are currently using, and want to see other stuff.
 Let's recapitulate what I wanted in my new system and let's sees if
 Savage Worlds is up for it:  
   
-<ul><li>Setting Free or easy to adapt</li><li>Suggested optional rules
-to adapt to given type of settings</li><li>Not d20
-based</li><li>Possibility to roll multiple dices and have a better bell
-curve</li><li>No hit points</li><li>Some kinds of
+* Setting Free or easy to adapt
+* Suggested optional rules
+to adapt to given type of settings
+* Not d20
+based
+* Possibility to roll multiple dices and have a better bell
+curve
+* No hit points
+* Some kinds of
 Action/Hero/Fate/Destiny point that allows player to re-roll, alter a
-scene or other uses</li><li>Easy math</li></ul>  
+scene or other uses
+* Easy math
+  
 [Savage Worlds][1] (SW) is a system based on the old Deadland system. A
 system I played once and enjoyed, even if it was for a single evening.
 When I stumbled on it, the Deluxe Edition just came out, so I was able
@@ -74,14 +81,21 @@ edges (like feats) and hindrances. So just like True20 the character is
 more of a conceptual choice than playing a predefined option.  
   
 So did Savage Worlds meet every thing I was looking for :  
-<ul><li>Setting Free or easy to adapt - *Yup.*</li><li>Suggested
-optional rules to adapt to given type of settings - *Yup*</li><li>Not
-d20 based - *Yup.*</li><li>Possibility to roll multiple dices and have a
-better bell curve - *Yup, with the Wild dieÿ*</li><li>No hit points -
-*Yup*</li><li>Some kinds of Action/Hero/Fate/Destiny point that allows
+* Setting Free or easy to adapt - *Yup.*
+* Suggested
+optional rules to adapt to given type of settings - *Yup*
+* Not
+d20 based - *Yup.*
+* Possibility to roll multiple dices and have a
+better bell curve - *Yup, with the Wild dieï¿½*
+* No hit points -
+*Yup*
+* Some kinds of Action/Hero/Fate/Destiny point that allows
 player to re-roll, alter a scene or other uses - *Yup (with the
-bennies)*</li><li>Easy math - *Yup (with the fixed target
-number)*</li></ul>In addition, Savage World offer the Explorer Edition,
+bennies)*
+* Easy math - *Yup (with the fixed target
+number)*
+In addition, Savage World offer the Explorer Edition,
 that is basically a poket format of the rules, that is sold for 10$. So
 that way I can encourage my player to get each a copy of it. In
 addition, Savage Worlds also have a bunch of really nice rules, like the
