@@ -1,12 +1,19 @@
-* * *
-
-layout: post title: Going Savage - Part 2 date:
-'2013-06-20T10:31:00.000-07:00' author: Dominic Richard tags: - RPG -
-Savage Worlds modified\_time: '2013-06-21T09:54:23.590-07:00'
-blogger\_id:
-tag:blogger.com,1999:blog-6625729482660748351.post-2297454899025011327
-blogger\_orig\_url:
-http://www.groumy.net/2013/06/going-savage-part-2.html ---
+---
+layout: post
+title: Going Savage - Part 2
+date: '2013-06-20T10:31:00.000-07:00'
+author: Dominic Richard
+tags:
+- DND 4th
+- DND Next
+- RPG
+- True20
+- Savage Worlds
+- DND
+modified_time: '2013-06-21T09:54:23.590-07:00'
+blogger_id: tag:blogger.com,1999:blog-6625729482660748351.post-77525107892622974548990250113273571658
+blogger_orig_url: http://www.groumy.net/2013/06/going-savage-part-2.html
+---
 
 In the first part, I talked why I was looking out for a new system and
 my trials with DnD Next and True20. Has I said, I'm doing that to help
