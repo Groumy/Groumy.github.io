@@ -17,7 +17,7 @@ Since the last post, (over a year ago) my Savage Iron Campaign raised and fell a
 
 As my players started to get actual experiences with Savage Worlds they started to dislike the free-form character advancements that it offers. They are all big time MMORPG players, so maybe I should have seen it coming.
 
-So we switched back to D&amp;D, after a short flirt with the Cortex Plus System, starting with the latest play-test package a couple of month before the actual release of D&amp;D 5e, which is great actually.
+So we switched back to D&D, after a short flirt with the Cortex Plus System, starting with the latest play-test package a couple of month before the actual release of D&D 5e, which is great actually.
 
 Anyway, here is the rest of my notes on the conversion from Iron Kingdom RPG to Savage Worlds, in case it could be of any help to someone.
 
