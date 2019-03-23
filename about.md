@@ -4,11 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a RPG geek. I've been playing/mastering RPG for the past 25 years.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#### My RPG curriculum
+
+I started in the hobby with AD&D, than Shadowrun, Vampire: The Masquerade, Savage Worlds, Mutants & Masterminds, Cortex Plus, No Thank You Evil, Numenera, Cypher System and other I have probably forgot about.
+
+Right now, my attention is geared toward Cypher System because it provides a great balance between simple rules, lazy GMing and heavy character options.
+
+I don't have that much time to play though, so I'm also an avid RPG reader. Yup, I love to read about new RPGs and inspire myself of their rules and settings. 
+
+#### About my personal life
+
+I'm a french canadian father of five wonderful children. I've started to play with the oldest one a couple of year ago and consider including the other ones too.
+
+I'm an avid boardgamer too. Currently with me busy schedule they are easier to fit in.
+
+I'm an IT professional, with more than 15 years of experience in develeopment, system administration, devops, cloud management and I recently change my scope to be an Agile Product Owner. So there might be a post or two about technological subject every now and then. But it won't be the norm.
 
 ### Contact me
 
