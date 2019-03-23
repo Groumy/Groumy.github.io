@@ -72,7 +72,7 @@ that they offered a pocket format book aimed for the players that is
 sold for less than 10$ and is only missing the Game mastering chapter.  
   
 The campaign went well, but the player got confuse with the toughness
-saves of the True20 system, �One almost died at the first encounter
+saves of the True20 system, One almost died at the first encounter
 because he didn't understand well enough how the game worked and put not
 enough toughness for his fighter. Also they never get over the idea that
 they didn't need any other dice than a d20. In retrospective I should
@@ -97,7 +97,7 @@ are "swingy" they can be, and you end up most of the time having great
 success or great failure and not very much of medium rolls.  
   
 That's how I came to discover [Savage Worlds][3], by [Pinnacle
-Entertainment Group][4]�(PEG). Since this post is long enough, Savage
+Entertainment Group][4](PEG). Since this post is long enough, Savage
 Worlds will be explain in the next part.
 
 

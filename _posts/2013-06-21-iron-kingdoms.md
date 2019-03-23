@@ -63,7 +63,7 @@ it's just to get inspired from.
   
 By the time I wrote this article, we already played three session and my
 basic conversion is almost done. But now I start to see flaws in my
-conversion, so what I'll post will be my *revised*�edition.
+conversion, so what I'll post will be my *revised*edition.
 
 
 
