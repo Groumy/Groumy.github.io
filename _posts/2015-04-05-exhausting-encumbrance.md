@@ -12,6 +12,10 @@ blogger_id: tag:blogger.com,1999:blog-6625729482660748351.post-60617244803685679
 blogger_orig_url: http://www.groumy.net/2015/04/exhausting-encumbrance.html
 ---
 
+> This is an old post that wasn't publish in time, sounds as good time as any to do it how
+
+---
+
 Ever since the D&D 3e, I always felt that the provided encumbrance
 system was somewhat off. The major problem I had was with the fact that
 your load would affect your moving speed.  
