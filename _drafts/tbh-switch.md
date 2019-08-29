@@ -88,8 +88,12 @@ With player facing rolls, there is simply no bullshit, no fudging dice, no GM fi
 
 ## One stat enemy
 
-One thing I _loved_ about the Cypher System was to be able to simply express enemy, _and any challenge really_ as a single number in my notes.
+One thing I _loved_ about the Cypher System was to be able to simply express enemy, _and any challenge really_, as a single number in my notes.
+
+Back when we played DND 4th I hated to have to spend so much time trying to balance out encounter, read monsters stat blocks, reference those blocks in game, etc.
+
+Being to express NPC and the like as a single num
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbOTIzNTQ4MzcsMTg2MTExODEwNV19
+JoaXN0b3J5IjpbLTEyMTA2MTM1NTIsMTg2MTExODEwNV19
 -->
