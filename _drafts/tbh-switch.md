@@ -37,8 +37,10 @@ They wanted a system were creating a new character could be done in minutes, not
 
 Even after playing over a year of Cypher System, none of my player could grasp the action resolution mechanisim.
 
+They were always confused about the relation between the difficulty level and the d20 and don't get me started with the difficulty level _negotiation_ or the _stat pool management_.
 
+They c
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTU5MDQ4MzIwLDE4NjExMTgxMDVdfQ==
+JoaXN0b3J5IjpbLTE4MDI4MDM4NjAsMTg2MTExODEwNV19
 -->
