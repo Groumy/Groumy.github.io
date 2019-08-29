@@ -11,8 +11,14 @@ With my group of old timers, we recently switched from Cypher System to [The Bla
 We did so for many reasons :
 * character options were a little bit to heavy for their tastes
 * character creation tooked too much time
-* they had a hard time to remember
+* they had a hard time to remember the rules
+
+Let me extrapolate, because it might help others who are in the same situation
+
+## Character options
+
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE0MzY4NzQ4NF19
+JoaXN0b3J5IjpbMTQ4MjAwMzI1XX0=
 -->
