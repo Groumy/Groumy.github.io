@@ -17,8 +17,10 @@ Let me extrapolate, because it might help others who are in the same situation
 
 ## Character options
 
+The Cypher System is _full_ of character options. At first, we we switched to this system, I thought that my players would love this. With the combinaisons of the _Descriptors_, _Types_ and _Foci_ you can create a great deal of characters concept.
 
+The issue w
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTQ4MjAwMzI1XX0=
+JoaXN0b3J5IjpbLTE1NjI3NzkyM119
 -->
