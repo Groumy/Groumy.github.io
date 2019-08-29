@@ -13,7 +13,11 @@ We did so for many reasons :
 * [character creation](#character-creation) tooked too much time
 * they had a hard time to remember [the rules](#the-rules)
 
-Let me extrapolate, because it might help others who are in the same situation
+Let me extrapolate, because it might help others who are in the same situation and lets start by describing the group.
+
+## Our group
+
+Our group is composed of old timer, most of my players h
 
 ## Character options
 
@@ -39,8 +43,8 @@ Even after playing over a year of Cypher System, none of my player could grasp t
 
 They were always confused about the relation between the difficulty level and the d20 and don't get me started with the difficulty level _negotiation_ or the _stat pool management_.
 
-They c
+With each time 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE4MDI4MDM4NjAsMTg2MTExODEwNV19
+JoaXN0b3J5IjpbMTcxNDQ5NDgxOCwxODYxMTE4MTA1XX0=
 -->
