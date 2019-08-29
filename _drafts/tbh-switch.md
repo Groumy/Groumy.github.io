@@ -13,9 +13,13 @@ We did so for many reasons :
 * [character creation](#character-creation) tooked too much time
 * they had a hard time to remember [the rules](#the-rules)
 
+We ended up choosing The 
+
 Let me extrapolate, because it might help others who are in the same situation and lets start by describing the group.
 
-# Our group
+# My group needs
+
+##Our group
 
 Our group is composed of **Old timers Parents** that **Aren't RPG Geek**
 
@@ -51,12 +55,15 @@ They were always confused about the relation between the difficulty level and th
 
 They simply forgot about those rules between sessions. 
 
-## My own needs
+# My own needs
 
 So as their GM and and the only RPG Geek at the table, I started to look at different systems, but I didn't wanted to loose what I _loved_ about the Cypher System. So I kept in mind those point :
-* **Player facing rolls**
-* **One stat ennemy**
+* Player facing rolls
+* One stat ennemy
+* One unified action resolution mechanisim
+
+## Player facing rolls
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTgwNDA0ODU3NCwxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbLTE2MzQ1NTA0MCwxODYxMTE4MTA1XX0=
 -->
