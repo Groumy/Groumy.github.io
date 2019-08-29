@@ -102,9 +102,9 @@ I alway appreciated system that are basically driven simply by Attribute Tests a
 
 # The verdict
 
-After some searching I stumbled on The Black Hack. Put simply it checked all the boxes f
+After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE2Mjc3OTcyOTAsNTE2OTg4NzE5LC0yMDIw
-Mzg1NTYsMjY3ODQ1MDQxLDE4NjExMTgxMDVdfQ==
+JoaXN0b3J5IjpbMTA2NTEwNjE2Niw1MTY5ODg3MTksLTIwMjAz
+ODU1NiwyNjc4NDUwNDEsMTg2MTExODEwNV19
 -->
