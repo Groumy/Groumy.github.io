@@ -84,8 +84,12 @@ vs
 
 * the GM said so
 
-With p
+With player facing rolls, there is simply no bullshit, no fudging dice, no GM fiat.
+
+## One stat enemy
+
+One thing I _loved_ about the Cypher System was to be able to simply express enemy, _and any challenge really_ as a single number in my notes.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTU1Njc2MTA5NywxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbOTIzNTQ4MzcsMTg2MTExODEwNV19
 -->
