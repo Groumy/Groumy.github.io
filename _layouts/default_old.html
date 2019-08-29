@@ -6,7 +6,26 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="icon" 
       type="image/png" 
-      href="/images/dice-twenty-faces-twenty.png">  </head>
+      href="/images/dice-twenty-faces-twenty.png"> 
+    <style>
+      .site-avatar {
+        float: left;
+        width: 70px;
+        height: 70px;
+        margin-right: 15px;
+
+        @include mobile {
+          float: none;
+          display: block;
+          margin: 0 auto;
+        }
+
+        img {
+          border-radius: 5px;
+        }
+      }
+    </style>
+  </head>
   <body>
     <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
     <div class="site-info">
