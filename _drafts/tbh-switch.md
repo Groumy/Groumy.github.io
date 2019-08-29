@@ -13,21 +13,21 @@ We did so for many reasons :
 * [character creation](#character-creation) tooked too much time
 * they had a hard time to remember [the rules](#the-rules)
 
-We ended up choosing The 
+We ended up choosing The Black Hack because it checked all the boxes of their needs and my needs.
 
 Let me extrapolate, because it might help others who are in the same situation and lets start by describing the group.
 
-# My group needs
-
-##Our group
+# Our group
 
 Our group is composed of **Old timers Parents** that **Aren't RPG Geek**
 
-* **Old timers**, most (_6 out of 7_) of my players have over 20 years of playing RPG under their belt
-* **Parents**, most (_6 out of 7 again_) of my players are parents and thus a busy schedule, including me
+* **Old timers**, most (_7 out of 8_) of my players have over 20 years of playing RPG under their belt
+* **Parents**, most (_7 out of 8 again_) of my players are parents and thus a busy schedule, including me
 * **Aren't RPG Geek**, _none_ of players invest any of their precious time to read about RPG (_not even rules_). The only time they dedicate to RPG is while they are sitting at my table. They _love_ playing, but not _reading_ about RPGs.
 
 Because of all that, we play mostly once a month with a varying degree of participations. Some are present each time, other have played only two session in over 2 years.
+
+# My player needs
 
 ## Character options
 
@@ -65,5 +65,5 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 ## Player facing rolls
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE2MzQ1NTA0MCwxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbLTIwMjExODkxNiwxODYxMTE4MTA1XX0=
 -->
