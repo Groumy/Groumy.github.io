@@ -17,8 +17,6 @@ Let me extrapolate, because it might help others who are in the same situation a
 
 # Our group
 
-One thing I learned in my adult life, is that to be able to understand a decision, you have to understand the context in which it was made. In this case, our group need and reality.
-
 Our group is composed of **Old timers Parents** that **Aren't RPG Geek**
 
 * **Old timers**, most (_6 out of 7_) of my players have over 20 years of playing RPG under their belt
@@ -55,8 +53,10 @@ They simply forgot about those rules between sessions.
 
 ## My own needs
 
-So as their GM and and the only RPG Geek at the table, I started to look at different systems, but I didn't wanted to loose what I _loved_ about the Cypher System
+So as their GM and and the only RPG Geek at the table, I started to look at different systems, but I didn't wanted to loose what I _loved_ about the Cypher System. So I kept in mind those point :
+* **Player facing rolls**
+* **One stat ennemy**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTYxNTE1MTkzNiwxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbLTgwNDA0ODU3NCwxODYxMTE4MTA1XX0=
 -->
