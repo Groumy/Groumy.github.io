@@ -110,14 +110,16 @@ The first session, it tooked maybe 30 minutes to explains the rules and create c
 
 All the player stated how much simpler this system was, we no longer have questions about how to resolve actions or anything. The mood ligthened up a bit also and everybody is starting to have more fun.
 
-Some member of the group that didn't played in a while (_had a new baby_) 
+When group member that weren't there on the first session showed up we were able to explain the rules and create that character in under 15 minutes. 
+
+Since we made the switch we even welcomed two new recruits. My wife and 
 
 
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbNDY2MjA1ODk0LDEwNjUxMDYxNjYsNTE2OTg4
-NzE5LC0yMDIwMzg1NTYsMjY3ODQ1MDQxLDE4NjExMTgxMDVdfQ
-==
+JoaXN0b3J5IjpbMjE0MjkyODA4OSwxMDY1MTA2MTY2LDUxNjk4
+ODcxOSwtMjAyMDM4NTU2LDI2Nzg0NTA0MSwxODYxMTE4MTA1XX
+0=
 -->
