@@ -19,7 +19,7 @@ converting Iron Kingdoms RPG to Savage Worlds, my go to system. I
 started with the *Character Statistics,* as Iron Kingdimg calls them and
 convet them to Savage Worlds Traits. Now it's time to handle the skills,
 since it's the next big step.  
-  
+
 Just to recap, for those who didn't red the first post or just forgot,
 my goal is to be able to easily convert Iron Kingdom RPG content to
 Savage World and keep the flavor and merge the mechanics of both system
@@ -165,5 +165,5 @@ table that shows are the mapping is done.
 That's it for the skills, next up abilities / edges.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjY2Nzk2XX0=
+eyJoaXN0b3J5IjpbNDU5MjIyODA0XX0=
 -->
