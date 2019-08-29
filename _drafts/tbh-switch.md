@@ -105,9 +105,13 @@ I alway appreciated system that are basically driven simply by Attribute Tests a
 After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. 
 
 We have now 5 sessions under the belt running [Barrowmaze Complete](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete) with it and we have only minor issues that can easly be fixed with house rules.
+
+All the player stated how much simpler this system was, we no longer have questions about how to resolve actions or anything.
+
+In fact, we even expanded our group since the switch. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbODAzNTc3ODg2LDEwNjUxMDYxNjYsNTE2OTg4
-NzE5LC0yMDIwMzg1NTYsMjY3ODQ1MDQxLDE4NjExMTgxMDVdfQ
-==
+JoaXN0b3J5IjpbLTI2NDczNTY5OCwxMDY1MTA2MTY2LDUxNjk4
+ODcxOSwtMjAyMDM4NTU2LDI2Nzg0NTA0MSwxODYxMTE4MTA1XX
+0=
 -->
