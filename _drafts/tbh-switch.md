@@ -24,15 +24,19 @@ To describe our group I'm gonna steel the Cypher System concept of _character as
 Our group is composed of  :
 * 6 **Old timers Parents** _that_ **Aren't a RPG Geek**
 * my daughter a **Young Teenager** _that_ **Aren't a RPG Geek**
-* myself a **Old timer Parent** _that_ **Definetly is a RPG G
+* myself a **Old timer Parent** _that_ **Definetly is a RPG Geek**
 
-* **Old timers**, most (_7 out of 8_) of my players have over 20 years of playing RPG under their belt
-* **Parents**, most (_7 out of 8 again_) of my players are parents and thus a busy schedule, including me
+And here some _definition_ of those terms for me : 
+
+* **Old timers**, most of my players have over 20 years of playing RPG under their belt
+* **Parents**, most of my players are parents and thus a busy schedule, including me
 * **Aren't RPG Geek**, _none_ of players invest any of their precious time to read about RPG (_not even rules_). The only time they dedicate to RPG is while they are sitting at my table. They _love_ playing, but not _reading_ about RPGs.
 
-Because of all that, we play mostly once a month with a varying degree of participations. Some are present each time, other have played only two session in over 2 years.
+Because of all that, we play mostly once a month with a varying degree of participations. Some are present each time, other have played only two session in over 2 years for example. 
 
 # My player needs
+
+Based on discussion and observations of their reactions when we discussed
 
 ## Character options
 
@@ -70,5 +74,5 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 ## Player facing rolls
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMjA4NjIxNzQ0MCwxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbLTE3NjgyNzEyMDAsMTg2MTExODEwNV19
 -->
