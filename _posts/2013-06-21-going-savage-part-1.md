@@ -21,7 +21,7 @@ Some of them was nostalgic of good old DnD 3.5. Some of them was not
 combat players, so wasn't very interested in Dnd 4th character options.
 Some of them, who recently joined the campaign, was overwhelmed by all
 the powers they had and never knew witch one does what.  
-  
+
 Just to be clear, it's not a Dnd 4th hater article, it's just
 recollection of the events that brought me and my group to where we are
 and I do that to help other that may feel the same way as we did to find
@@ -106,3 +106,6 @@ Worlds will be explain in the next part.
 [2]: http://true20.com/
 [3]: http://www.peginc.com/product-category/savage-worlds/
 [4]: http://www.peginc.com/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIzMDI4NTc2OF19
+-->
