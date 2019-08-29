@@ -13,14 +13,13 @@ blogger_id: tag:blogger.com,1999:blog-6625729482660748351.post-10078968449046723
 blogger_orig_url: http://www.groumy.net/2013/06/iron-kingdoms.html
 ---
 
-
 On of my player brought to my attention a new RPG that came out last
 year and that was looking very interesting. The RPG was [Iron
 Kingdom][1] from [Privateer Press][2]. This RPG is a new system derived
 from Privateer Press' [Warmachine][3] and [Hordes][4] miniature games
 that lives in the same settig. Privateer Press published some years ago
 a d20 compatible version of their Iron Kingdoms campaign setting.  
-  
+
 Personally, when my player shows me the core rule book cover I was
 hooked even if I never heard of that game world before. Here's the cover
 :  
@@ -72,3 +71,6 @@ conversion, so what I'll post will be my *revised*edition.
 [3]: http://privateerpress.com/warmachine
 [4]: http://privateerpress.com/hordes
 [5]: http://privateerpress.com/files/products/IKRPG%20Core%20Rules%20Cover.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNjc3OTY2ODBdfQ==
+-->
