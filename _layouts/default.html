@@ -15,29 +15,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-    <style>
-      .site-avatar {
-        float: left;
-        width: 70px;
-        height: 70px;
-        margin-right: 15px;
-
-        @include mobile {
-          float: none;
-          display: block;
-          margin: 0 auto;
-        }
-
-        img {
-          border-radius: 5px;
-        }
-      }
-    </style>
   </head>
   <body>
       <div id="header">
-       <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
         <div class="site-info">
           <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
           <p class="site-description">{{ site.description }}</p>
