@@ -17,11 +17,11 @@ Let me extrapolate, because it might help others who are in the same situation a
 
 ## Our group
 
-Our group is composed of : 
+Our group is composed of 
 
 * **Old timers**, most (_6 out of 7_) of my players have over 20 years of playing RPG under their belt
 * **Parents**, most (_6 out of 7 again_) of my players are parents and thus a busy schedule, including me
-* **Aren't RPG Geek**, none of players invest any of their precious time to read RPG or about RPG. The 
+* **Aren't RPG Geek**, none of players invest any of their precious time to read about RPG (_not even rules_). The only time they dedicate to RPG is while they are sitting at my table. They _love_ playing, but not _reading_ about RPGs.
 
 ## Character options
 
@@ -50,5 +50,5 @@ They were always confused about the relation between the difficulty level and th
 With each time 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTY5NTU4Mzk4NywxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbLTE0NjMzMDI3OTksMTg2MTExODEwNV19
 -->
