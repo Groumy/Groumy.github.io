@@ -77,8 +77,15 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 
 I love player facing rolls, because I found it easier on me and I have the impression that it empowers the players.
 
-T
+There's a difference between getting hit by the BBEG because :
+* I rolled poorly on my dodge attempt
+
+vs
+
+* the GM said so
+
+With p
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbNzM1NjgwMzIsMTg2MTExODEwNV19
+JoaXN0b3J5IjpbLTU1Njc2MTA5NywxODYxMTE4MTA1XX0=
 -->
