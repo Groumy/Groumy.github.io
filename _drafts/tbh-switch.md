@@ -68,16 +68,17 @@ They were always confused about the relation between the difficulty level and th
 
 # My own needs
 
-So as their GM and and the only RPG Geek at the table, I started to look at different systems. I soon realized that I had to consider my needs too. They were reasons that made me choose the Cypher System some years ago and if I focused only on the needs of my players, 
-
- but I didn't wanted to loose what I _loved_ about the Cypher System. So I kept in mind those point :
+So as their GM and and the only RPG Geek at the table, I started to look at different systems. I soon realized that I had to consider my needs too. They were reasons that made me choose the Cypher System some years ago. So I kept in mind those point :
 * Player facing rolls
 * One stat ennemy
 * One unified action resolution mechanisim
 
 ## Player facing rolls
 
+I love player facing rolls, because I found it easier on me and I have the impression that it empowers the players.
+
+Getting hit by the BBEG 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTI2NjE5MDQwLDE4NjExMTgxMDVdfQ==
+JoaXN0b3J5IjpbLTQ3ODc0NDIzOSwxODYxMTE4MTA1XX0=
 -->
