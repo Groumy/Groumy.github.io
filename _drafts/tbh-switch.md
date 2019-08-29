@@ -48,13 +48,15 @@ With all the character options available through the differents Cyper System pro
 
 So all that lead to decision paralysis at character creation and each tier advancement. 
 
+**They needed less character options.**
+
 ## Character creation
 
 Since most of my players are adult with real life responsabilities to handle, the occasion to actually play the game are limited. 
 
 None of them like the fact that each time we changed campaign, it took a full night to just create the characters.
 
-They wanted a system were creating a new character could be done in minutes, not hours. 
+**They needed a system were creating a new character could be done in minutes, not hours.** 
 
 ## The rules 
 
@@ -62,7 +64,7 @@ Even after playing over a year of Cypher System, none of my player could grasp t
 
 They were always confused about the relation between the difficulty level and the d20 and don't get me started with the difficulty level _negotiation_ or the _stat pool management_. They simply forgot about those rules between sessions.
  
- They needed rules that 
+ **They needed rules that can be learned in minutes and easily remembered.**
 
 # My own needs
 
@@ -74,5 +76,5 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 ## Player facing rolls
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTc1MDg3MTUwNCwxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbMTc4OTM4ODc1LDE4NjExMTgxMDVdfQ==
 -->
