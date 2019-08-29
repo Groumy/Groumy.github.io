@@ -96,9 +96,11 @@ Being able to express NPC and the like as a single number is so freeing. It also
 
 ## One unified action resolution mechanisim
 
-One thing I know I don't is going back to the AD&D ruleset were skills, attribute s
+One thing I know I don't is going back to the AD&D ruleset were skills, attribute tests, saving throws, attack, etc have all their quirks. 
+
+I alway appreciated system that are basically driven simply by Attribute Tests
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTQzNzEyOTUzMCwyNjc4NDUwNDEsMTg2MTEx
+JoaXN0b3J5IjpbLTIwMjAzODU1NiwyNjc4NDUwNDEsMTg2MTEx
 ODEwNV19
 -->
