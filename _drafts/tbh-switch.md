@@ -36,7 +36,7 @@ Because of all that, we play mostly once a month with a varying degree of partic
 
 # My player needs
 
-Based on discussion and observations of their reactions when we discussed
+Based on discussion and observations of their reactions when we discussed changing campaign heres the issues my players had with the Cypher System.
 
 ## Character options
 
@@ -60,9 +60,9 @@ They wanted a system were creating a new character could be done in minutes, not
 
 Even after playing over a year of Cypher System, none of my player could grasp the action resolution mechanisim.
 
-They were always confused about the relation between the difficulty level and the d20 and don't get me started with the difficulty level _negotiation_ or the _stat pool management_.
-
-They simply forgot about those rules between sessions. 
+They were always confused about the relation between the difficulty level and the d20 and don't get me started with the difficulty level _negotiation_ or the _stat pool management_. They simply forgot about those rules between sessions.
+ 
+ They needed rules that 
 
 # My own needs
 
@@ -74,5 +74,5 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 ## Player facing rolls
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE3NjgyNzEyMDAsMTg2MTExODEwNV19
+JoaXN0b3J5IjpbMTc1MDg3MTUwNCwxODYxMTE4MTA1XX0=
 -->
