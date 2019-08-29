@@ -23,7 +23,7 @@ Our group is composed of **Old timers Parents** that **Aren't RPG Geek**
 * **Parents**, most (_6 out of 7 again_) of my players are parents and thus a busy schedule, including me
 * **Aren't RPG Geek**, _none_ of players invest any of their precious time to read about RPG (_not even rules_). The only time they dedicate to RPG is while they are sitting at my table. They _love_ playing, but not _reading_ about RPGs.
 
-Because of all that, we play mostly once a month with a varying degree of participat
+Because of all that, we play mostly once a month with a varying degree of participations. Some are present each time, other have played only two session in over 2 years.
 
 ## Character options
 
@@ -49,8 +49,8 @@ Even after playing over a year of Cypher System, none of my player could grasp t
 
 They were always confused about the relation between the difficulty level and the d20 and don't get me started with the difficulty level _negotiation_ or the _stat pool management_.
 
-With each time 
+With t
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTQwNjM2NDQ1MCwxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbNjE4MzY1ODQsMTg2MTExODEwNV19
 -->
