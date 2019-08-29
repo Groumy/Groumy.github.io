@@ -6,7 +6,7 @@ author: Dominic Richard
 
 ---
 
-With my group, we recently switched from Cypher System to [The Black Hack Second Edition](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition) to handle our RPG cravings. 
+With my group, we recently switched from the [Cypher System](http://cypher-system.com/) to [The Black Hack Second Edition](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition) to handle our RPG cravings. 
 
 We did so for many reasons :
 * [character options](#character-options) were a little bit to heavy for their tastes
@@ -121,7 +121,7 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTMzOTYzMDYzOSwxMDY1MTA2MTY2LDUxNjk4
-ODcxOSwtMjAyMDM4NTU2LDI2Nzg0NTA0MSwxODYxMTE4MTA1XX
-0=
+JoaXN0b3J5IjpbLTE2MDM3NTAyMTQsLTMzOTYzMDYzOSwxMDY1
+MTA2MTY2LDUxNjk4ODcxOSwtMjAyMDM4NTU2LDI2Nzg0NTA0MS
+wxODYxMTE4MTA1XX0=
 -->
