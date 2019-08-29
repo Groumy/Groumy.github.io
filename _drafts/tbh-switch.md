@@ -6,7 +6,7 @@ author: Dominic Richard
 
 ---
 
-With my group of old timers, we recently switched from Cypher System to [The Black Hack Second Edition](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition) to handle our RPG cravings. 
+With my group, we recently switched from Cypher System to [The Black Hack Second Edition](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition) to handle our RPG cravings. 
 
 We did so for many reasons :
 * [character options](#character-options) were a little bit to heavy for their tastes
@@ -104,10 +104,10 @@ I alway appreciated system that are basically driven simply by Attribute Tests a
 
 After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. 
 
-We have now 5 sessions under the belt running Barrowmaze with it and we have only minor issues with it. 
+We have now 5 sessions under the belt running [Barrowmaze Complete](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete) with it and we have only minor issues that can easly be fixed with house rules.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbOTQzODQxOTY3LDEwNjUxMDYxNjYsNTE2OTg4
+JoaXN0b3J5IjpbODAzNTc3ODg2LDEwNjUxMDYxNjYsNTE2OTg4
 NzE5LC0yMDIwMzg1NTYsMjY3ODQ1MDQxLDE4NjExMTgxMDVdfQ
 ==
 -->
