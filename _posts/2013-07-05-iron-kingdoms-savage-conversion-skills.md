@@ -12,6 +12,7 @@ modified_time: '2013-07-05T00:30:02.067-07:00'
 blogger_id: tag:blogger.com,1999:blog-6625729482660748351.post-2681684214380615274
 blogger_orig_url: http://www.groumy.net/2013/07/iron-kingdoms-savage-conversion-skills.html
 ---
+
 In my previous [post]({{ site.baseurl }}{% post_url
 2013-06-28-iron-kingdoms-savage-conversion-stats %}), I talked about
 converting Iron Kingdoms RPG to Savage Worlds, my go to system. I
@@ -163,3 +164,6 @@ table that shows are the mapping is done.
 |Epic|4|d12 + 2|
 That's it for the skills, next up abilities / edges.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc5NjY2Nzk2XX0=
+-->
