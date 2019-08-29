@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Going Black
-date: ''
-author: Dominic Richard
 
 ---
 
@@ -121,7 +119,7 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE2MDM3NTAyMTQsLTMzOTYzMDYzOSwxMDY1
+JoaXN0b3J5IjpbLTE2MTY2NDA1OTEsLTMzOTYzMDYzOSwxMDY1
 MTA2MTY2LDUxNjk4ODcxOSwtMjAyMDM4NTU2LDI2Nzg0NTA0MS
 wxODYxMTE4MTA1XX0=
 -->
