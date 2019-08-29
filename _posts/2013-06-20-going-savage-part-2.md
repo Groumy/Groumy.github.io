@@ -19,7 +19,7 @@ In the first part, I talked why I was looking out for a new system and
 my trials with DnD Next and True20. Has I said, I'm doing that to help
 those of you out there, that are not happy with the current RPG system
 they are currently using, and want to see other stuff.  
-  
+
 Let's recapitulate what I wanted in my new system and let's sees if
 Savage Worlds is up for it:  
   
@@ -142,3 +142,6 @@ Groumy's out.
 
 
 [1]: http://www.peginc.com/product-category/savage-worlds/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY2NjkwMDM2N119
+-->
