@@ -19,8 +19,8 @@ Let me extrapolate, because it might help others who are in the same situation a
 
 Our group is composed of : 
 
-* **Old timers**. Most of my players have over 20 years of playing RPG under their belt
-* **Parents**,
+* **Old timers**, most (_6 out of 7_) of my players have over 20 years of playing RPG under their belt
+* **Parents**, most (_6 out of 7 again_) of my players are parents and thus a busy schedule, including me
 
 
 ## Character options
@@ -50,5 +50,5 @@ They were always confused about the relation between the difficulty level and th
 With each time 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE1MzQ2Njk1MDcsMTg2MTExODEwNV19
+JoaXN0b3J5IjpbLTc2NTIxNjU5NSwxODYxMTE4MTA1XX0=
 -->
