@@ -16,6 +16,24 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+    <style>
+      .site-avatar {
+        float: left;
+        width: 70px;
+        height: 70px;
+        margin-right: 15px;
+
+        @include mobile {
+          float: none;
+          display: block;
+          margin: 0 auto;
+        }
+
+        img {
+          border-radius: 5px;
+        }
+      }
+    </style>
   </head>
   <body>
       <div id="header">
