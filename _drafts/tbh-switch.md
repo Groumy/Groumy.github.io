@@ -19,7 +19,9 @@ Let me extrapolate, because it might help others who are in the same situation a
 
 # Our group
 
-Our group is composed of **Old timers Parents** that **Aren't RPG Geek**
+To describe our group I'm 
+
+Our group is composed of 6 **Old timers Parents** _that_ **Aren't RPG Geek**, my daughter a **Young Teenager** _that_ 
 
 * **Old timers**, most (_7 out of 8_) of my players have over 20 years of playing RPG under their belt
 * **Parents**, most (_7 out of 8 again_) of my players are parents and thus a busy schedule, including me
@@ -65,5 +67,5 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 ## Player facing rolls
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTIwMjExODkxNiwxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbLTgwMjQ3OTU3NywxODYxMTE4MTA1XX0=
 -->
