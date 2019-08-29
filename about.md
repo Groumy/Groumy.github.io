@@ -13,9 +13,7 @@ I'm a RPG geek. I've been playing/mastering RPG for the past 20+ years.
 
 I started in the hobby with AD&D, than Shadowrun, Vampire: The Masquerade, Savage Worlds, Mutants & Masterminds, Cortex Plus, No Thank You Evil, Numenera, Cypher System, The Black Hack, Hero Kids and other I have probably forgot about.
 
-I really love how, the Cypher System provides a great balance between simple rules, lazy GMing and heavy character options, but some of my players didn't rellay appreciate the system.
-
-So for now we play The Black Hack, on my side of the screen it's simple, on their side of the screen
+I really love how, the Cypher System provides a great balance between simple rules, lazy GMing and heavy character options, but some of my players didn't rellay appreciate the system. Character creation simply offerred too many options.
 
 I don't have that much time to play though, so I'm also an avid RPG reader. Yup, I love to read about new RPGs and inspire myself of their rules and settings. 
 
@@ -29,7 +27,7 @@ I'm an IT professional, with more than 15 years of experience in develeopment, s
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[groumy@gmail.com](mailto:groumy@gmail.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ4OTI5MDddfQ==
+eyJoaXN0b3J5IjpbLTcxODUxMzk2NF19
 -->
