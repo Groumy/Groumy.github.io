@@ -68,13 +68,16 @@ They were always confused about the relation between the difficulty level and th
 
 # My own needs
 
-So as their GM and and the only RPG Geek at the table, I started to look at different systems, but I didn't wanted to loose what I _loved_ about the Cypher System. So I kept in mind those point :
+So as their GM and and the only RPG Geek at the table, I started to look at different systems. I soon realized that I had to consider my needs too. They were reasons that made me choose the Cypher System some years ago and if I focused only on the needs of my players, 
+
+ but I didn't wanted to loose what I _loved_ about the Cypher System. So I kept in mind those point :
 * Player facing rolls
 * One stat ennemy
 * One unified action resolution mechanisim
 
 ## Player facing rolls
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTc4OTM4ODc1LDE4NjExMTgxMDVdfQ==
+JoaXN0b3J5IjpbLTI2NjE5MDQwLDE4NjExMTgxMDVdfQ==
 -->
