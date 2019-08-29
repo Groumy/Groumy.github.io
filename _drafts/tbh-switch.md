@@ -9,9 +9,9 @@ author: Dominic Richard
 With my group of old timers, we recently switched from Cypher System to [The Black Hack Second Edition](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition) to handle our RPG cravings. 
 
 We did so for many reasons :
-* [character options were a little bit to heavy for their tastes
-* character creation tooked too much time
-* they had a hard time to remember the rules
+* [character options](#character-options) were a little bit to heavy for their tastes
+* [character creation](#character-creation) tooked too much time
+* they had a hard time to remember [the rules](#the-rules)
 
 Let me extrapolate, because it might help others who are in the same situation
 
@@ -34,7 +34,11 @@ None of them like the fact that each time we changed campaign, it took a full ni
 They wanted a system were creating a new character could be done in minutes, not hours. 
 
 ## The rules 
+
+Even after playing over a year of Cypher System, none of my player could grasp the action resolution mechanisim.
+
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE2MjQ5MDU0MjksMTg2MTExODEwNV19
+JoaXN0b3J5IjpbLTU5MDQ4MzIwLDE4NjExMTgxMDVdfQ==
 -->
