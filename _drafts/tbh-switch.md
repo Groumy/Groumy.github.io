@@ -15,8 +15,9 @@ We did so for many reasons :
 
 Let me extrapolate, because it might help others who are in the same situation and lets start by describing the group.
 
-## Our group
+# Our group
 
+To be able to understand the decision, you have to 
 Our group is composed of **Old timers Parents** that **Aren't RPG Geek**
 
 * **Old timers**, most (_6 out of 7_) of my players have over 20 years of playing RPG under their belt
@@ -51,10 +52,10 @@ They were always confused about the relation between the difficulty level and th
 
 They simply forgot about those rules between sessions. 
 
-## The fix
+## My own needs
 
-So as their GM and an 
+So as their GM and and the only RPG Geek at the table, I started to look at different systems, but I didn't wanted to loose what I _loved_ about the Cypher System
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE2NjQxMzAwNjEsMTg2MTExODEwNV19
+JoaXN0b3J5IjpbMTIyNjA2ODM0MiwxODYxMTE4MTA1XX0=
 -->
