@@ -103,8 +103,11 @@ I alway appreciated system that are basically driven simply by Attribute Tests a
 # The verdict
 
 After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. 
+
+We have now 5 sessions under the belt running Barrowmaze with it and we have only minor issues with it. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTA2NTEwNjE2Niw1MTY5ODg3MTksLTIwMjAz
-ODU1NiwyNjc4NDUwNDEsMTg2MTExODEwNV19
+JoaXN0b3J5IjpbOTQzODQxOTY3LDEwNjUxMDYxNjYsNTE2OTg4
+NzE5LC0yMDIwMzg1NTYsMjY3ODQ1MDQxLDE4NjExMTgxMDVdfQ
+==
 -->
