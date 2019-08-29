@@ -106,12 +106,16 @@ After some searching I stumbled on The Black Hack. Put simply it checked all the
 
 We have now 5 sessions under the belt running [Barrowmaze Complete](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete) with it and we have only minor issues that can easly be fixed with house rules.
 
-All the player stated how much simpler this system was, we no longer have questions about how to resolve actions or anything.
+All the player stated how much simpler this system was, we no longer have questions about how to resolve actions or anything. The mood ligthened up a bit also and everybody is starting to have more fun.
 
-In fact, we even expanded our group since the switch. 
+The first session, it tooked maybe 30 minutes to explains the rules and create characters. We welcome back 
+
+
+
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTI2NDczNTY5OCwxMDY1MTA2MTY2LDUxNjk4
+JoaXN0b3J5IjpbMTg4NzgzNTI1MiwxMDY1MTA2MTY2LDUxNjk4
 ODcxOSwtMjAyMDM4NTU2LDI2Nzg0NTA0MSwxODYxMTE4MTA1XX
 0=
 -->
