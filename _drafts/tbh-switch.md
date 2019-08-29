@@ -27,8 +27,12 @@ So all that lead to decision paralysis at character creation and each tier advan
 
 ## Character creation
 
-Since most of my players are adult with real life responsabilities to handle
+Since most of my players are adult with real life responsabilities to handle, the occasion to actually play the game are limited. 
+
+None of them like the fact that each time we changed campaign, it took a full night to just create the characters.
+
+They wanted a system were creating a new character could be done in minutes, not hours. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTM2MDMyNzI3NiwxODYxMTE4MTA1XX0=
+JoaXN0b3J5IjpbLTE5OTY3MzY5NjIsMTg2MTExODEwNV19
 -->
