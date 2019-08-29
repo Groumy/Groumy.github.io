@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a RPG geek. I've been playing/mastering RPG for the past 25 years.
+I'm a RPG geek. I've been playing/mastering RPG for the past 20+ years.
 
 
 ### More Information
@@ -28,3 +28,6 @@ I'm an IT professional, with more than 15 years of experience in develeopment, s
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAyNzA1ODU3MF19
+-->
