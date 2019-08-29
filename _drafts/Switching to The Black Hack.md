@@ -1,7 +1,13 @@
+---
+layout: post
+title: Going
+date: ''
+author: Dominic Richard
 
-
+---
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
+JoaXN0b3J5IjpbMTc5MzMyNDk1MF19
 -->
