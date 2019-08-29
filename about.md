@@ -11,7 +11,7 @@ I'm a RPG geek. I've been playing/mastering RPG for the past 20+ years.
 
 #### My RPG curriculum
 
-I started in the hobby with AD&D, than Shadowrun, Vampire: The Masquerade, Savage Worlds, Mutants & Masterminds, Cortex Plus, No Thank You Evil, Numenera, Cypher System and other I have probably forgot about.
+I started in the hobby with AD&D, than Shadowrun, Vampire: The Masquerade, Savage Worlds, Mutants & Masterminds, Cortex Plus, No Thank You Evil, Numenera, Cypher System, The Black Hack, Hero Kids and other I have probably forgot about.
 
 Right now, my attention is geared toward Cypher System because it provides a great balance between simple rules, lazy GMing and heavy character options.
 
@@ -29,5 +29,5 @@ I'm an IT professional, with more than 15 years of experience in develeopment, s
 
 [email@domain.com](mailto:email@domain.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzA1ODU3MF19
+eyJoaXN0b3J5IjpbMTYwOTUyNDY0OF19
 -->
