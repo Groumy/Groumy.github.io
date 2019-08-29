@@ -49,8 +49,12 @@ Even after playing over a year of Cypher System, none of my player could grasp t
 
 They were always confused about the relation between the difficulty level and the d20 and don't get me started with the difficulty level _negotiation_ or the _stat pool management_.
 
-With t
+They simply forgot about those rules between sessions. 
+
+## The fix
+
+So as their GM and an 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbNjE4MzY1ODQsMTg2MTExODEwNV19
+JoaXN0b3J5IjpbLTE2NjQxMzAwNjEsMTg2MTExODEwNV19
 -->
