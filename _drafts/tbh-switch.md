@@ -93,7 +93,12 @@ One thing I _loved_ about the Cypher System was to be able to simply express ene
 Back when we played DND 4th I hated to have to spend so much time trying to balance out encounter, read monsters stat blocks, reference those blocks in game, etc.
 
 Being able to express NPC and the like as a single number is so freeing. It also facilitate improvisation at the table. 
+
+## One unified action resolution mechanisim
+
+One thing I know I don't is going back to the AD&D ruleset were skills, attribute s
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMjY3ODQ1MDQxLDE4NjExMTgxMDVdfQ==
+JoaXN0b3J5IjpbLTQzNzEyOTUzMCwyNjc4NDUwNDEsMTg2MTEx
+ODEwNV19
 -->
