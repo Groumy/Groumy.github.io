@@ -112,14 +112,16 @@ All the player stated how much simpler this system was, we no longer have questi
 
 When group member that weren't there on the first session showed up we were able to explain the rules and create that character in under 15 minutes. 
 
-Since we made the switch we even welcomed two new recruits. My wife and 
+Since we made the switch we even welcomed two new recruits. My wife and the significant other of one of the player. Those two were able to play fast and grasp the system really well even if they are new to the hobby.
+
+We might still my on the honeymoon per
 
 
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMjE0MjkyODA4OSwxMDY1MTA2MTY2LDUxNjk4
-ODcxOSwtMjAyMDM4NTU2LDI2Nzg0NTA0MSwxODYxMTE4MTA1XX
-0=
+JoaXN0b3J5IjpbNjgxMTE0ODY4LDEwNjUxMDYxNjYsNTE2OTg4
+NzE5LC0yMDIwMzg1NTYsMjY3ODQ1MDQxLDE4NjExMTgxMDVdfQ
+==
 -->
