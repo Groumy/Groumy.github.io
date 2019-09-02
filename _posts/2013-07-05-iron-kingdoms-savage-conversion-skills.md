@@ -3,6 +3,7 @@ layout: post
 title: Iron Kingdoms Savage Conversion - Skills
 date: '2013-07-05T00:30:00.000-07:00'
 author: Dominic Richard
+categories: tinkers
 tags:
 - Iron Kingdoms
 - RPG
@@ -165,5 +166,5 @@ table that shows are the mapping is done.
 That's it for the skills, next up abilities / edges.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MjIyODA0XX0=
+eyJoaXN0b3J5IjpbLTEzNTYxMTczNThdfQ==
 -->
