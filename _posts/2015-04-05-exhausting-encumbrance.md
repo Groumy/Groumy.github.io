@@ -3,7 +3,7 @@ layout: post
 title: Exhausting Encumbrance
 date: '2015-04-05T11:58:00.000-07:00'
 author: Dominic Richard
-categories: tinkers
+categories: Tinkers
 tags:
 - encumbrance
 - DND 5e
@@ -248,5 +248,6 @@ simple way to handle other things that would be exhausting, like sleep
 deprivation for example.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNDgyMDE0LDU4MjYwMjIzNl19
+eyJoaXN0b3J5IjpbLTU2MDM2MDM4Niw0NjE0ODIwMTQsNTgyNj
+AyMjM2XX0=
 -->
