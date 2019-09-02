@@ -3,6 +3,7 @@ layout: post
 title: Exhausting Encumbrance
 date: '2015-04-05T11:58:00.000-07:00'
 author: Dominic Richard
+categories: 
 tags:
 - encumbrance
 - DND 5e
@@ -246,3 +247,6 @@ With that sub-system ready, we now have a
 simple way to handle other things that would be exhausting, like sleep
 deprivation for example.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTgyNjAyMjM2XX0=
+-->
