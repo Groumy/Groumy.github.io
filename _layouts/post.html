@@ -25,6 +25,19 @@ layout: default
     {% unless forloop.last %},&nbsp;{% endunless %}
     {% endfor %}
   </div>
+  
+  <div class="post-tags">
+    {% if post %}
+      {% assign tags = post.tags %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+    <b>Tags&nbsp;:&nbsp;</b>
+    {% for tag in tags %}
+      <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+    {% unless forloop.last %},&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
 
   {% include disqus.html %}
 </article>
