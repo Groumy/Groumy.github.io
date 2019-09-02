@@ -14,11 +14,11 @@ It took time though to find a proper markdown editor that would work on my phone
 
 Now that I've found my Markdown editor, imported me previous blog posts, finished setting up [Categories](/categories) and [Tags](/tags) pages and adjusting the layout of this blog, I'm ready to start writing again. Don't expect new posts every day, but I every few weeks is probable.
 
-Speaking of categories, I'm planning to use a few. 
+Speaking of categories, I'm planning to use a few :
 * [**Blog-Meta**](/categories/#Blog-Meta] : For all posts relating to the blog management in itself.
 * [**Tinkers**](/categories/#Tinkers) : For all posts about house rules and tinkering with RPGs systems.
-* [**Play-Reports**
+* [**Play-Reports**](/categories/#Play-Reports) : For all posts about what's actually going on at my table.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDQ4MTMyNSwtMTc3OTE4NDA2LC0xMD
-EwMDAxMDA4XX0=
+eyJoaXN0b3J5IjpbODQyNTI3MDY3LC0xNzc5MTg0MDYsLTEwMT
+AwMDEwMDhdfQ==
 -->
