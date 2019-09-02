@@ -3,7 +3,7 @@ layout: post
 title: Iron Kingdom Savage Conversion - Abilities
 date: '2013-07-12T06:24:00.000-07:00'
 author: Dominic Richard
-categories: tinkers
+categories: Tinkers
 tags:
 - Iron Kingdoms
 - RPG
@@ -198,5 +198,6 @@ Some Iron Kingdoms Abilities are mapped as new Edges, these new Edges
 will be the subject of an other post.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMwNzAxNTNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTA1ODUxOTMsLTEyNzMwNzAxNTNdfQ
+==
 -->
