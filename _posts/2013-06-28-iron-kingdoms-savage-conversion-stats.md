@@ -3,7 +3,8 @@ layout: post
 title: Iron Kingdoms Savage Conversion - Stats
 date: '2013-06-28T01:00:00.000-07:00'
 author: Dominic Richard
-categories: tinkers
+categories: 
+- Tinkers
 tags:
 - Iron Kingdoms
 - RPG
@@ -123,5 +124,5 @@ In my next post, I'll talk about skills from Iron Kingdoms to Savage
 Worlds.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjUzNDddfQ==
+eyJoaXN0b3J5IjpbMTExNzUyMDgyNCwtNzUyNTM0N119
 -->
