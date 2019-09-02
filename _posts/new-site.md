@@ -14,7 +14,8 @@ It took time though to find a proper markdown editor that would work on my phone
 
 Now that I've found my Markdown editor, imported me previous blog posts, finished setting up [Categories](/categories) and [Tags](/tags) pages and adjusting the layout of this blog, I'm ready to start writing again. Don't expect new posts every day, but I every few weeks is probable.
 
-Speaking of categories, 
+Speaking of categories, I'm planning to use a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkxODQwNiwtMTAxMDAwMTAwOF19
+eyJoaXN0b3J5IjpbLTIwNzQzNjE0MzUsLTE3NzkxODQwNiwtMT
+AxMDAwMTAwOF19
 -->
