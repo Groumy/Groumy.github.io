@@ -6,8 +6,8 @@ Posts about the blog future, features, etc
 ## Play report
 Posts about sessions reports
 
-## Thinkers
+## Tinkers
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDE0MDcyNF19
+eyJoaXN0b3J5IjpbMTg5ODg2NTEwOF19
 -->
