@@ -16,8 +16,9 @@ Now that I've found my Markdown editor, imported me previous blog posts, finishe
 
 Speaking of categories, I'm planning to use a few. 
 * [**Blog-Meta**](/categories/#Blog-Meta] : For all posts relating to the blog management in itself.
-* [**
+* [**Tinkers**](/categories/#Tinkers) : For all posts about house rules and tinkering with RPGs systems.
+* [**Play-Reports**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTg5MjU5MiwtMTc3OTE4NDA2LC0xMD
+eyJoaXN0b3J5IjpbLTU1NDQ4MTMyNSwtMTc3OTE4NDA2LC0xMD
 EwMDAxMDA4XX0=
 -->
