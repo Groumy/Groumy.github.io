@@ -10,9 +10,9 @@ I was primarily because I stopped registering my custom domain (_groumy.net_) an
 
 I choose to use [Jekyll hosted on github pages](https://jekyllrb.com/docs/github-pages/) basically because I love to work in [Markdown](https://en.wikipedia.org/wiki/Markdown). As a [Ruby](https://www.ruby-lang.org/en/) developpemer I know I'll be able to tinker with the layout and everything.
 
-It took time though to find a proper markdown editor that would work on my phone, my personnal compuler and my professional one (_we have some heavy limitation on what we can run and access_). Now that I fell in love with [StackEdit](https://stackedit.io/) I feel confident I'll be able to provides new posts. 
+It took time though to find a proper markdown editor that would work on my phone, my personnal compuler and my professional one (_we have some heavy limitation on what we can run and access_). For the curious, [StackEdit](https://stackedit.io/) is the app that's working for me as of now
 
-Now I've finished setting up [Categories](/categories) and [Tags](/tags) pag
+Now that I've found my Markdown editor, finished setting up [Categories](/categories) and [Tags](/tags) pages and adjusting the layout of this blog, I'm ready to start writing again.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjc1NTk0NiwtMTAxMDAwMTAwOF19
+eyJoaXN0b3J5IjpbLTEwNjE3NjgyLC0xMDEwMDAxMDA4XX0=
 -->
