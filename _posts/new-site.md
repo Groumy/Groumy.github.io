@@ -21,7 +21,8 @@ Speaking of categories, I'm planning to use a few :
 * [**Blog-Meta**](/categories/#Blog-Meta] : For all posts relating to the blog management in itself.
 * [**Tinkers**](/categories/#Tinkers) : For all posts about house rules and tinkering with RPGs systems.
 * [**Play-Reports**](/categories/#Play-Reports) : For all posts about what's actually going on at my table.
+* [**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTA2NzA0MSw4NDI1MjcwNjcsLTE3Nz
-kxODQwNiwtMTAxMDAwMTAwOF19
+eyJoaXN0b3J5IjpbLTkzNjkzNzI4LDg0MjUyNzA2NywtMTc3OT
+E4NDA2LC0xMDEwMDAxMDA4XX0=
 -->
