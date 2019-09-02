@@ -3,7 +3,7 @@ layout: post
 title: Iron Kingdom Savage Conversion - The rest
 date: '2015-01-26T09:23:00.001-08:00'
 author: Dominic Richard
-categories: tinkers
+categories: Tinkers
 tags:
 - Iron Kingdoms
 - RPG
@@ -165,5 +165,5 @@ In Iron Kingdoms RPG, published by Privateer Press, there are two specific arcan
 **Requirements :** Arcane Background (Focusing)Warcasters can bound with mechanikal devices, including steamjack. Depending of the nature of the mechanikal device, the warcaster can use the device in special ways. The bouding process requires ten minutes once, and a warcaster can change it's bounds at any time by bounding to an other device. A single device can't be bound to more than one warcaster. The warcaster as a limit of one bound. That limit can be change with edges.While bounded with a mechanikal weapon a warcaster can uses bennies to reroll damages.While bounded with a mechanikal armor a warcaster can generate a protective field that add two to the toughness.While bounded with a steamjack, a warcaster receive the same benefits as the 'Jack Marshal edge with the bounded 'jack. But, the warcaster doesn’t need to talk to give out orders and doesn't need to know the cortex language.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA3ODI1NTFdfQ==
+eyJoaXN0b3J5IjpbNDAyMTM5NjEsLTE4MzA3ODI1NTFdfQ==
 -->
