@@ -9,9 +9,9 @@ You may have noticed that I imported a couple on month ago the stuff of my old b
 I was primarily because I stopped registering my custom domain (_groumy.net_) and wanted to be able to work on draft posts from my phone. As a father of five children, I realised that I had less time to sit down and write ... go figure why ! ;) 
 
 > ##### Side note
-> It took me more than five setting just to write this draft as one of the children always 
+> It took me more than five sitting just to write the initial draft as one of the children always needed something.
 
-I choose to use [Jekyll hosted on github pages](https://jekyllrb.com/docs/github-pages/) basically because I love to work in [Markdown](https://en.wikipedia.org/wiki/Markdown). As a [Ruby](https://www.ruby-lang.org/en/) developpemer I know I'll be able to tinker with the layout and everything.
+I chose to use [Jekyll hosted on github pages](https://jekyllrb.com/docs/github-pages/)  basically because I love to work in [Markdown](https://en.wikipedia.org/wiki/Markdown). As a [Ruby](https://www.ruby-lang.org/en/) developpemer I know I'll be able to tinker with the layout and everything.
 
 It took time though to find a proper markdown editor that would work on my phone, my personnal compuler and my professional one (_we have some heavy limitation on what we can run and access_). For the curious, [StackEdit](https://stackedit.io/) is the app that's working for me.
 
@@ -22,6 +22,6 @@ Speaking of categories, I'm planning to use a few :
 * [**Tinkers**](/categories/#Tinkers) : For all posts about house rules and tinkering with RPGs systems.
 * [**Play-Reports**](/categories/#Play-Reports) : For all posts about what's actually going on at my table.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTgxNTQzOCw4NDI1MjcwNjcsLTE3Nz
+eyJoaXN0b3J5IjpbMTM0MTA2NzA0MSw4NDI1MjcwNjcsLTE3Nz
 kxODQwNiwtMTAxMDAwMTAwOF19
 -->
