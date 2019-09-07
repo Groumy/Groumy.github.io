@@ -76,10 +76,10 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 I love player facing rolls, because I found it easier on me and I have the impression that it empowers the players.
 
 There's a difference between getting hit by the BBEG because :
-* The player rolled poorly on my dodge attempt; vs
-* the GM said so (_rolling dice behind the screen dow
+* I (_a player_) rolled poorly on my dodge attempt; vs
+* the GM said so (_rolling dice behind the screen doesn't matter for the players and rolling in the open doesn't either unless the players have access to the NPS stat blocks ..._)
 
-With player facing rolls, there is simply no bullshit, no fudging dice, no GM fiat.
+With players making all the rolls, there is simply no bullshit, no fudging dice, no GM fiat.
 
 ## One stat enemy
 
@@ -116,5 +116,5 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTAyNzMzMzc5MywtMTYxNjY0MDU5MV19
+JoaXN0b3J5IjpbMTUwNjk0MzE3MSwtMTYxNjY0MDU5MV19
 -->
