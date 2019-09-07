@@ -83,7 +83,7 @@ With players making all the rolls, there is simply no bullshit, no fudging dice,
 
 ## One stat enemy
 
-One thing I _loved_ about the Cypher System was to be able to simply express enemy, _and any challenge really_, as a single number in my notes.
+One thing I _loved_ about the Cypher System (_and other RPGs I have contemplated over the years_) was to be able to simply express enemy, _and any challenge really_, as a single number in my notes.
 
 Back when we played DND 4th I hated to have to spend so much time trying to balance out encounter, read monsters stat blocks, reference those blocks in game, etc.
 
@@ -91,7 +91,7 @@ Being able to express NPC and the like as a single number is so freeing. It also
 
 ## One unified action resolution mechanisim
 
-One thing I know I don't is going back to the AD&D ruleset were skills, attribute tests, saving throws, attack, etc have all their quirks. 
+One thing I know I don't love is  going back to the AD&D ruleset were skills, attribute tests, saving throws, attack, etc have all their quirks. 
 
 I alway appreciated system that are basically driven simply by Attribute Tests and other subsystem simply modify the Attribute Test, like Cypher System.
 
@@ -116,5 +116,5 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTUwNjk0MzE3MSwtMTYxNjY0MDU5MV19
+JoaXN0b3J5IjpbMTgwMzMxNzQxMSwtMTYxNjY0MDU5MV19
 -->
