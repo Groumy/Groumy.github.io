@@ -76,11 +76,8 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 I love player facing rolls, because I found it easier on me and I have the impression that it empowers the players.
 
 There's a difference between getting hit by the BBEG because :
-* I rolled poorly on my dodge attempt
-
-vs
-
-* the GM said so
+* The player rolled poorly on my dodge attempt; vs
+* the GM said so (_rolling dice behind the screen dow
 
 With player facing rolls, there is simply no bullshit, no fudging dice, no GM fiat.
 
@@ -119,5 +116,5 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE2MTY2NDA1OTFdfQ==
+JoaXN0b3J5IjpbMTAyNzMzMzc5MywtMTYxNjY0MDU5MV19
 -->
