@@ -42,11 +42,11 @@ Let's discuss each one in length.
 
 The Cypher System is _full_ of character options. At first, when we switched to this system, I thought that my players would love this.  With the combinaisons of the _Descriptors_, _Types_ and _Foci_ you can create a great deal of characters concept.
 
-The issue was that none of my player had time/interest in their personal life to sitdown and read through all thoses options to create a character.  And it was worst if they already had a character concept in mind.
-
 With all the character options available through the differents Cyper System products, it appears that finding the proper combinaison of _Descriptor_, _Type_ and _Focus_ to actually create the character you wanted becomes quite difficult.
 
-It seems easier to read the options and use them as an inspiration to create a charc
+It seems easier to read the options and use them as an inspiration to create a unique character.
+
+And it appears that none of my player had time/interest in their personal life to sitdown and read through all thoses options to create a character.  And as sea
 
 So all that lead to decision paralysis at character creation and each tier advancement. 
 
@@ -120,6 +120,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTU1NDMwNjg1MywtMjQwNzMwNDQsLTE2MTY2
-NDA1OTFdfQ==
+JoaXN0b3J5IjpbLTE4NjcyMDcwNjIsLTI0MDczMDQ0LC0xNjE2
+NjQwNTkxXX0=
 -->
