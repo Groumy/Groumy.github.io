@@ -33,7 +33,7 @@ Because of all that, we play mostly once a month with a varying degree of partic
 Based on discussion and observations of their reactions when we discussed changing campaign here's the issues my players had with the Cypher System :
 
 * [character options](#character-options) were a little bit to heavy for their tastes
-* [character creation](#character-creation) tooked too much time (_probably related to the number of character options and decision paralysis_)
+* [character creation](#character-creation) tooked too much time
 * they had a hard time to remember [the rules](#the-rules)
 
 Let's discuss each one in length.
@@ -74,7 +74,9 @@ They were always confused about the relation between the difficulty level and th
 
 # My own needs
 
-So as their GM and and the only RPG Geek at the table, I started to look at different systems. I soon realized that I had to consider my needs too. They were reasons that made me choose the Cypher System some years ago. So I kept in mind those point :
+So as their GM and and the only RPG Geek at the table, I started to look at different systems. I soon realized that I had to consider my needs too. 
+
+The were reasons that made me choose the Cypher System some years ago. So I kept in mind those point :
 * Player facing rolls
 * One stat ennemy
 * One unified action resolution mechanisim
@@ -124,6 +126,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTEwOTYwNzAyOCwyODg2MDAwMjAsLTI0MDcz
-MDQ0LC0xNjE2NjQwNTkxXX0=
+JoaXN0b3J5IjpbMzY3ODE2MzUyLDI4ODYwMDAyMCwtMjQwNzMw
+NDQsLTE2MTY2NDA1OTFdfQ==
 -->
