@@ -113,7 +113,7 @@ Some system that uses skill as the base of their main resolution mechanism. but 
 
 # The verdict
 
-After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. But for those that do not know about that game system let's look into ot
+After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. But for those that do not know about that game system let's look into it.
 
 We have now 5 sessions under the belt running [Barrowmaze Complete](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete) with it and we have only minor issues that can easly be fixed with house rules. 
 
@@ -132,7 +132,7 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE5MjEwMDQyNSwtNjE0OTEzMjcwLDYzNDAz
+JoaXN0b3J5IjpbLTU4NzgyNDQzNywtNjE0OTEzMjcwLDYzNDAz
 OTYxNiwyODg2MDAwMjAsLTI0MDczMDQ0LC0xNjE2NjQwNTkxXX
 0=
 -->
