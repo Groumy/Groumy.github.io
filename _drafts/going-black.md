@@ -79,11 +79,11 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 There were reasons that made me choose the Cypher System some years ago. So I kept in mind those point :
 * [Player facing rolls](#player-facing-rolls)
 * [One stat ennemies](#one-stat-ennemies)
-* One unified action resolution mechanisim
+* [A unified action resolution mechanisim](#unifed-action-resolution-mechanisim)
 
 ## Player facing rolls
 
-I love player facing rolls, because I found it easier on me and I have the impression that it empowers the players.
+I love player facing rolls, because I found it easier on me to improvise  and I have the impression that it empowers the players.
 
 There's a difference between getting hit by the BBEG because :
 * I (_a player_) rolled poorly on my dodge attempt; vs
@@ -99,7 +99,7 @@ Back when we played DND 4th I hated to have to spend so much time trying to bala
 
 Being able to express NPC and the like as a single number is so freeing. It also facilitate improvisation at the table. 
 
-## One unified action resolution mechanisim
+## Unified action resolution mechanisim
 
 One thing I know I don't love is evry action having it's own set of rules. Yes, I'm looking at you AD&D.
 
@@ -126,6 +126,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTQyMjc2MDkwMiwyODg2MDAwMjAsLTI0MDcz
+JoaXN0b3J5IjpbMTM2NTA5NDE0MCwyODg2MDAwMjAsLTI0MDcz
 MDQ0LC0xNjE2NjQwNTkxXX0=
 -->
