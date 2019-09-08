@@ -54,7 +54,7 @@ But when we switched to playing a Shadowrun inspired campaign with the Cypher Sy
 
 So all that lead to decision paralysis at character creation and each tier advancement after that.
 
-**They needed less character options.**
+The conclusion was that **They needed less characters tweaking and more pregen concepts**
 
 ## Character creation
 
@@ -124,6 +124,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE4MDA0NjkyNTUsMjg4NjAwMDIwLC0yNDA3
+JoaXN0b3J5IjpbLTEwNzI5OTQwOTQsMjg4NjAwMDIwLC0yNDA3
 MzA0NCwtMTYxNjY0MDU5MV19
 -->
