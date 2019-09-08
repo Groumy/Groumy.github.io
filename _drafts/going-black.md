@@ -102,7 +102,7 @@ Being able to express NPC and the like as a single number is so freeing. It also
 
 ## Unified action resolution mechanisim
 
-One thing I know I don't love is every action having it's own set of rules. Yes, I'm looking at you AD&D.
+One thing I know I don't love is when every action have it's own set of rules. Yes, I'm looking at you AD&D. It's simply not elegant.
 
 I alway appreciated system that are basically driven simply by Attribute Tests and other subsystem simply modify the Attribute Test, like Cypher System.
 
@@ -127,6 +127,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTg3NDk5NzQ0NywyODg2MDAwMjAsLTI0MDcz
+JoaXN0b3J5IjpbLTg5OTA3NDE4NiwyODg2MDAwMjAsLTI0MDcz
 MDQ0LC0xNjE2NjQwNTkxXX0=
 -->
