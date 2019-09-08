@@ -106,7 +106,7 @@ One thing I know I don't love is when every action have it's own set of rules. Y
 
 I alway appreciated system that are basically driven simply by Attribute Tests and other subsystem simply modify the Attribute Test, like Cypher System.
 
-Some system that uses skill as their base of their main resolution mechanism. They all have the same issues :
+Some system that uses skill as the base of their main resolution mechanism. but they always have some of these issues :
 * They a long list of skills that is hard to remember
 * They always have some skills missing, it's virtually impossible to have a really complete list
 * They usually have some exceptionnal rule on what to do when there's no skills that applies
@@ -132,6 +132,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTQ4ODExNzk2OSw2MzQwMzk2MTYsMjg4NjAw
+JoaXN0b3J5IjpbLTYxNDkxMzI3MCw2MzQwMzk2MTYsMjg4NjAw
 MDIwLC0yNDA3MzA0NCwtMTYxNjY0MDU5MV19
 -->
