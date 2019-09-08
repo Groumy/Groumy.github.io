@@ -48,7 +48,9 @@ It seems easier to read the options and use them as an inspiration to create a u
 
 And it appears that none of my player had time/interest in their personal life to sitdown and read through all thoses options to create a character.  And as seasoned players they usually were able to came up with a concept base on know tropes in seconds.
 
-We had some success when we played a _Numenera_ campaign around the Jade Colossus. As our first game with the system and the setting we used pregenerated characters. So they took what was available. But when we switched to playing a Shadowrun inspired campaign with the Cypher System. We didn't had any pregenerated characters and my players all had concept for their characters.
+We had some success when we played a _Numenera_ campaign around the Jade Colossus. As our first game with the system and the setting we used pregenerated characters. So they took what was available. 
+
+But when we switched to playing a Shadowrun inspired campaign with the Cypher System. We didn't had any pregenerated characters and my players all had concept for their characters.
 
 So all that lead to decision paralysis at character creation and each tier advancement after that.
 
@@ -122,6 +124,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbOTM2NzU0NTg5LDI4ODYwMDAyMCwtMjQwNzMw
-NDQsLTE2MTY2NDA1OTFdfQ==
+JoaXN0b3J5IjpbLTE4MDA0NjkyNTUsMjg4NjAwMDIwLC0yNDA3
+MzA0NCwtMTYxNjY0MDU5MV19
 -->
