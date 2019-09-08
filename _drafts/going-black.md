@@ -109,11 +109,11 @@ I alway appreciated system that are basically driven simply by Attribute Tests a
 Some system that uses skill as the base of their main resolution mechanism. but they always have some of these issues :
 * They a long list of skills that is hard to remember
 * They always have some skills missing, it's virtually impossible to have a really complete list
-* They usually have some exceptionnal rule on what to do when there's no skills that applies
+* They usually have some exceptionnal rule on what to do when there's no skills that applies to an attempted action
 
 # The verdict
 
-After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. 
+After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. But for those that do not know about that game system let's look into ot
 
 We have now 5 sessions under the belt running [Barrowmaze Complete](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete) with it and we have only minor issues that can easly be fixed with house rules. 
 
@@ -132,6 +132,7 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTYxNDkxMzI3MCw2MzQwMzk2MTYsMjg4NjAw
-MDIwLC0yNDA3MzA0NCwtMTYxNjY0MDU5MV19
+JoaXN0b3J5IjpbLTE5MjEwMDQyNSwtNjE0OTEzMjcwLDYzNDAz
+OTYxNiwyODg2MDAwMjAsLTI0MDczMDQ0LC0xNjE2NjQwNTkxXX
+0=
 -->
