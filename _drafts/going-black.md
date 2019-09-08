@@ -106,6 +106,9 @@ One thing I know I don't love is when every action have it's own set of rules. Y
 
 I alway appreciated system that are basically driven simply by Attribute Tests and other subsystem simply modify the Attribute Test, like Cypher System.
 
+Some system that uses skill as the base of their main resolution mechanism. They all have the same issues :
+* They 
+
 # The verdict
 
 After some searching I stumbled on The Black Hack. Put simply it checked all the boxes for our group. 
@@ -127,6 +130,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTg5OTA3NDE4NiwyODg2MDAwMjAsLTI0MDcz
+JoaXN0b3J5IjpbMTY2NTQ5NzM5MiwyODg2MDAwMjAsLTI0MDcz
 MDQ0LC0xNjE2NjQwNTkxXX0=
 -->
