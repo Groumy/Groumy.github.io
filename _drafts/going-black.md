@@ -79,7 +79,7 @@ So as their GM and and the only RPG Geek at the table, I started to look at diff
 There were reasons that made me choose the Cypher System some years ago. So I kept in mind those point :
 * [Player facing rolls](#player-facing-rolls)
 * [One stat ennemies](#one-stat-ennemies)
-* [A unified action resolution mechanisim](#unifed-action-resolution-mechanisim)
+* [Based on attribute tests](#based-on-attribute-tests)
 
 ## Player facing rolls
 
@@ -100,9 +100,9 @@ Back when we played DND 4th I hated to have to spend so much time trying to bala
 
 Being able to express NPC and the like as a single number is so freeing. It also facilitate improvisation at the table. 
 
-## Attribute tests
+## Based on attribute tests
 
-One thing I know I don't love is when every action have it's own set of rules. Yes, I'm looking at you AD&D. It's simply not elegant.
+One thing I know I don't love is when every action have it's own set of rules. Yes, I'm looking at you AD&D. It's simply not elegant and I 
 
 I alway appreciated system that are basically driven simply by Attribute Tests and other subsystem simply modify the Attribute Test, like Cypher System.
 
@@ -132,6 +132,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTQ2OTAzOTg0MCwyODg2MDAwMjAsLTI0MDcz
-MDQ0LC0xNjE2NjQwNTkxXX0=
+JoaXN0b3J5IjpbNjM0MDM5NjE2LDI4ODYwMDAyMCwtMjQwNzMw
+NDQsLTE2MTY2NDA1OTFdfQ==
 -->
