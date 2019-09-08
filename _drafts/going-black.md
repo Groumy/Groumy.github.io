@@ -48,6 +48,7 @@ It seems easier to read the options and use them as an inspiration to create a u
 
 And it appears that none of my player had time/interest in their personal life to sitdown and read through all thoses options to create a character.  And as seasoned players they usually were able to came up with a concept base on know tropes in seconds.
 
+We had some success when we played a _Numenera_ campaign
 
 So all that lead to decision paralysis at character creation and each tier advancement. 
 
@@ -121,6 +122,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbOTMzNjIzNDY1LDI4ODYwMDAyMCwtMjQwNzMw
-NDQsLTE2MTY2NDA1OTFdfQ==
+JoaXN0b3J5IjpbLTEzMDAzOTI4MzIsMjg4NjAwMDIwLC0yNDA3
+MzA0NCwtMTYxNjY0MDU5MV19
 -->
