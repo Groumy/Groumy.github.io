@@ -6,13 +6,12 @@ title: Going Black
 
 With my group, we recently switched from the [Cypher System](http://cypher-system.com/) to [The Black Hack Second Edition](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition) to handle our RPG cravings. 
 
-We did so for many reasons and let me extrapolate, because it might help others who are in the same situation.
-
+We did so for many reasons that I'm going to explain, because it might help others who are in the same situation.
 
 
 # Our group
 
-Lest start by describing our group, because it's important to understand a decision to understand the context in which it was made.
+Let's start by describing our group, because it's important to understand a decision to understand the context in which it was made.
 
 To describe our group I'm gonna steel the Cypher System concept of _character as a sentence_ and apply it to my players ;)
 
@@ -31,7 +30,13 @@ Because of all that, we play mostly once a month with a varying degree of partic
 
 # My player needs
 
-Based on discussion and observations of their reactions when we discussed changing campaign heres the issues my players had with the Cypher System.
+Based on discussion and observations of their reactions when we discussed changing campaign here's the issues my players had with the Cypher System :
+
+* [character options](#character-options) were a little bit to heavy for their tastes
+* [character creation](#character-creation) tooked too much time (_probably related to the number of character options and decision paralysis_)
+* they had a hard time to remember [the rules](#the-rules)
+
+Let's discuss each one 
 
 ## Character options
 
@@ -113,6 +118,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbNTAyMDU1NjM0LC0yNDA3MzA0NCwtMTYxNjY0
-MDU5MV19
+JoaXN0b3J5IjpbLTE0NDkzNDg3NTcsLTI0MDczMDQ0LC0xNjE2
+NjQwNTkxXX0=
 -->
