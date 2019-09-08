@@ -6,14 +6,9 @@ title: Going Black
 
 With my group, we recently switched from the [Cypher System](http://cypher-system.com/) to [The Black Hack Second Edition](https://www.drivethrurpg.com/product/255088/The-Black-Hack-Second-Edition) to handle our RPG cravings. 
 
-We did so for many reasons :
-* [character options](#character-options) were a little bit to heavy for their tastes
-* [character creation](#character-creation) tooked too much time (_probably related to the number of character options and decision paralysis_)
-* they had a hard time to remember [the rules](#the-rules)
+We did so for many reasons and let me extrapolate, because it might help others who are in the same situation.
 
-We ended up choosing The Black Hack because it checked all the boxes of  our needs.
 
-Let me extrapolate, because it might help others who are in the same situation.
 
 # Our group
 
@@ -118,6 +113,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTkxNzc1MzMzNCwtMjQwNzMwNDQsLTE2MTY2
-NDA1OTFdfQ==
+JoaXN0b3J5IjpbNTAyMDU1NjM0LC0yNDA3MzA0NCwtMTYxNjY0
+MDU5MV19
 -->
