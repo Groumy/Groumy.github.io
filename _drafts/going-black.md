@@ -8,7 +8,7 @@ With my group, we recently switched from the [Cypher System](http://cypher-syste
 
 We did so for many reasons :
 * [character options](#character-options) were a little bit to heavy for their tastes
-* [character creation](#character-creation) tooked too much time
+* [character creation](#character-creation) tooked too much time (_probably related to the number of character options and decision paralysis_)
 * they had a hard time to remember [the rules](#the-rules)
 
 We ended up choosing The Black Hack because it checked all the boxes of their needs and my needs.
@@ -116,5 +116,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTI0MDczMDQ0LC0xNjE2NjQwNTkxXX0=
+JoaXN0b3J5IjpbMTA4Nzc0NjEsLTI0MDczMDQ0LC0xNjE2NjQw
+NTkxXX0=
 -->
