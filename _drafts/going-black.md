@@ -36,15 +36,17 @@ Based on discussion and observations of their reactions when we discussed changi
 * [character creation](#character-creation) tooked too much time (_probably related to the number of character options and decision paralysis_)
 * they had a hard time to remember [the rules](#the-rules)
 
-Let's discuss each one 
+Let's discuss each one in length.
 
 ## Character options
 
-The Cypher System is _full_ of character options. At first, we we switched to this system, I thought that my players would love this. With the combinaisons of the _Descriptors_, _Types_ and _Foci_ you can create a great deal of characters concept.
+The Cypher System is _full_ of character options. At first, when we switched to this system, I thought that my players would love this.  With the combinaisons of the _Descriptors_, _Types_ and _Foci_ you can create a great deal of characters concept.
 
 The issue was that none of my player had time/interest in their personal life to sitdown and read through all thoses options to create a character.  And it was worst if they already had a character concept in mind.
 
 With all the character options available through the differents Cyper System products, it appears that finding the proper combinaison of _Descriptor_, _Type_ and _Focus_ to actually create the character you wanted becomes quite difficult.
+
+It seems easier to read the options and use them as an inspiration to create a charc
 
 So all that lead to decision paralysis at character creation and each tier advancement. 
 
@@ -118,6 +120,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE0NDkzNDg3NTcsLTI0MDczMDQ0LC0xNjE2
-NjQwNTkxXX0=
+JoaXN0b3J5IjpbLTU1NDMwNjg1MywtMjQwNzMwNDQsLTE2MTY2
+NDA1OTFdfQ==
 -->
