@@ -83,7 +83,7 @@ There were reasons that made me choose the Cypher System some years ago. So I ke
 
 ## Player facing rolls
 
-I love player facing rolls, because I found it easier to improvise and prepare for the game.
+I love player facing rolls, because I found it more relaxing for me. And I can more easily focus on the narrative.
 
 I also have the impression that it empowers the players.
 
@@ -128,6 +128,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTEwNTQxMDQyMjUsMjg4NjAwMDIwLC0yNDA3
+JoaXN0b3J5IjpbLTEyNDM1NzI3MzMsMjg4NjAwMDIwLC0yNDA3
 MzA0NCwtMTYxNjY0MDU5MV19
 -->
