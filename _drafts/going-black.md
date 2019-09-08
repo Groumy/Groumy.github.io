@@ -76,9 +76,9 @@ They were always confused about the relation between the difficulty level and th
 
 So as their GM and and the only RPG Geek at the table, I started to look at different systems. I soon realized that I had to consider my needs too. 
 
-The were reasons that made me choose the Cypher System some years ago. So I kept in mind those point :
-* Player facing rolls
-* One stat ennemy
+There were reasons that made me choose the Cypher System some years ago. So I kept in mind those point :
+* [Player facing rolls](#player-facing-rolls)
+* [One stat ennemies](#one-stat-ennemies)
 * One unified action resolution mechanisim
 
 ## Player facing rolls
@@ -91,7 +91,7 @@ There's a difference between getting hit by the BBEG because :
 
 With players making all the rolls, there is simply no bullshit, no fudging dice, no GM fiat.
 
-## One stat enemy
+## One stat enemies
 
 One thing I _loved_ about the Cypher System (_and other RPGs I have contemplated over the years_) was to be able to simply express enemy, _and any challenge really_, as a single number in my notes.
 
@@ -126,6 +126,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMzY3ODE2MzUyLDI4ODYwMDAyMCwtMjQwNzMw
-NDQsLTE2MTY2NDA1OTFdfQ==
+JoaXN0b3J5IjpbMTQyMjc2MDkwMiwyODg2MDAwMjAsLTI0MDcz
+MDQ0LC0xNjE2NjQwNTkxXX0=
 -->
