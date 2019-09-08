@@ -68,7 +68,7 @@ None of them like the fact that each time we changed campaign, it took a full ni
 
 Even after playing over a year of Cypher System, none of my player could grasp the action resolution mechanisim.
 
-They were always confused about the relation between the difficulty level and the d20 and don't get me started with the difficulty level _negotiation_ or the _stat pool management_. They simply forgot about those rules between sessions.
+They were always confused about the relation between the difficulty level and the number needed on the d20. And don't get me started with the difficulty level _negotiation_ or the _stat pool management_. They simply forgot about those rules between sessions.
  
  **They needed rules that can be learned in minutes and easily remembered.**
 
@@ -124,6 +124,6 @@ We might still my on the honeymoon period, but it starts great !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTEwNzI5OTQwOTQsMjg4NjAwMDIwLC0yNDA3
-MzA0NCwtMTYxNjY0MDU5MV19
+JoaXN0b3J5IjpbLTEwOTYwNzAyOCwyODg2MDAwMjAsLTI0MDcz
+MDQ0LC0xNjE2NjQwNTkxXX0=
 -->
