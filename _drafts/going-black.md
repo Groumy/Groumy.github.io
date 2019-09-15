@@ -129,7 +129,7 @@ On my side of the screen, everything is quite simple. When a player whant to att
 
 For monsters, I use the HP and damage listed in the adventure I'm using. Theorically the damage is a little bit higher than the recommended numbers, but it not a problem for now.
 
-Actually I have a hard time to challenge the players, it might be 
+Actually I have a hard time to challenge the characters. It might be for many reasons (_the experience of the players, that allow them to play safe, the fact that they know how to work together, they might have been lucky on their ch
 
 We might still be in the honeymoon period, but its a great start !
 
@@ -138,7 +138,7 @@ We might still be in the honeymoon period, but its a great start !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTkyOTcxNzc3MSw2MzgxNjY4NDcsLTU4Nzgy
+JoaXN0b3J5IjpbLTczMzI3OTEzNiw2MzgxNjY4NDcsLTU4Nzgy
 NDQzNywtNjE0OTEzMjcwLDYzNDAzOTYxNiwyODg2MDAwMjAsLT
 I0MDczMDQ0LC0xNjE2NjQwNTkxXX0=
 -->
