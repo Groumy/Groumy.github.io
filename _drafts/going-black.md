@@ -120,19 +120,19 @@ We have now 5 sessions under the belt running [Barrowmaze Complete](https://www.
 The first session, it tooked maybe 30 minutes to explains the rules and create characters, then started playing.
 
 All the player stated how much simpler this system was, we no longer have questions about how to resolve actions or anything. The mood ligthened up a bit also and everybody is starting to have more fun.
-Waw
+
 When group member that weren't there on the first session showed up we were able to explain the rules and create that character in under 15 minutes. 
 
 Since we made the switch we even welcomed two new recruits. My wife and the significant other of one of the player. Those two were able to play fast and grasp the system really well even if they are new to the hobby.
 
-We might still my on the honeymoon period, but it starts great !
+We might still be in the honeymoon period, but itgreat !
 
 
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTExNjIyMDY1NTEsLTU4NzgyNDQzNywtNjE0
-OTEzMjcwLDYzNDAzOTYxNiwyODg2MDAwMjAsLTI0MDczMDQ0LC
-0xNjE2NjQwNTkxXX0=
+JoaXN0b3J5IjpbMTc1MTQzODA5OCwtNTg3ODI0NDM3LC02MTQ5
+MTMyNzAsNjM0MDM5NjE2LDI4ODYwMDAyMCwtMjQwNzMwNDQsLT
+E2MTY2NDA1OTFdfQ==
 -->
