@@ -125,7 +125,7 @@ When group member that weren't there on the first session showed up we were able
 
 Since we made the switch we even welcomed two new recruits. My wife and the significant other of one of the player. Those two were able to play fast and grasp the system really well even if they are new to the hobby.
 
-On my side of the screen, everything is quite simple. 
+On my side of the screen, everything is quite simple. When a player whant to attempt an action I simply have to pick the proper ability from the same six we used for the past two decades and decide if there's any reason they should have advantage or dis
 
 We might still be in the honeymoon period, but its a great start !
 
@@ -134,7 +134,7 @@ We might still be in the honeymoon period, but its a great start !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbNjM4MTY2ODQ3LC01ODc4MjQ0MzcsLTYxNDkx
-MzI3MCw2MzQwMzk2MTYsMjg4NjAwMDIwLC0yNDA3MzA0NCwtMT
-YxNjY0MDU5MV19
+JoaXN0b3J5IjpbNDM5MzEwNTQsNjM4MTY2ODQ3LC01ODc4MjQ0
+MzcsLTYxNDkxMzI3MCw2MzQwMzk2MTYsMjg4NjAwMDIwLC0yND
+A3MzA0NCwtMTYxNjY0MDU5MV19
 -->
