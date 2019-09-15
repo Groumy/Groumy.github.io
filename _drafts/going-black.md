@@ -125,14 +125,16 @@ When group member that weren't there on the first session showed up we were able
 
 Since we made the switch we even welcomed two new recruits. My wife and the significant other of one of the player. Those two were able to play fast and grasp the system really well even if they are new to the hobby.
 
-We might still be in the honeymoon period, but itgreat !
+On my side of the screen, everything is quite simple. The only thing I have to think about is if the
+
+We might still be in the honeymoon period, but its a great start !
 
 
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMTc1MTQzODA5OCwtNTg3ODI0NDM3LC02MTQ5
-MTMyNzAsNjM0MDM5NjE2LDI4ODYwMDAyMCwtMjQwNzMwNDQsLT
-E2MTY2NDA1OTFdfQ==
+JoaXN0b3J5IjpbMjc5NDg4ODcsLTU4NzgyNDQzNywtNjE0OTEz
+MjcwLDYzNDAzOTYxNiwyODg2MDAwMjAsLTI0MDczMDQ0LC0xNj
+E2NjQwNTkxXX0=
 -->
