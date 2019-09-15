@@ -127,9 +127,10 @@ Since we made the switch we even welcomed two new recruits. My wife and the sign
 
 On my side of the screen, everything is quite simple. When a player whant to attempt an action I simply have to pick the proper ability from the same six we used for the past two decades and decide if there's any reason they should have advantage or disadvantage.
 
-For monsters, I use the HP and damage listed in the adventure I'm using. Theorically the damage is a little bit higher than the recommended numbers, but it not a problem for now.
+For monsters, I use the HP and damage listed in the adventure I'm using. Theoricaly the damage is a little bit higher than the recommended numbers, but it not a problem for now.
+> Actually I have a hard time to challenge the characters. It might be for many reasons (_the experience of the players, that allow them to play safe, the fact that they know how to work together, they might have been lucky on their ability scores, or The Black Hack in conjunction to Barrowmaze is not that challenging at first_) and I'll keep a close eye on it.
 
-Actually I have a hard time to challenge the characters. It might be for many reasons (_the experience of the players, that allow them to play safe, the fact that they know how to work together, they might have been lucky on their ability scores, or The Black Hack in conjunction to Barrowmaze is not that challenging at first_) and I'll keep a close eye on it.
+For treasure, the number of gold listed in Barrowmaze doesn't
 
 We might still be in the honeymoon period, but its a great start !
 
@@ -138,7 +139,7 @@ We might still be in the honeymoon period, but its a great start !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbMjk0MTg3Nzg3LDYzODE2Njg0NywtNTg3ODI0
-NDM3LC02MTQ5MTMyNzAsNjM0MDM5NjE2LDI4ODYwMDAyMCwtMj
-QwNzMwNDQsLTE2MTY2NDA1OTFdfQ==
+JoaXN0b3J5IjpbLTc5OTc2MjYyLDI5NDE4Nzc4Nyw2MzgxNjY4
+NDcsLTU4NzgyNDQzNywtNjE0OTEzMjcwLDYzNDAzOTYxNiwyOD
+g2MDAwMjAsLTI0MDczMDQ0LC0xNjE2NjQwNTkxXX0=
 -->
