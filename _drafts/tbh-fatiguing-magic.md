@@ -11,7 +11,7 @@ tags:
 
 > [Click here to skip to the actual house rule](#the-house-rule)
 
-I dislike any RPG systtheir balance. It affect my [suspension of disbelief](https://en.wikipedia.org/wiki/Suspension_of_disbelief) and as a collateral damage, the fun I have while playing the game.
+I dislike when RPG system uses _memory_ as an excuse to apply some balance on their magic system. It attacks my [suspension of disbelief](https://en.wikipedia.org/wiki/Suspension_of_disbelief) and affect negatively the experience while playing it.
 
 The reason is quite simple : 
 * My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
@@ -42,6 +42,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTgyMDk1OSwtMTk0MTM2NjQwNSwtOT
-c5MTI3NTExLDEzMDUwOTYwNzVdfQ==
+eyJoaXN0b3J5IjpbNDE0Njc0OTI2LC0xOTQxMzY2NDA1LC05Nz
+kxMjc1MTEsMTMwNTA5NjA3NV19
 -->
