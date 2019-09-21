@@ -42,6 +42,11 @@ That's why I think that  _fatiguing magic_  is even more interesting narratively
 
 ## From the spell casting system 
 
+###  MEMORISING SPELLS
+Most spellcasting classes have a way to memorise spells. If I don't want to rewrite every classes that I'm gonna use, I have to keep this mechanism.
+
+### CASTING SPELLS
+
 The current mechanism as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
  
 ## From the Fatigue system
@@ -55,7 +60,7 @@ So to emulate fatigue in The Black Hack, without introducing new rules and mecha
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzEzMjk3NCwtMTc2MTgyMjU2OSwtMT
-kzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05Nzkx
-Mjc1MTEsMTMwNTA5NjA3NV19
+eyJoaXN0b3J5IjpbLTExNjgzMzExOTQsLTE3NjE4MjI1NjksLT
+E5Mzg4NzU2OTUsMTc3Mjg1MzY0NywtMTk0MTM2NjQwNSwtOTc5
+MTI3NTExLDEzMDUwOTYwNzVdfQ==
 -->
