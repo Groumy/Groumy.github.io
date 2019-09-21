@@ -28,7 +28,7 @@ So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki
 Some alternative exists in the world of RPG, let's look at them :
 * [Mana](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana)
 * [Cast from Hit Points](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromHitPoints)
-* 
+* [https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromLifespan](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromLifespan)
 
 Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
 
@@ -51,6 +51,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU1ODEzNzYsLTE5NDEzNjY0MDUsLT
-k3OTEyNzUxMSwxMzA1MDk2MDc1XX0=
+eyJoaXN0b3J5IjpbMjExNzU1NzMwNywtMTk0MTM2NjQwNSwtOT
+c5MTI3NTExLDEzMDUwOTYwNzVdfQ==
 -->
