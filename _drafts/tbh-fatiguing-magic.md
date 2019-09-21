@@ -61,7 +61,8 @@ So to emulate fatigue in The Black Hack, without introducing new rules and mecha
 
 # Other considerations
 
-I'd like the house rule to stay compatible w
+I'd like the house rule to stay compatible with both core and third party classes.
+
 
 # The house rule
 
@@ -82,7 +83,7 @@ If they fail, the Player **_as to chooses_** between :
  Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjczNDI5ODIsLTcwNzY1MjUxNiwtMT
-c2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQx
-MzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV19
+eyJoaXN0b3J5IjpbLTI2NTg5MTMxLC03MDc2NTI1MTYsLTE3Nj
+E4MjI1NjksLTE5Mzg4NzU2OTUsMTc3Mjg1MzY0NywtMTk0MTM2
+NjQwNSwtOTc5MTI3NTExLDEzMDUwOTYwNzVdfQ==
 -->
