@@ -35,8 +35,9 @@ I personally thing that Mana system are trying to emulate fatigue but they miss 
  
 That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes. Like :
 * [Power Strain Blackout](https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerStrainBlackout)
+* [Heroic Red Ring of Death](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicRROD)
 
-# Magic in The Black Hack
+# WhaMagic in The Black Hack
  
 The current mechanism as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
  
@@ -49,7 +50,7 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE4MjI1NjksLTE5Mzg4NzU2OTUsMT
-c3Mjg1MzY0NywtMTk0MTM2NjQwNSwtOTc5MTI3NTExLDEzMDUw
-OTYwNzVdfQ==
+eyJoaXN0b3J5IjpbLTk5MDgzMjkzNCwtMTc2MTgyMjU2OSwtMT
+kzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05Nzkx
+Mjc1MTEsMTMwNTA5NjA3NV19
 -->
