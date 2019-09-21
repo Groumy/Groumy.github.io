@@ -74,18 +74,18 @@ So this is what I came up with. It repalce a single section of the rule books an
 
  A Spellcaster can spend an **_Action_** on their Turn to **attempt to**  cast a spell or prayer from memory or by reading it from a book or scroll, when **_Turns_** are being tracked using **_Minutes_**.
 
-To do so they must make an **_Attribute Test_** - adding the spell’s or prayer’s level to the roll. If they succeed, tyhis cast. 
+To do so they must make an **_Attribute Test_** - adding the spell’s or prayer’s level to the roll. If they succeed, the spell is cast. 
 
-If they fail, the Player **_as to chooses_** between :
-* _letting the magical energy loose_ and rolling on the Magical Side Effects table (p.43 in the main rule book)
+If they fail, the **_Player_** as to chooses between :
+* _letting the magical energy loose_ and rolling on the **_Magical Side Effects_** table (p.43 in the main rule book)
 * _forcing the spell to work_ but lose **_HP_** equal to their **_Level_** through fatigue
 
- A Spellcaster can only cast spells up to and equal to their Level.
+A Spellcaster can only cast spells with level up to and equal to their Level.
 
- Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
+Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MzMwMjQ0LC03MDc2NTI1MTYsLTE3Nj
-E4MjI1NjksLTE5Mzg4NzU2OTUsMTc3Mjg1MzY0NywtMTk0MTM2
-NjQwNSwtOTc5MTI3NTExLDEzMDUwOTYwNzVdfQ==
+eyJoaXN0b3J5IjpbLTE5ODI5NDk5MzIsLTcwNzY1MjUxNiwtMT
+c2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQx
+MzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV19
 -->
