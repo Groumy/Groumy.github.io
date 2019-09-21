@@ -47,7 +47,9 @@ Most spellcasting classes have a way to memorise spells. If I don't want to rewr
 
 ### CASTING SPELLS
 
-The current mechanism as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
+The rules make a distinction between casting spells from memory and from spell book. When casting spells from memory you have a increasing chance to forget it but you can cast spells from your spell book.
+
+Both mechanism as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
  
 ## From the Fatigue system
  
@@ -60,7 +62,7 @@ So to emulate fatigue in The Black Hack, without introducing new rules and mecha
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgzMzExOTQsLTE3NjE4MjI1NjksLT
-E5Mzg4NzU2OTUsMTc3Mjg1MzY0NywtMTk0MTM2NjQwNSwtOTc5
-MTI3NTExLDEzMDUwOTYwNzVdfQ==
+eyJoaXN0b3J5IjpbLTcwNzY1MjUxNiwtMTc2MTgyMjU2OSwtMT
+kzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05Nzkx
+Mjc1MTEsMTMwNTA5NjA3NV19
 -->
