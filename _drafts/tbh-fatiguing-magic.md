@@ -8,7 +8,12 @@ tags:
 - magic
 - fatigue
 ---
- I dislike any spell system that use "memory" as the basis of their balance. My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
+
+> [Click here to skip to the actual house rule](#the-house-rule)
+
+I dislike any spell system that use "memory" as the basis of their balance. My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
+
+I was a little disapointed to see that The
  
 The current mechanism as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
  
@@ -26,7 +31,8 @@ That's why I think that  _fatiguing magic_  is even more interesting narratively
 
 So it _literally_ took the same text to emulate fatigue in my house rule.
 
-# 
+# The house rule
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDYyODYxNiwxMzA1MDk2MDc1XX0=
+eyJoaXN0b3J5IjpbMTM4MDM5OTQyMywxMzA1MDk2MDc1XX0=
 -->
