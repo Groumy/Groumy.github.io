@@ -31,9 +31,10 @@ Another way of balancing out magic spells is to use  _fatigue_.  [True20](https:
 
 * If you cast too much spells you become fatigued and can't cast anymore.
  
-I personally thing that Mana system are trying to emulate fatigue but missing the mark. Mana representing what you can do  _before_  getting fatigued. And that when you don't hav1e any Mana left your are too much exhausted to cast any spells.
+I personally thing that Mana system are trying to emulate fatigue but they miss the mark. Mana represents what you can do  _before_  getting fatigued. And that when you don't have any Mana left your are too much exhausted to cast any spells. 
  
-That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes.
+That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes. Like :
+* [Power Strain Blackout](https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerStrainBlackout)
 
 # Magic in The Black Hack
  
@@ -48,7 +49,7 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAyOTcyMzgsLTE5Mzg4NzU2OTUsMT
+eyJoaXN0b3J5IjpbLTE3NjE4MjI1NjksLTE5Mzg4NzU2OTUsMT
 c3Mjg1MzY0NywtMTk0MTM2NjQwNSwtOTc5MTI3NTExLDEzMDUw
 OTYwNzVdfQ==
 -->
