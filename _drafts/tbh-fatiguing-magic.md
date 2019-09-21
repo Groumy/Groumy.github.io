@@ -49,7 +49,7 @@ Most spellcasting classes have a way to memorise spells. If I don't want to rewr
 
 The rules make a distinction between casting spells from memory and from spell book. When casting spells from memory you have a increasing chance to forget it but you can cast spells from your spell book.
 
-Both mechanism as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
+Both mechanism have the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
  
 ## From the Fatigue system
  
@@ -61,8 +61,24 @@ So to emulate fatigue in The Black Hack, without introducing new rules and mecha
 
 # The house rule
 
+So this is what I came
+
+## CASTING SPELLS
+
+ A Spellcaster can spend an Action on their Turn to **_attempt to_**  cast a spell or prayer from memory or when Turns are being tracked using Minutes by reading it from a book or scroll.
+
+To do so they must make an Attribute Test - adding the spell’s or prayer’s level to the roll. If they succeed, it is cast. 
+
+If they fail, the Player **_as to chooses_** between :
+* _letting the magical energy loose_ and rolling on the Magical Side Effects table (p.43 in the main rule book)
+* _forcing the spell to work_ but lose **_HP_** equal to their **_Level_** through fatigue
+
+ A Spellcaster can only cast spells up to and equal to their Level.
+
+ Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzY1MjUxNiwtMTc2MTgyMjU2OSwtMT
-kzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05Nzkx
-Mjc1MTEsMTMwNTA5NjA3NV19
+eyJoaXN0b3J5IjpbLTE0MDkzNzk4NDQsLTcwNzY1MjUxNiwtMT
+c2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQx
+MzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV19
 -->
