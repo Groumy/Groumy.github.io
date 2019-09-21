@@ -17,7 +17,9 @@ The reason is quite simple :
 * My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
 * My memory cannot remember multiple time the same information
 
-So when I saw that memory was used ad a balancing mechanisim I was a little bit disapointed. I gave the game a chance and decided that if my players didn't I could 
+So when I saw that memory was used as a balancing mechanisim in [The Black Hack](/tags/TheBlackHack) I was a little bit disapointed. I gave the game a chance and decided that if my players didn't I could get over it.
+
+But they 
  
 Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
 
@@ -42,6 +44,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0Njc0OTI2LC0xOTQxMzY2NDA1LC05Nz
+eyJoaXN0b3J5IjpbNjg5MTcwOTU4LC0xOTQxMzY2NDA1LC05Nz
 kxMjc1MTEsMTMwNTA5NjA3NV19
 -->
