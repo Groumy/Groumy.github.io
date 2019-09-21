@@ -19,8 +19,12 @@ The reason is quite simple :
 
 So when I saw that memory was used as a balancing mechanisim in [The Black Hack](/tags/TheBlackHack) I was a little bit disapointed. I gave the game a chance and decided that if my players didn't I could get over it.
 
-But they 
- 
+But they openly said that they think it didn't make sense, so now I had to fix it.
+
+# What would be better
+
+So casting spells and forgetting about them as you do don't please my group taste. What tould  
+
 Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
 
 Another way of balancing out magic spells is to use  _fatigue_. True20 and the Iron Kingdoms RPG both uses fatigue as a moderation mechanism. If you cast too much spells you become fatigued and can't cast anymore.
@@ -30,8 +34,6 @@ I personally thing that Mana system are trying to emulate fatigue but missing th
 That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes.
 
 # Magic in The Black Hack
-
-I was a little disapointed to see that The Black Hack was using memory as a 
  
 The current mechanism as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
  
@@ -44,6 +46,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MTcwOTU4LC0xOTQxMzY2NDA1LC05Nz
-kxMjc1MTEsMTMwNTA5NjA3NV19
+eyJoaXN0b3J5IjpbLTE5Nzk0NDYxMjMsLTE5NDEzNjY0MDUsLT
+k3OTEyNzUxMSwxMzA1MDk2MDc1XX0=
 -->
