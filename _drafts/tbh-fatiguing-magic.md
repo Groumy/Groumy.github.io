@@ -37,9 +37,14 @@ That's why I think that  _fatiguing magic_  is even more interesting narratively
 * [Power Strain Blackout](https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerStrainBlackout)
 * [Heroic Red Ring of Death](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicRROD)
 
-# WhaMagic in The Black Hack
- 
+
+# What to keep 
+
+## From the spell casting system 
+
 The current mechanism as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
+ 
+## From the Fatigue system
  
 **Fatigue** in The Black Hack is only refered once, in the random encounter table.
  
@@ -50,7 +55,7 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDgzMjkzNCwtMTc2MTgyMjU2OSwtMT
+eyJoaXN0b3J5IjpbLTc3MjUyMzE3MywtMTc2MTgyMjU2OSwtMT
 kzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05Nzkx
 Mjc1MTEsMTMwNTA5NjA3NV19
 -->
