@@ -13,7 +13,7 @@ tags:
 
 I dislike any spell system that use "memory" as the basis of their balance. My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
 
-When I saw that memory was used 
+When I saw that memory was used ad a balancing mechanisim 
  
 Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
 
@@ -38,5 +38,5 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDEzMjMwLDEzMDUwOTYwNzVdfQ==
+eyJoaXN0b3J5IjpbLTk3OTEyNzUxMSwxMzA1MDk2MDc1XX0=
 -->
