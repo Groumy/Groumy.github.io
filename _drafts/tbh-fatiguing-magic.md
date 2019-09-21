@@ -50,6 +50,8 @@ Most spellcasting classes have a way to memorise spells. If I don't want to rewr
 The rules make a distinction between casting spells from memory and from spell book. When casting spells from memory you have a increasing chance to forget it but you can cast spells from your spell book.
 
 Both mechanism have the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
+
+Rolling on the Magical Side Effects table is fun, I want to keep that.
  
 ## From the Fatigue system
  
@@ -63,10 +65,12 @@ So to emulate fatigue in The Black Hack, without introducing new rules and mecha
 
 I'd like the house rule to stay compatible with both core and third party classes.
 
-The house rule has to be simple, I can't write a 30 pages house rule for a 20 pages rule book ...
+The house rule has to be simple, I can't write a 30 pages house rule for a 20 pages rule book.
 
 
-# The house rule
+
+
+# The final house rule
 
 So this is what I came up with. It repalce a single section of the rule books and stays broadly compatible with third party classes and everything.
 
@@ -85,7 +89,7 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI5NDk5MzIsLTcwNzY1MjUxNiwtMT
-c2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQx
-MzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV19
+eyJoaXN0b3J5IjpbMTU2MTYyMTkwNSwtNzA3NjUyNTE2LC0xNz
+YxODIyNTY5LC0xOTM4ODc1Njk1LDE3NzI4NTM2NDcsLTE5NDEz
+NjY0MDUsLTk3OTEyNzUxMSwxMzA1MDk2MDc1XX0=
 -->
