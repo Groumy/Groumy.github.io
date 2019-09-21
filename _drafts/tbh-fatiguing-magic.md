@@ -26,15 +26,16 @@ But they openly said that they think it didn't make sense, so now I had to fix i
 So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic) as you do don't please my group taste. What would now ? 
 
 Some alternative exists in the world of RPG, let's look at them :
-* [Mana](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana)
-* [Cast from Hit Points](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromHitPoints)
-* [https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromLifespan](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromLifespan)
+* [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana) :  
+* [**Cast from Hit Points**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromHitPoints)
+* [**Cast from Lifespan**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromLifespan)
+* [**Cast from Stamina**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromStamina)
 
 Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
 
 Another way of balancing out magic spells is to use  _fatigue_. True20 and the Iron Kingdoms RPG both uses fatigue as a moderation mechanism. If you cast too much spells you become fatigued and can't cast anymore.
  
-I personally thing that Mana system are trying to emulate fatigue but missing the mark. Mana representing what you can do  _before_  getting fatigued. And that when you don't have any Mana left your are too much exhausted to cast any spells.
+I personally thing that Mana system are trying to emulate fatigue but missing the mark. Mana representing what you can do  _before_  getting fatigued. And that when you don't hav1e any Mana left your are too much exhausted to cast any spells.
  
 That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes.
 
@@ -51,6 +52,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzU1NzMwNywtMTk0MTM2NjQwNSwtOT
+eyJoaXN0b3J5IjpbMTc3Mjg1MzY0NywtMTk0MTM2NjQwNSwtOT
 c5MTI3NTExLDEzMDUwOTYwNzVdfQ==
 -->
