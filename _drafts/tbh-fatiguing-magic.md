@@ -63,6 +63,8 @@ So to emulate fatigue in The Black Hack, without introducing new rules and mecha
 
 I'd like the house rule to stay compatible with both core and third party classes.
 
+The house rule has to be simple, I can't write a 30 pages house rule for a 20 pages rule book ...
+
 
 # The house rule
 
@@ -83,7 +85,7 @@ If they fail, the Player **_as to chooses_** between :
  Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTg5MTMxLC03MDc2NTI1MTYsLTE3Nj
-E4MjI1NjksLTE5Mzg4NzU2OTUsMTc3Mjg1MzY0NywtMTk0MTM2
-NjQwNSwtOTc5MTI3NTExLDEzMDUwOTYwNzVdfQ==
+eyJoaXN0b3J5IjpbMjEzNjg5NDcyMCwtNzA3NjUyNTE2LC0xNz
+YxODIyNTY5LC0xOTM4ODc1Njk1LDE3NzI4NTM2NDcsLTE5NDEz
+NjY0MDUsLTk3OTEyNzUxMSwxMzA1MDk2MDc1XX0=
 -->
