@@ -26,7 +26,7 @@ That's why I think that  _fatiguing magic_  is even more interesting narratively
 
 So it _literally_ took the same text to emulate fatigue in my house rule.
 
-
+# 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMTA5MTczLDEzMDUwOTYwNzVdfQ==
+eyJoaXN0b3J5IjpbLTM2MDYyODYxNiwxMzA1MDk2MDc1XX0=
 -->
