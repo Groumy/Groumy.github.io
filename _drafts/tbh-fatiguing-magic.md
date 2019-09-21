@@ -23,7 +23,9 @@ But they openly said that they think it didn't make sense, so now I had to fix i
 
 # What would be better
 
-So casting spells and forgetting about them as you do don't please my group taste. What tould  
+So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic) as you do don't please my group taste. What would now ? 
+
+ 
 
 Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
 
@@ -46,6 +48,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk0NDYxMjMsLTE5NDEzNjY0MDUsLT
-k3OTEyNzUxMSwxMzA1MDk2MDc1XX0=
+eyJoaXN0b3J5IjpbMTI2OTM0OTI5MCwtMTk0MTM2NjQwNSwtOT
+c5MTI3NTExLDEzMDUwOTYwNzVdfQ==
 -->
