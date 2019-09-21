@@ -26,8 +26,8 @@ But they openly said that they think it didn't make sense, so now I had to fix i
 So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic) as you do don't please my group taste. What would now ? 
 
 Some alternative exists in the world of RPG, let's look at them :
-* [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana) :  is used up as the character casts spells. Each character can use only a limited amount of mana before running out
-* [**Cast from Hit Points**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromHitPoints)
+* [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana) : Mana is the [spiritual fuel](https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerSource "/pmwiki/pmwiki.php/Main/PowerSource") that makes [Functional Magic](https://tvtropes.org/pmwiki/pmwiki.php/Main/FunctionalMagic "/pmwiki/pmwiki.php/Main/FunctionalMagic") work. It is used up as the character casts spells. Each character can use only a limited amount of mana before running out
+* [**Cast from Hit Points**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromHitPoints) : Spend your own [Life Energy](https://tvtropes.org/pmwiki/pmwiki.php/Main/LifeEnergy "/pmwiki/pmwiki.php/Main/LifeEnergy") on the spell in place of whatever would normally power it.
 * [**Cast from Lifespan**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromLifespan)
 * [**Cast from Stamina**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromStamina)
 
@@ -52,6 +52,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ0ODgyNzIsMTc3Mjg1MzY0NywtMT
+eyJoaXN0b3J5IjpbLTE5Mzg4NzU2OTUsMTc3Mjg1MzY0NywtMT
 k0MTM2NjQwNSwtOTc5MTI3NTExLDEzMDUwOTYwNzVdfQ==
 -->
