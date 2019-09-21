@@ -130,7 +130,7 @@ On my side of the screen, everything is quite simple. When a player whant to att
 For monsters, I use the HP and damage listed in the adventure I'm using. Theoricaly the damage is a little bit higher than the recommended numbers, but it not a problem for now.
 > Actually I have a hard time to challenge the characters. It might be for many reasons (_the experience of the players, that allow them to play safe, the fact that they know how to work together, they might have been lucky on their ability scores, or The Black Hack in conjunction to Barrowmaze is not that challenging at first_) and I'll keep a close eye on it.
 
-For treasure, the number of gold listed in Barrowmaze doesn't scale well with the prices in the book and the recommendationbfor treasure generation. (_I'm working on some tweaks right now._)
+For treasures, the number of gold listed in Barrowmaze doesn't scale well with the prices in the book and the recommendation for treasure generation. (_I'm working on some tweaks right now._)
 
 We might still be in the honeymoon period, but its a great start !
 
@@ -139,8 +139,8 @@ We might still be in the honeymoon period, but its a great start !
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdvaW5nIEJsYWNrXG4iLC
-JoaXN0b3J5IjpbLTE3NTg2MDUzMzIsODk4Nzg4MDMsMjk0MTg3
-Nzg3LDYzODE2Njg0NywtNTg3ODI0NDM3LC02MTQ5MTMyNzAsNj
-M0MDM5NjE2LDI4ODYwMDAyMCwtMjQwNzMwNDQsLTE2MTY2NDA1
-OTFdfQ==
+JoaXN0b3J5IjpbLTIzNDE0NzI4NSw4OTg3ODgwMywyOTQxODc3
+ODcsNjM4MTY2ODQ3LC01ODc4MjQ0MzcsLTYxNDkxMzI3MCw2Mz
+QwMzk2MTYsMjg4NjAwMDIwLC0yNDA3MzA0NCwtMTYxNjY0MDU5
+MV19
 -->
