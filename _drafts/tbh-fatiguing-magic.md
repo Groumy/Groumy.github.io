@@ -50,12 +50,12 @@ The current mechanism as the advantage to include both your caster ability and t
  
 > All Characters must consume food and water or lose HP equal to their Level through **fatigue**
 
-So it _literally_ took the same text to emulate fatigue in my house rule.
+So to emulate fatigue in The Black Hack, without introducing new rules and mechanism, character should lose HP when they start to get fatigued
 
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjUyMzE3MywtMTc2MTgyMjU2OSwtMT
+eyJoaXN0b3J5IjpbMTUzNzEzMjk3NCwtMTc2MTgyMjU2OSwtMT
 kzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05Nzkx
 Mjc1MTEsMTMwNTA5NjA3NV19
 -->
