@@ -11,7 +11,7 @@ tags:
 
 > [Click here to skip to the actual house rule](#the-house-rule)
 
-I dislike any spell system that use "memory" as the basis of their balance. My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
+I dislike any spell system that use "memory" as the basis of their balance. It affect my [suspension of disbelief](https://en.wikipedia.org/wiki/Suspension_of_disbelief) and thus  My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
 
 When I saw that memory was used ad a balancing mechanisim 
  
@@ -38,5 +38,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTEyNzUxMSwxMzA1MDk2MDc1XX0=
+eyJoaXN0b3J5IjpbMTg2OTE0NjUwMiwtOTc5MTI3NTExLDEzMD
+UwOTYwNzVdfQ==
 -->
