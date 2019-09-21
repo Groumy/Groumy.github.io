@@ -59,9 +59,13 @@ Both mechanism have the advantage to include both your caster ability and the le
 
 So to emulate fatigue in The Black Hack, without introducing new rules and mechanism, character should lose HP when they start to get fatigued
 
+# Other considerations
+
+I'd like the house rule to stay compatible w
+
 # The house rule
 
-So this is what I came
+So this is what I came up with. It repalce a single section of the rule books and stays broadly compatible with third party classes and everything.
 
 ## CASTING SPELLS
 
@@ -78,7 +82,7 @@ If they fail, the Player **_as to chooses_** between :
  Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkzNzk4NDQsLTcwNzY1MjUxNiwtMT
+eyJoaXN0b3J5IjpbLTE4NjczNDI5ODIsLTcwNzY1MjUxNiwtMT
 c2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQx
 MzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV19
 -->
