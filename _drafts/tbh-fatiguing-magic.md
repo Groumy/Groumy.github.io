@@ -14,17 +14,19 @@ The current mechanism as the advantage to include both your caster ability and t
  
 Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
 
- An other way of balancing out magic spells is to use  _fatigue_. True20 and the Iron Kingdoms RPG both uses fatigue as a moderation mechanism. If you cast too much spells you become fatigued and can't cast anymore.
-> 
-> I personally thing that Mana system are trying to emulate fatigue but missing the mark. Mana representing what you can do  _before_  getting fatigued. And that when you don't have any Mana left your are too much exhausted to cast any spells.
-> 
-> That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes.
-> 
-> _Fatigue_ in The Black Hack is only refered once, in the random encounter table.
-> 
-> > All Characters must consume food and water or lose HP equal to their Level through **fatigue**
-> 
-> So it _literally_ took the same text to emulate fatigue in my house rule.
+Another way of balancing out magic spells is to use  _fatigue_. True20 and the Iron Kingdoms RPG both uses fatigue as a moderation mechanism. If you cast too much spells you become fatigued and can't cast anymore.
+ 
+I personally thing that Mana system are trying to emulate fatigue but missing the mark. Mana representing what you can do  _before_  getting fatigued. And that when you don't have any Mana left your are too much exhausted to cast any spells.
+ 
+That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes.
+ 
+**Fatigue** in The Black Hack is only refered once, in the random encounter table.
+ 
+> All Characters must consume food and water or lose HP equal to their Level through **fatigue**
+
+So it _literally_ took the same text to emulate fatigue in my house rule.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDU2NTQ5MywxMzA1MDk2MDc1XX0=
+eyJoaXN0b3J5IjpbNDYwMTA5MTczLDEzMDUwOTYwNzVdfQ==
 -->
