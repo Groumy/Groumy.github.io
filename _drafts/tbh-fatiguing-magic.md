@@ -11,9 +11,13 @@ tags:
 
 > [Click here to skip to the actual house rule](#the-house-rule)
 
-I dislike any spell system that use "memory" as the basis of their balance. It affect my [suspension of disbelief](https://en.wikipedia.org/wiki/Suspension_of_disbelief) and thus  My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
+I dislike any spell system that use "memory" as the basis of their balance. It affect my [suspension of disbelief](https://en.wikipedia.org/wiki/Suspension_of_disbelief) and as a collateral damage, the fun I have while playing the game.
 
-When I saw that memory was used ad a balancing mechanisim 
+The reason is quite simple : 
+* My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
+* My memory cannot remember multiple time the same information
+
+So when I saw that memory was used ad a balancing mechanisim I was a little bit disapointed. I gave the game a chance and decided that if my players didn't I could 
  
 Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
 
@@ -38,6 +42,6 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTE0NjUwMiwtOTc5MTI3NTExLDEzMD
-UwOTYwNzVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDEzNjY0MDUsLTk3OTEyNzUxMSwxMz
+A1MDk2MDc1XX0=
 -->
