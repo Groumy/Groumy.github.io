@@ -25,15 +25,9 @@ But they openly said that they think it didn't make sense, so now I had to fix i
 
 So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic) as you do don't please my group taste. What would now ? 
 
-Some alternative exists in the world of RPG, let's look at them :
-* [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana) : Mana is widely used in many RPG system, it's 
-* [**Cast from Hit Points**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromHitPoints) : Spend your own [Life Energy](https://tvtropes.org/pmwiki/pmwiki.php/Main/LifeEnergy "/pmwiki/pmwiki.php/Main/LifeEnergy") on the spell in place of whatever would normally power it.
-* [**Cast from Lifespan**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromLifespan)
-* [**Cast from Stamina**](https://tvtropes.org/pmwiki/pmwiki.php/Main/CastFromStamina) 
+The obvious alternative is to use [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana).  It is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of The Black Hack.
 
-Mana is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of TBH.
-
-Another way of balancing out magic spells is to use  _fatigue_. True20 and the Iron Kingdoms RPG both uses fatigue as a moderation mechanism. If you cast too much spells you become fatigued and can't cast anymore.
+Another way of balancing out magic spells is to use  _fatigue_.  and the Iron Kingdoms RPG both uses fatigue as a moderation mechanism. If you cast too much spells you become fatigued and can't cast anymore.
  
 I personally thing that Mana system are trying to emulate fatigue but missing the mark. Mana representing what you can do  _before_  getting fatigued. And that when you don't hav1e any Mana left your are too much exhausted to cast any spells.
  
@@ -52,7 +46,7 @@ So it _literally_ took the same text to emulate fatigue in my house rule.
 # The house rule
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NzA4Mzg0LC0xOTM4ODc1Njk1LDE3Nz
+eyJoaXN0b3J5IjpbNjAyODkxMzExLC0xOTM4ODc1Njk1LDE3Nz
 I4NTM2NDcsLTE5NDEzNjY0MDUsLTk3OTEyNzUxMSwxMzA1MDk2
 MDc1XX0=
 -->
