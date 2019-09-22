@@ -59,7 +59,7 @@ Most spellcasting classes have a way to memorise spells. If I don't want to rewr
 
 The rules make a distinction between casting spells from memory and from spell book. When casting spells from memory you have a increasing chance to forget it but you can cast spells from your spell book.
 
-Both mechanism have the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
+Both mechanism require an Ability Test. This ability test as the advantage to include both your caster ability and the level of the spell in the calculation. But it also requires some additional bookkeeping to remember which spells were previously cast.
 
 Rolling on the Magical Side Effects table is fun, I want to keep that.
  
@@ -70,7 +70,6 @@ Rolling on the Magical Side Effects table is fun, I want to keep that.
 > All Characters must consume food and water or lose HP equal to their Level through **fatigue**
 
 So to emulate fatigue in The Black Hack, without introducing new rules and mechanism, character should lose HP when they start to get fatigued
-
 
 
 # The final house rule
@@ -92,9 +91,9 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MzA5MjU3LC0xNTMxNzkwODExLC0xMD
-c3MjE2MjQxLC0xMjA3NjA3NjY4LDM4NjgzMDY0NSwxNTYxNjIx
-OTA1LC03MDc2NTI1MTYsLTE3NjE4MjI1NjksLTE5Mzg4NzU2OT
-UsMTc3Mjg1MzY0NywtMTk0MTM2NjQwNSwtOTc5MTI3NTExLDEz
-MDUwOTYwNzVdfQ==
+eyJoaXN0b3J5IjpbNTQ0NTk2OTE1LDY2NzMwOTI1NywtMTUzMT
+c5MDgxMSwtMTA3NzIxNjI0MSwtMTIwNzYwNzY2OCwzODY4MzA2
+NDUsMTU2MTYyMTkwNSwtNzA3NjUyNTE2LC0xNzYxODIyNTY5LC
+0xOTM4ODc1Njk1LDE3NzI4NTM2NDcsLTE5NDEzNjY0MDUsLTk3
+OTEyNzUxMSwxMzA1MDk2MDc1XX0=
 -->
