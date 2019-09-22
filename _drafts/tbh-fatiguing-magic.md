@@ -43,9 +43,10 @@ Let's go with that
 
 Before starting to write some house rule, let's take time to think about what that house rule shoud do.
 
-I'd like the house rule to stay compatible with both core and third party classes. So I'll try to reuse before creating something new and 
+* I'd like the house rule to stay compatible with both core and third party classes.
+* The house rule has to be simple, I can't write a 30 pages house rule for a 20 pages rule book.
 
-The house rule has to be simple, I can't write a 30 pages house rule for a 20 pages rule book.
+So I'll try to reuse before creating something new.
 
 ## What to keep from the actual rules
 
@@ -91,9 +92,9 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTI2ODQ2ODgsLTE1MzE3OTA4MTEsLT
-EwNzcyMTYyNDEsLTEyMDc2MDc2NjgsMzg2ODMwNjQ1LDE1NjE2
-MjE5MDUsLTcwNzY1MjUxNiwtMTc2MTgyMjU2OSwtMTkzODg3NT
-Y5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05NzkxMjc1MTEs
-MTMwNTA5NjA3NV19
+eyJoaXN0b3J5IjpbNjY3MzA5MjU3LC0xNTMxNzkwODExLC0xMD
+c3MjE2MjQxLC0xMjA3NjA3NjY4LDM4NjgzMDY0NSwxNTYxNjIx
+OTA1LC03MDc2NTI1MTYsLTE3NjE4MjI1NjksLTE5Mzg4NzU2OT
+UsMTc3Mjg1MzY0NywtMTk0MTM2NjQwNSwtOTc5MTI3NTExLDEz
+MDUwOTYwNzVdfQ==
 -->
