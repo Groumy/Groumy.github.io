@@ -17,7 +17,7 @@ The reason is quite simple :
 * My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
 * My memory cannot remember multiple time the same information
 
-So when I saw that memory was used as a balancing mechanisim in [The Black Hack](/tags/TheBlackHack) I was a little bit disapointed. I gave the game a chance and decided that if my players didn't I could get over it.
+So when I saw that memory was used as a balancing mechanisim in [The Black Hack](/tags/TheBlackHack) I was a little bit disapointed. I gave the game a chance and decided that if my players didn't mind I could get over it.
 
 But they openly said that they think it didn't make sense, so now I had to fix it.
 
@@ -89,8 +89,8 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjEyNDEwNywxNTYxNjIxOTA1LC03MD
-c2NTI1MTYsLTE3NjE4MjI1NjksLTE5Mzg4NzU2OTUsMTc3Mjg1
-MzY0NywtMTk0MTM2NjQwNSwtOTc5MTI3NTExLDEzMDUwOTYwNz
-VdfQ==
+eyJoaXN0b3J5IjpbMzg2ODMwNjQ1LDE1NjE2MjE5MDUsLTcwNz
+Y1MjUxNiwtMTc2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUz
+NjQ3LC0xOTQxMzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV
+19
 -->
