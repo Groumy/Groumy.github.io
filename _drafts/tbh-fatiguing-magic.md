@@ -19,11 +19,11 @@ The reason is quite simple :
 
 So when I saw that memory was used as a balancing mechanisim in [The Black Hack](/tags/TheBlackHack) I was a little bit disapointed. I gave the game a chance and decided that if my players didn't mind I could get over it.
 
-But they openly said that they think it didn't make sense, so now I had to fix it.
+But they openly said that they think it didn't make any sense, so now I have the right to fix it.
 
 # What would be better
 
-So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic) as you do don't please my group taste. What would now ? 
+So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic) as you do so don't work with my group taste. What would now ? 
 
 The obvious alternative is to use [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana).  It is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of The Black Hack.
 
@@ -89,8 +89,8 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2ODMwNjQ1LDE1NjE2MjE5MDUsLTcwNz
-Y1MjUxNiwtMTc2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUz
-NjQ3LC0xOTQxMzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV
-19
+eyJoaXN0b3J5IjpbLTEyMDc2MDc2NjgsMzg2ODMwNjQ1LDE1Nj
+E2MjE5MDUsLTcwNzY1MjUxNiwtMTc2MTgyMjU2OSwtMTkzODg3
+NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05NzkxMjc1MT
+EsMTMwNTA5NjA3NV19
 -->
