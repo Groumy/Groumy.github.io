@@ -9,9 +9,9 @@ tags:
 - fatigue
 ---
 
-> [Click here to skip to the actual house rule](#the-house-rule)
+> _For those that aren't interested in the why, you can juste [Click here to skip to the actual house rule](#the-house-rule)_
 
-I dislike when RPG system uses _memory_ as an excuse to apply some balance on their magic system. It attacks my [suspension of disbelief](https://en.wikipedia.org/wiki/Suspension_of_disbelief) and affect negatively the experience while playing it.
+I dislike when RPG system uses _memory_ as an excuse to apply some balance on their magic system. It attacks my [suspension of disbelief](https://en.wikipedia.org/wiki/Suspension_of_disbelief) and affect negatively the experience I have while playing it.
 
 The reason is quite simple : 
 * My memory don't usually start to forget things I just used ... It tends to forget things I rarely use ...
@@ -89,7 +89,8 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTYyMTkwNSwtNzA3NjUyNTE2LC0xNz
-YxODIyNTY5LC0xOTM4ODc1Njk1LDE3NzI4NTM2NDcsLTE5NDEz
-NjY0MDUsLTk3OTEyNzUxMSwxMzA1MDk2MDc1XX0=
+eyJoaXN0b3J5IjpbMTY1NjEyNDEwNywxNTYxNjIxOTA1LC03MD
+c2NTI1MTYsLTE3NjE4MjI1NjksLTE5Mzg4NzU2OTUsMTc3Mjg1
+MzY0NywtMTk0MTM2NjQwNSwtOTc5MTI3NTExLDEzMDUwOTYwNz
+VdfQ==
 -->
