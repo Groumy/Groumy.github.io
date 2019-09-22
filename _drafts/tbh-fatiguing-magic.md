@@ -25,13 +25,13 @@ But they openly said that they think it didn't make any sense, so now I have the
 
 So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic) as you do so don't work with my group taste. What would now ? 
 
-The obvious alternative is to use [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana).  It fit better naratively than memory and is used by numerous other RPGs. But mechanicaly it goes against the simplicity of resources management of The Black Hack. Something could be done 
+The obvious alternative is to use [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana).  It fit better naratively than memory and is used by numerous other RPGs. But mechanicaly it goes against the simplicity of resources management of The Black Hack. Something could be done with a _Usage Dice_ to represent Mana, but that feels clunky. 
 
 Another way of balancing out magic spells is to use  _fatigue_.  [True20](https://greenroninstore.com/collections/true20) and the [Iron Kingdoms RPG](https://store.privateerpress.com/games/iron-kingdoms-rpg) both uses fatigue as a moderation mechanism :
 
 * If you cast too much spells you become fatigued and can't cast anymore.
  
-I personally thing that Mana system are trying to emulate fatigue but they miss the mark. Mana represents what you can do  _before_  getting fatigued. And that when you don't have any Mana left your are too much exhausted to cast any spells. 
+I personally thing that Mana system are trying to emulate fatigue. Mana represents what you can do  _before_  getting fatigued. And that when you don't have any Mana left your are too much exhausted to cast any spells. 
  
 That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes. Like :
 * [Power Strain Blackout](https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerStrainBlackout)
@@ -89,7 +89,7 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg0NDk4NTIsLTEwNzcyMTYyNDEsLT
+eyJoaXN0b3J5IjpbLTE1MzE3OTA4MTEsLTEwNzcyMTYyNDEsLT
 EyMDc2MDc2NjgsMzg2ODMwNjQ1LDE1NjE2MjE5MDUsLTcwNzY1
 MjUxNiwtMTc2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUzNj
 Q3LC0xOTQxMzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV19
