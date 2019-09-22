@@ -41,20 +41,20 @@ Let's go with that
 
 # Some considerations
 
-Before starting to write some house rule, let's take time to think about what t
+Before starting to write some house rule, let's take time to think about what that house rule shoud do.
 
-I'd like the house rule to stay compatible with both core and third party classes.
+I'd like the house rule to stay compatible with both core and third party classes. So I'll try to reuse before creating something new and 
 
 The house rule has to be simple, I can't write a 30 pages house rule for a 20 pages rule book.
 
-# What to keep 
+## What to keep from the actual rules
 
-## From the spell casting system 
+### From the spell casting system 
 
-###  MEMORISING SPELLS
+####  MEMORISING SPELLS
 Most spellcasting classes have a way to memorise spells. If I don't want to rewrite every classes that I'm gonna use, I have to keep this mechanism.
 
-### CASTING SPELLS
+#### CASTING SPELLS
 
 The rules make a distinction between casting spells from memory and from spell book. When casting spells from memory you have a increasing chance to forget it but you can cast spells from your spell book.
 
@@ -91,9 +91,9 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE5NTIwNiwtMTUzMTc5MDgxMSwtMT
-A3NzIxNjI0MSwtMTIwNzYwNzY2OCwzODY4MzA2NDUsMTU2MTYy
-MTkwNSwtNzA3NjUyNTE2LC0xNzYxODIyNTY5LC0xOTM4ODc1Nj
-k1LDE3NzI4NTM2NDcsLTE5NDEzNjY0MDUsLTk3OTEyNzUxMSwx
-MzA1MDk2MDc1XX0=
+eyJoaXN0b3J5IjpbLTIxMTI2ODQ2ODgsLTE1MzE3OTA4MTEsLT
+EwNzcyMTYyNDEsLTEyMDc2MDc2NjgsMzg2ODMwNjQ1LDE1NjE2
+MjE5MDUsLTcwNzY1MjUxNiwtMTc2MTgyMjU2OSwtMTkzODg3NT
+Y5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05NzkxMjc1MTEs
+MTMwNTA5NjA3NV19
 -->
