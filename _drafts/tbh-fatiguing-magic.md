@@ -25,7 +25,7 @@ But they openly said that they think it didn't make any sense, so now I have the
 
 So [casting spells and forgetting about them](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic) as you do so don't work with my group taste. What would now ? 
 
-The obvious alternative is to use [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana).  It is a better fit naratively, but mechanicaly it goes against the simplicity of resources management of The Black Hack.
+The obvious alternative is to use [**Mana**](https://tvtropes.org/pmwiki/pmwiki.php/Main/Mana).  It fit better naratively than memory and is used by nu, but mechanicaly it goes against the simplicity of resources management of The Black Hack.
 
 Another way of balancing out magic spells is to use  _fatigue_.  [True20](https://greenroninstore.com/collections/true20) and the [Iron Kingdoms RPG](https://store.privateerpress.com/games/iron-kingdoms-rpg) both uses fatigue as a moderation mechanism :
 
@@ -89,8 +89,8 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc2MDc2NjgsMzg2ODMwNjQ1LDE1Nj
-E2MjE5MDUsLTcwNzY1MjUxNiwtMTc2MTgyMjU2OSwtMTkzODg3
-NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2NDA1LC05NzkxMjc1MT
-EsMTMwNTA5NjA3NV19
+eyJoaXN0b3J5IjpbLTEwNzcyMTYyNDEsLTEyMDc2MDc2NjgsMz
+g2ODMwNjQ1LDE1NjE2MjE5MDUsLTcwNzY1MjUxNiwtMTc2MTgy
+MjU2OSwtMTkzODg3NTY5NSwxNzcyODUzNjQ3LC0xOTQxMzY2ND
+A1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV19
 -->
