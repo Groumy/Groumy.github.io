@@ -31,12 +31,21 @@ Another way of balancing out magic spells is to use  _fatigue_.  [True20](https:
 
 * If you cast too much spells you become fatigued and can't cast anymore.
  
-I personally thing that Mana system are trying to emulate fatigue. Mana represents what you can do  _before_  getting fatigued. And that when you don't have any Mana left your are too much exhausted to cast any spells. 
+I personally thing that Mana system are trying to emulate fatigue. Mana represents what you can do  _before_  getting fatigued. And when you don't have any Mana left your are too much fatigued to cast any spells. 
  
 That's why I think that  _fatiguing magic_  is even more interesting narratively speaking. It allow a bunch of great tropes. Like :
 * [Power Strain Blackout](https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerStrainBlackout)
 * [Heroic Red Ring of Death](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicRROD)
 
+Let's go with that
+
+# Some considerations
+
+Before starting to write some house rule, let's take time to think about what t
+
+I'd like the house rule to stay compatible with both core and third party classes.
+
+The house rule has to be simple, I can't write a 30 pages house rule for a 20 pages rule book.
 
 # What to keep 
 
@@ -61,13 +70,6 @@ Rolling on the Magical Side Effects table is fun, I want to keep that.
 
 So to emulate fatigue in The Black Hack, without introducing new rules and mechanism, character should lose HP when they start to get fatigued
 
-# Other considerations
-
-I'd like the house rule to stay compatible with both core and third party classes.
-
-The house rule has to be simple, I can't write a 30 pages house rule for a 20 pages rule book.
-
-
 
 
 # The final house rule
@@ -89,9 +91,9 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE3OTA4MTEsLTEwNzcyMTYyNDEsLT
-EyMDc2MDc2NjgsMzg2ODMwNjQ1LDE1NjE2MjE5MDUsLTcwNzY1
-MjUxNiwtMTc2MTgyMjU2OSwtMTkzODg3NTY5NSwxNzcyODUzNj
-Q3LC0xOTQxMzY2NDA1LC05NzkxMjc1MTEsMTMwNTA5NjA3NV19
-
+eyJoaXN0b3J5IjpbLTE0MDE5NTIwNiwtMTUzMTc5MDgxMSwtMT
+A3NzIxNjI0MSwtMTIwNzYwNzY2OCwzODY4MzA2NDUsMTU2MTYy
+MTkwNSwtNzA3NjUyNTE2LC0xNzYxODIyNTY5LC0xOTM4ODc1Nj
+k1LDE3NzI4NTM2NDcsLTE5NDEzNjY0MDUsLTk3OTEyNzUxMSwx
+MzA1MDk2MDc1XX0=
 -->
