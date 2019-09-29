@@ -76,6 +76,8 @@ So to emulate fatigue in The Black Hack, without introducing new rules and mecha
 
 So this is what I came up with. It repalce a single section of the rule books and stays broadly compatible with third party classes and everything.
 
+I'm gonna test it out with my group over the next few sessions.
+
 ## CASTING SPELLS
 
  A Spellcaster can spend an **_Action_** on their Turn to **attempt to**  cast a spell or prayer from memory or by reading it from a book or scroll, when **_Turns_** are being tracked using **_Minutes_**.
@@ -91,5 +93,5 @@ A Spellcaster can only cast spells with level up to and equal to their Level.
 Arcane spells use Intelligence and prayers use Wisdom for all Attribute Tests.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NTk2OTE1XX0=
+eyJoaXN0b3J5IjpbLTU3MjkzMzYxMCw1NDQ1OTY5MTVdfQ==
 -->
