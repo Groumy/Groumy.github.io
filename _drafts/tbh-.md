@@ -30,7 +30,10 @@ So I started to look at different hack of The Black Hack to see if any brilliant
 
 ## Sharp Sword and Sinister Spells
 
-Sharp Show and Sinister Spells 
+Sharp Show and Sinister Spells have this little rules that prove that I was on the right track 
+
+> **Difficulty**
+The referee may assign a Difficulty modifier depending on the situation. This would *add to the d20 roll* for players trying to roll equal to or lower than their Attribute, *or subtract from the same roll* for monsters and NPCs. This modifier can range from +/- 1 for mildly difficult tasks to +/- 10 for near-impossible feats.
 
 
 
@@ -54,8 +57,7 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI2MjU3NTIsLTE4MDY4NDE5OTUsMT
-IwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3
-NDg2LC0yODA4MDQ4MzksMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbNjc0OTQ2NTgzLC0xODA2ODQxOTk1LDEyMD
+Y0ODA3NzMsNDM2NTcwNDM3LDc5NjcyNzM0NiwtMjExNTIwNzQ4
+NiwtMjgwODA0ODM5LDEzNDUwODA3NzQsNzMwOTk4MTE2XX0=
 -->
