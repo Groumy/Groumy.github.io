@@ -9,7 +9,7 @@ tags:
 
 In [The Black Hack Additional Things document](http://dngnsndrgns.blogspot.com/2016/05/additional-things.html)  David Black state in one of the side notes that :
 
-> [...] _one of the main goals I set myself when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which I think I’ve almost managed to do_ [...]
+> [...] _one of the main goals [he] set [himself] when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which [he] think [he has] almost managed to do_ [...]
 
 I agree that he _almost managed to do it_ but in The Black Hack Second Edition there's still some rules that requires players to add some values to their rolls. Those are : 
  * Powerfull Foe
@@ -22,7 +22,11 @@ At my table, those rule are often used and every time I see my players taking ti
 They could also simply roll, then add the modifier, but for [some reasons]({{ site.baseurl }}{% post_url
 2019-09-22-going-black %}) they seems to like to know what number they have to roll before they do.  
 
-T
+This got me thinking that there probably a different way of doing it.
+
+# Some research
+
+So I started to look at different hack of The Black Hack and 
 
 
 
@@ -47,6 +51,6 @@ Changing the way we interpret the die rolls impact critical hits.
 > # Why the change
 > TBH 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjg2ODAwNiwtMjgwODA0ODM5LDEzND
-UwODA3NzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzYzNzMyMzYsLTI4MDgwNDgzOSwxMzQ1MD
+gwNzc0LDczMDk5ODExNl19
 -->
