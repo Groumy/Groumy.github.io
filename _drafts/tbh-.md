@@ -26,7 +26,7 @@ This got me thinking that there probably a different way of doing it.
 
 # Basic Math
 
-So when you 
+So when you _add a number_ to a roll, basicaly what you are doing is shortening the range of
 
 # The Blackjack rule
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
@@ -48,8 +48,8 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzUxOTE4MCwtNDMyNTU5ODU0LDY3ND
-k0NjU4MywtMTgwNjg0MTk5NSwxMjA2NDgwNzczLDQzNjU3MDQz
-Nyw3OTY3MjczNDYsLTIxMTUyMDc0ODYsLTI4MDgwNDgzOSwxMz
-Q1MDgwNzc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE0ODQ0MjU5ODYsLTY3MzUxOTE4MCwtND
+MyNTU5ODU0LDY3NDk0NjU4MywtMTgwNjg0MTk5NSwxMjA2NDgw
+NzczLDQzNjU3MDQzNyw3OTY3MjczNDYsLTIxMTUyMDc0ODYsLT
+I4MDgwNDgzOSwxMzQ1MDgwNzc0LDczMDk5ODExNl19
 -->
