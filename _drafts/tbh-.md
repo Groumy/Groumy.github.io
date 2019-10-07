@@ -22,9 +22,7 @@ At my table, those rule are often used and every time I see my players taking ti
 They could also simply roll, then add the modifier, but for [some reasons]({{ site.baseurl }}{% post_url
 2019-09-22-going-black %}) they seems to like to know what number they have to roll before they do.  
 
-This got me thinking that there probably a different way of doing it.
-
-# Some research
+This got me thinking that there probably a different way of doing it. 
 
 So I started to look at different hack of The Black Hack and 
 
@@ -50,6 +48,7 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NzI3MzQ2LC0yMTE1MjA3NDg2LC0yOD
-A4MDQ4MzksMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTgyMDcyNTI3Miw3OTY3MjczNDYsLTIxMT
+UyMDc0ODYsLTI4MDgwNDgzOSwxMzQ1MDgwNzc0LDczMDk5ODEx
+Nl19
 -->
