@@ -30,7 +30,9 @@ So when you _add a number_ to a roll, basicaly what you are doing is reducing th
 
 Let's take an example :
 
-> A mediocre Wizard 
+> A mediocre Wizard with **10 in intelligence** cast a **1 first level spell** from it's spell book.
+> 
+> Normaly this Wizard would have to 9 or less on
 
 # The Blackjack rule
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
@@ -52,9 +54,9 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODgxMDMzOSwtMTE0MDM0MTQxNCwtMT
-Q4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NTQsNjc0OTQ2
-NTgzLC0xODA2ODQxOTk1LDEyMDY0ODA3NzMsNDM2NTcwNDM3LD
-c5NjcyNzM0NiwtMjExNTIwNzQ4NiwtMjgwODA0ODM5LDEzNDUw
-ODA3NzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjQ4MzIyMTEwLDEzNTg4MTAzMzksLTExND
+AzNDE0MTQsLTE0ODQ0MjU5ODYsLTY3MzUxOTE4MCwtNDMyNTU5
+ODU0LDY3NDk0NjU4MywtMTgwNjg0MTk5NSwxMjA2NDgwNzczLD
+QzNjU3MDQzNyw3OTY3MjczNDYsLTIxMTUyMDc0ODYsLTI4MDgw
+NDgzOSwxMzQ1MDgwNzc0LDczMDk5ODExNl19
 -->
