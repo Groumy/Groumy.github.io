@@ -7,7 +7,13 @@ tags:
 - TheBlackHack
 ---
 
-
+The Black Hack aimed at removing repetitive roll modifiers. It succeeded in general, but not completely and there's a couple of rules that requires players to add some values to their rolls :
+ * Powerfull Foe
+ * Banishing Undead
+ * Casting Spells
+ Those rules comes up relatively often at my table and every time I see my players taking time to think before they roll :
+ * Subtracting the number to add to their attribute score so they know what to get on their dice
+ So I was thinking there should be a way of doing it differently.
 
 
 
@@ -31,13 +37,8 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 Changing the way we interpret the die rolls impact critical hits. 
 
 > # Why the change
-> TBH aimed at removing repetitive roll modifiers. It succeeded in general, but not completely and there's a couple of rules that requires players to add some values to their rolls :
-> * Powerfull Foe
-> * Banishing Undead
-> * Casting Spells
-> Those rules comes up relatively often at my table and every time I see my players taking time to think before they roll :
-> * Subtracting the number to add to their attribute score so they know what to get on their dice
-> So I was thinking there should be a way of doing it differently.
+> TBH 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTI4MDgwNDgzOSwxMzQ1MDgwNzc0LDczMD
+k5ODExNl19
 -->
