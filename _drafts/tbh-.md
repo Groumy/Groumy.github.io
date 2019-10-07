@@ -16,8 +16,10 @@ I agree that he _almost managed to do it_ but in The Black Hack Second Edition t
  * Banishing Undead
  * Casting Spells
 
-At my table, those rule are often used and every time I see my players taking time to think before they roll. Their train of thought are us
- * Subtracting the number to add to their attribute score so they know what to get on their dice
+At my table, those rule are often used and every time I see my players taking time to think before they roll. Their train of thought are usually like this :
+ * Subtracting the modifer to their attribute score so they know what to get on their dice
+ 
+They could also simply roll, then add the modifier, but for some reason they seems to like what number they have to roll before they do. 
  So I was thinking there should be a way of doing it differently.
 
 
@@ -44,6 +46,6 @@ Changing the way we interpret the die rolls impact critical hits.
 > # Why the change
 > TBH 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODk1MDIyNiwtMjgwODA0ODM5LDEzND
+eyJoaXN0b3J5IjpbLTkyODg4MTg4MCwtMjgwODA0ODM5LDEzND
 UwODA3NzQsNzMwOTk4MTE2XX0=
 -->
