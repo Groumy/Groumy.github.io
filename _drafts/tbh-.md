@@ -48,9 +48,8 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 ## What about Critical hits ?
 Changing the way we interpret the die rolls impact critical hits. 
 
-> # Why the change
-> TBH 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUyMDc0ODYsLTI4MDgwNDgzOSwxMz
-Q1MDgwNzc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzk2NzI3MzQ2LC0yMTE1MjA3NDg2LC0yOD
+A4MDQ4MzksMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ==
 -->
