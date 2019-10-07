@@ -24,7 +24,9 @@ They could also simply roll, then add the modifier, but for [some reasons]({{ si
 
 This got me thinking that there probably a different way of doing it. 
 
-So I started to look at different hack of The Black Hack and 
+# How other Hacks handles it
+
+So I started to look at different hack of The Black Hack to see if any 
 
 
 
@@ -48,7 +50,7 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDcyNTI3Miw3OTY3MjczNDYsLTIxMT
-UyMDc0ODYsLTI4MDgwNDgzOSwxMzQ1MDgwNzc0LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbNDM2NTcwNDM3LDc5NjcyNzM0NiwtMjExNT
+IwNzQ4NiwtMjgwODA0ODM5LDEzNDUwODA3NzQsNzMwOTk4MTE2
+XX0=
 -->
