@@ -28,7 +28,9 @@ This got me thinking that there probably a different way of doing it.
 
 So when you _add a number_ to a roll, basicaly what you are doing is reducing the range of die face that result in a success. And thus reducing your chances of success.
 
+Let's take an example :
 
+> A mediocre Wizard 
 
 # The Blackjack rule
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
@@ -50,9 +52,9 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAzNDE0MTQsLTE0ODQ0MjU5ODYsLT
-Y3MzUxOTE4MCwtNDMyNTU5ODU0LDY3NDk0NjU4MywtMTgwNjg0
-MTk5NSwxMjA2NDgwNzczLDQzNjU3MDQzNyw3OTY3MjczNDYsLT
-IxMTUyMDc0ODYsLTI4MDgwNDgzOSwxMzQ1MDgwNzc0LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbMTM1ODgxMDMzOSwtMTE0MDM0MTQxNCwtMT
+Q4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NTQsNjc0OTQ2
+NTgzLC0xODA2ODQxOTk1LDEyMDY0ODA3NzMsNDM2NTcwNDM3LD
+c5NjcyNzM0NiwtMjExNTIwNzQ4NiwtMjgwODA0ODM5LDEzNDUw
+ODA3NzQsNzMwOTk4MTE2XX0=
 -->
