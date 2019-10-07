@@ -26,7 +26,11 @@ This got me thinking that there probably a different way of doing it.
 
 # How other Hacks handles it
 
-So I started to look at different hack of The Black Hack to see if any brilliant people outhere altered that mechanism to fix this. I didn't found a lot of hacks based on the Second Edition of the Black Hack, 
+So I started to look at different hack of The Black Hack to see if any brilliant people outhere altered that mechanism to fix this. I didn't found a lot of hacks based on the Second Edition of the Black Hack, but a bunch based on the first edition.
+
+## Sharp Sword and Sinister Spells
+
+Sharp Show and Sinister Spells 
 
 
 
@@ -50,7 +54,8 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY4NDE5OTUsMTIwNjQ4MDc3Myw0Mz
-Y1NzA0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3NDg2LC0yODA4MDQ4
-MzksMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MzI2MjU3NTIsLTE4MDY4NDE5OTUsMT
+IwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3
+NDg2LC0yODA4MDQ4MzksMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ
+==
 -->
