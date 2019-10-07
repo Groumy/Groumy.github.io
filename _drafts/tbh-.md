@@ -11,11 +11,12 @@ In [The Black Hack Additional Things document](http://dngnsndrgns.blogspot.com/2
 
 > [...] _one of the main goals I set myself when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which I think I’ve almost managed to do_ [...]
 
- succeeded in general, but not completely and there's a couple of rules that requires players to add some values to their rolls :
+I agree that he _almost managed to do it_ but in The Black Hack Second Edition there's still some rules that requires players to add some values to their rolls. Those are : 
  * Powerfull Foe
  * Banishing Undead
  * Casting Spells
- Those rules comes up relatively often at my table and every time I see my players taking time to think before they roll :
+
+At my table and every time I see my players taking time to think before they roll :
  * Subtracting the number to add to their attribute score so they know what to get on their dice
  So I was thinking there should be a way of doing it differently.
 
@@ -43,6 +44,6 @@ Changing the way we interpret the die rolls impact critical hits.
 > # Why the change
 > TBH 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3NTUxODg1LC0yODA4MDQ4MzksMTM0NT
+eyJoaXN0b3J5IjpbLTI2ODA0MTQwLC0yODA4MDQ4MzksMTM0NT
 A4MDc3NCw3MzA5OTgxMTZdfQ==
 -->
