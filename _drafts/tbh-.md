@@ -7,11 +7,11 @@ tags:
 - TheBlackHack
 ---
 
-In [The Black Hack v1 Additional Things](http://dngnsndrgns.blogspot.com/2016/05/additional-things.html) 
+In [The Black Hack Additional Things document](http://dngnsndrgns.blogspot.com/2016/05/additional-things.html)  David Black state in one of the side notes that :
 
 > [...] _one of the main goals I set myself when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which I think I’ve almost managed to do_ [...]
 
-The Black Hack aimed at removing repetitive roll modifiers. It succeeded in general, but not completely and there's a couple of rules that requires players to add some values to their rolls :
+ succeeded in general, but not completely and there's a couple of rules that requires players to add some values to their rolls :
  * Powerfull Foe
  * Banishing Undead
  * Casting Spells
@@ -43,6 +43,6 @@ Changing the way we interpret the die rolls impact critical hits.
 > # Why the change
 > TBH 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjcwMTA3MDEsLTI4MDgwNDgzOSwxMz
-Q1MDgwNzc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTA3NTUxODg1LC0yODA4MDQ4MzksMTM0NT
+A4MDc3NCw3MzA5OTgxMTZdfQ==
 -->
