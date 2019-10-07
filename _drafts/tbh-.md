@@ -26,7 +26,7 @@ This got me thinking that there probably a different way of doing it.
 
 # How other Hacks handles it
 
-So I started to look at different hack of The Black Hack to see if any 
+So I started to look at different hack of The Black Hack to see if any brilliant people outhere altered that mechanism.  I didn't found 
 
 
 
@@ -50,7 +50,7 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NTcwNDM3LDc5NjcyNzM0NiwtMjExNT
-IwNzQ4NiwtMjgwODA0ODM5LDEzNDUwODA3NzQsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTIwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2Nz
+I3MzQ2LC0yMTE1MjA3NDg2LC0yODA4MDQ4MzksMTM0NTA4MDc3
+NCw3MzA5OTgxMTZdfQ==
 -->
