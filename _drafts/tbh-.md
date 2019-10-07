@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: The Blackjack Hack
 categories: 
 - Tinkers
 tags: 
@@ -39,5 +39,5 @@ Changing the way we interpret the die rolls impact critical hits.
 > * Subtracting the number to add to their attribute score so they know what to get on their dice
 > So I was thinking there should be a way of doing it differently.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2OTU1MzUyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ==
 -->
