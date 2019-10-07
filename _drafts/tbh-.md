@@ -24,20 +24,9 @@ They could also simply roll, then add the modifier, but for [some reasons]({{ si
 
 This got me thinking that there probably a different way of doing it. 
 
-# How other Hacks handles it
-
-So I started to look at different hack of The Black Hack to see if any brilliant people outhere altered that mechanism to fix this. I didn't found a lot of hacks based on the Second Edition of the Black Hack, but a bunch based on the first edition.
-
-## Sharp Sword and Sinister Spells
-
-Sharp Show and Sinister Spells have this little rules that prove that I was on the right track 
-
-> **Difficulty**
-The referee may assign a Difficulty modifier depending on the situation. This would *add to the d20 roll* for players trying to roll equal to or lower than their Attribute, *or subtract from the same roll* for monsters and NPCs. This modifier can range from +/- 1 for mildly difficult tasks to +/- 10 for near-impossible feats.
 
 
-
-# Beat the odds
+# The Blackjack rule
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
 
 > Statistically they have the same odds, but mathematically you don't have to do anything.
@@ -57,7 +46,8 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0OTQ2NTgzLC0xODA2ODQxOTk1LDEyMD
-Y0ODA3NzMsNDM2NTcwNDM3LDc5NjcyNzM0NiwtMjExNTIwNzQ4
-NiwtMjgwODA0ODM5LDEzNDUwODA3NzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4MD
+Y4NDE5OTUsMTIwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2
+LC0yMTE1MjA3NDg2LC0yODA4MDQ4MzksMTM0NTA4MDc3NCw3Mz
+A5OTgxMTZdfQ==
 -->
