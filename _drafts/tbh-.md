@@ -24,7 +24,9 @@ They could also simply roll, then add the modifier, but for [some reasons]({{ si
 
 This got me thinking that there probably a different way of doing it. 
 
+# Basic Math
 
+So when you 
 
 # The Blackjack rule
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
@@ -46,8 +48,8 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4MD
-Y4NDE5OTUsMTIwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2
-LC0yMTE1MjA3NDg2LC0yODA4MDQ4MzksMTM0NTA4MDc3NCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTY3MzUxOTE4MCwtNDMyNTU5ODU0LDY3ND
+k0NjU4MywtMTgwNjg0MTk5NSwxMjA2NDgwNzczLDQzNjU3MDQz
+Nyw3OTY3MjczNDYsLTIxMTUyMDc0ODYsLTI4MDgwNDgzOSwxMz
+Q1MDgwNzc0LDczMDk5ODExNl19
 -->
