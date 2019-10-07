@@ -9,7 +9,7 @@ tags:
 
 In [The Black Hack Additional Things document](http://dngnsndrgns.blogspot.com/2016/05/additional-things.html)  David Black state in one of the side notes that :
 
-> [...] _one of the main goals [he] set [himself] when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which [he] think [he has] almost managed to do_ [...]
+> [...] _one of the main goals [he] set [himself] when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which [he] think [he's] almost managed to do_ [...]
 
 I agree that he _almost managed to do it_ but in The Black Hack Second Edition there's still some rules that requires players to add some values to their rolls. Those are : 
  * Powerfull Foe
@@ -51,6 +51,6 @@ Changing the way we interpret the die rolls impact critical hits.
 > # Why the change
 > TBH 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNzMyMzYsLTI4MDgwNDgzOSwxMzQ1MD
-gwNzc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIxMTUyMDc0ODYsLTI4MDgwNDgzOSwxMz
+Q1MDgwNzc0LDczMDk5ODExNl19
 -->
