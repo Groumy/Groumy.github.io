@@ -16,7 +16,7 @@ I agree that he _almost_ managed to do it and in The Black Hack Second Edition t
  * Banishing Undead
  * Casting Spells
 
-At my table, those rules comes up often. And  every time I see my players taking time to think before they roll. They take the time to subtracting the modifer to their attribute score so they know what to get on their dice
+At my table, those rules comes up often. And  every time I see my players taking time to think before they roll. They take the time to subtracting the modifer to their attribute score so they know what to get on their dice.
  
 They could also simply roll, then add the modifier, but for [some reasons]({{ site.baseurl }}{% post_url
 2019-09-22-going-black %}) they seems to like to know what number they have to roll before they do.  
@@ -55,10 +55,10 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwOTY1MDc1LDE5NDIyMzk5MzcsLTYwMj
-gwOTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1
-OTg2LC02NzM1MTkxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLT
-E4MDY4NDE5OTUsMTIwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3
-MzQ2LC0yMTE1MjA3NDg2LC0yODA4MDQ4MzksMTM0NTA4MDc3NC
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzAwOTg1ODEsMTk0MjIzOTkzNywtNj
+AyODA5MDU2LDEzNTg4MTAzMzksLTExNDAzNDE0MTQsLTE0ODQ0
+MjU5ODYsLTY3MzUxOTE4MCwtNDMyNTU5ODU0LDY3NDk0NjU4My
+wtMTgwNjg0MTk5NSwxMjA2NDgwNzczLDQzNjU3MDQzNyw3OTY3
+MjczNDYsLTIxMTUyMDc0ODYsLTI4MDgwNDgzOSwxMzQ1MDgwNz
+c0LDczMDk5ODExNl19
 -->
