@@ -16,7 +16,7 @@ I agree that he _almost_ managed to do it and in The Black Hack Second Edition t
  * Banishing Undead
  * Casting Spells
 
-At my table, those rules comes up often. And  every time I see my players taking time to think before they roll. They take the time to subtracting the modifer to their attribute score so they know what to get on their dice.
+At my table, those rules comes up often. And  every time I see my players taking time to think before they roll. They take the time to subtract the modifer to their attribute score so they know what to get on their dice.
  
 They could also simply roll, then add the modifier, but for [some reasons]({{ site.baseurl }}{% post_url
 2019-09-22-going-black %}) they seems to like to know what number they have to roll before they do.  
@@ -25,7 +25,7 @@ This got me thinking that there probably a different way of doing it.
 
 # Basic Math
 
-So when you _add a number_ to a roll, basicaly what you are doing is reducing the range of die face that result in a success. And thus reducing your chances of success.
+So when you _add a number_ to a roll, basicaly what you are doing is reducing the range of die faces that qoresult in a success. And thus reducing your chances of success.
 
 Let's take an example :
 
@@ -55,10 +55,10 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAwOTg1ODEsMTk0MjIzOTkzNywtNj
-AyODA5MDU2LDEzNTg4MTAzMzksLTExNDAzNDE0MTQsLTE0ODQ0
-MjU5ODYsLTY3MzUxOTE4MCwtNDMyNTU5ODU0LDY3NDk0NjU4My
-wtMTgwNjg0MTk5NSwxMjA2NDgwNzczLDQzNjU3MDQzNyw3OTY3
-MjczNDYsLTIxMTUyMDc0ODYsLTI4MDgwNDgzOSwxMzQ1MDgwNz
-c0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjEwNDk3OTUzMiwtMTkzMDA5ODU4MSwxOT
+QyMjM5OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOSwtMTE0MDM0
+MTQxNCwtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NT
+QsNjc0OTQ2NTgzLC0xODA2ODQxOTk1LDEyMDY0ODA3NzMsNDM2
+NTcwNDM3LDc5NjcyNzM0NiwtMjExNTIwNzQ4NiwtMjgwODA0OD
+M5LDEzNDUwODA3NzQsNzMwOTk4MTE2XX0=
 -->
