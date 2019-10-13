@@ -25,13 +25,13 @@ This got me thinking that there probably a different way of doing it.
 
 # Basic Math
 
-So when you _add a number_ to a roll, basicaly what you are doing is reducing the range of die faces that qoresult in a success. And thus reducing your chances of success.
+So when you _add a number_ to a roll, basicaly what you are doing is reducing the range of die faces that would result in a success. And thus reducing your chances of success.
 
 Let's take an example :
 
 > A mediocre Wizard with **10 in intelligence** cast a **1 first level spell** from it's spell book.
 > 
-> Normaly this Wizard would have to 9 or less on a d10. That's 9 possibilities of success. Or 45% chances of success. 
+> Normaly this Wizard would have to roll  9 or less on a d20. That's 9 possibilities of success. Or 45% chances of success. 
 > If we say that he now have to add 1 to this roll, the value of 9 is no longer a success, as it raise the total to 10. He now have 8 possibilities of success, or 40%.
 
 
@@ -55,7 +55,7 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDk3OTUzMiwtMTkzMDA5ODU4MSwxOT
+eyJoaXN0b3J5IjpbMTI0NDgyODk4MSwtMTkzMDA5ODU4MSwxOT
 QyMjM5OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOSwtMTE0MDM0
 MTQxNCwtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NT
 QsNjc0OTQ2NTgzLC0xODA2ODQxOTk1LDEyMDY0ODA3NzMsNDM2
