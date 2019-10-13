@@ -36,7 +36,7 @@ Let's take an example :
 
 ## An alternative
 
-But what if, instead of adding the modifier to the roll result, we shorten the range of by the other end. 
+But what if, instead of adding the modifier to the roll result, we shorten the range of by the other end.
 
 
 
@@ -60,11 +60,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk4NTU5ODcsLTM5NzY1MjU5NSwxMj
-Q0ODI4OTgxLC0xOTMwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgw
-OTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OT
-g2LC02NzM1MTkxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4
-MDY4NDE5OTUsMTIwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3Mz
-Q2LC0yMTE1MjA3NDg2LC0yODA4MDQ4MzksMTM0NTA4MDc3NCw3
-MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjc5ODU3Njg3LC0xMTM5ODU1OTg3LC0zOT
+c2NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5ODU4MSwxOTQyMjM5
+OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOSwtMTE0MDM0MTQxNC
+wtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NTQsNjc0
+OTQ2NTgzLC0xODA2ODQxOTk1LDEyMDY0ODA3NzMsNDM2NTcwND
+M3LDc5NjcyNzM0NiwtMjExNTIwNzQ4NiwtMjgwODA0ODM5LDEz
+NDUwODA3NzRdfQ==
 -->
