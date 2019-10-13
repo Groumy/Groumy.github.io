@@ -38,7 +38,7 @@ So a modifier simply shorten the range  by reducing the maximum number we can ro
 
 Now, what if instead we shorten the range by augmenting the minimum number we can roll ? 
 
-In our previous example, the range of possibl
+In our previous example, the range of possible values starts at 1 and end at 9 
 
 
 
@@ -62,11 +62,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTEyMjMzMzcsLTExMzk4NTU5ODcsLT
-M5NzY1MjU5NSwxMjQ0ODI4OTgxLC0xOTMwMDk4NTgxLDE5NDIy
-Mzk5MzcsLTYwMjgwOTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxND
-E0LC0xNDg0NDI1OTg2LC02NzM1MTkxODAsLTQzMjU1OTg1NCw2
-NzQ5NDY1ODMsLTE4MDY4NDE5OTUsMTIwNjQ4MDc3Myw0MzY1Nz
-A0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3NDg2LC0yODA4MDQ4Mzks
-MTM0NTA4MDc3NF19
+eyJoaXN0b3J5IjpbLTUwNDMzMDM5OSwtMTEzOTg1NTk4NywtMz
+k3NjUyNTk1LDEyNDQ4Mjg5ODEsLTE5MzAwOTg1ODEsMTk0MjIz
+OTkzNywtNjAyODA5MDU2LDEzNTg4MTAzMzksLTExNDAzNDE0MT
+QsLTE0ODQ0MjU5ODYsLTY3MzUxOTE4MCwtNDMyNTU5ODU0LDY3
+NDk0NjU4MywtMTgwNjg0MTk5NSwxMjA2NDgwNzczLDQzNjU3MD
+QzNyw3OTY3MjczNDYsLTIxMTUyMDc0ODYsLTI4MDgwNDgzOSwx
+MzQ1MDgwNzc0XX0=
 -->
