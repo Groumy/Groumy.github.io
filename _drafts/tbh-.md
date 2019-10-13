@@ -23,7 +23,7 @@ They could also simply roll, then add the modifier, but for [some reasons]({{ si
 
 This got me thinking that there probably a different way of doing it. 
 
-# Basic Math
+# Simple Math
 
 So when you _add a number_ to a roll, basicaly what you are doing is reducing the range of die faces that would result in a success. And thus reducing your chances of success.
 
@@ -55,10 +55,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDgyODk4MSwtMTkzMDA5ODU4MSwxOT
-QyMjM5OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOSwtMTE0MDM0
-MTQxNCwtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NT
-QsNjc0OTQ2NTgzLC0xODA2ODQxOTk1LDEyMDY0ODA3NzMsNDM2
-NTcwNDM3LDc5NjcyNzM0NiwtMjExNTIwNzQ4NiwtMjgwODA0OD
-M5LDEzNDUwODA3NzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM5NzY1MjU5NSwxMjQ0ODI4OTgxLC0xOT
+MwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgwOTA1NiwxMzU4ODEw
+MzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OTg2LC02NzM1MTkxOD
+AsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4MDY4NDE5OTUsMTIw
+NjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3ND
+g2LC0yODA4MDQ4MzksMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ==
+
 -->
