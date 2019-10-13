@@ -31,9 +31,12 @@ Let's take an example :
 
 > A mediocre Wizard with **10 in intelligence** cast a **1 first level spell** from it's spell book.
 > 
-> Normaly this Wizard would have to roll  9 or less on a d20. That's 9 possibilities of success. Or 45% chances of success. 
+> Normaly this Wizard would have to roll  9 or less on a d20. That's 9 possibilities of success  [_1 to 9_]. Or 45% chances of success. 
 > If we say that he now have to add 1 to this roll, the value of 9 is no longer a success, as it raise the total to 10. He now have 8 possibilities of success, or 40%.
 
+## An alternative
+
+But what if, instead of adding the modifier to the roll result, we shorten the range of su
 
 # The Blackjack rule
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
@@ -55,11 +58,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzY1MjU5NSwxMjQ0ODI4OTgxLC0xOT
-MwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgwOTA1NiwxMzU4ODEw
-MzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OTg2LC02NzM1MTkxOD
-AsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4MDY4NDE5OTUsMTIw
-NjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3ND
-g2LC0yODA4MDQ4MzksMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ==
-
+eyJoaXN0b3J5IjpbLTE1ODM3ODUxNjQsLTM5NzY1MjU5NSwxMj
+Q0ODI4OTgxLC0xOTMwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgw
+OTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OT
+g2LC02NzM1MTkxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4
+MDY4NDE5OTUsMTIwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3Mz
+Q2LC0yMTE1MjA3NDg2LC0yODA4MDQ4MzksMTM0NTA4MDc3NCw3
+MzA5OTgxMTZdfQ==
 -->
