@@ -36,7 +36,9 @@ Let's take an example :
 
 ## An alternative
 
-But what if, instead of adding the modifier to the roll result, we shorten the range of su
+But what if, instead of adding the modifier to the roll result, we shorten the range of by the other end. 
+
+
 
 # The Blackjack rule
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
@@ -58,7 +60,7 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM3ODUxNjQsLTM5NzY1MjU5NSwxMj
+eyJoaXN0b3J5IjpbLTExMzk4NTU5ODcsLTM5NzY1MjU5NSwxMj
 Q0ODI4OTgxLC0xOTMwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgw
 OTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OT
 g2LC02NzM1MTkxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4
