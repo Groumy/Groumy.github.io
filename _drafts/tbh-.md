@@ -11,7 +11,7 @@ In [The Black Hack Additional Things document](http://dngnsndrgns.blogspot.com/2
 
 > [...] _one of the main goals [he] set [himself] when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which [he] think [he's] almost managed to do_ [...]
 
-I agree that he _almost managed to do it_ but in The Black Hack Second Edition there's still some rules that requires players to add some values to their rolls. Those are : 
+I agree that he _almost_ managed to do it but in The Black Hack Second Edition there's still some rules that requires players to apply modifiers to their rolls. Those are : 
  * Powerfull Foe
  * Banishing Undead
  * Casting Spells
@@ -56,9 +56,10 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjgwOTA1NiwxMzU4ODEwMzM5LC0xMT
-QwMzQxNDE0LC0xNDg0NDI1OTg2LC02NzM1MTkxODAsLTQzMjU1
-OTg1NCw2NzQ5NDY1ODMsLTE4MDY4NDE5OTUsMTIwNjQ4MDc3My
-w0MzY1NzA0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3NDg2LC0yODA4
-MDQ4MzksMTM0NTA4MDc3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTk0MjIzOTkzNywtNjAyODA5MDU2LDEzNT
+g4MTAzMzksLTExNDAzNDE0MTQsLTE0ODQ0MjU5ODYsLTY3MzUx
+OTE4MCwtNDMyNTU5ODU0LDY3NDk0NjU4MywtMTgwNjg0MTk5NS
+wxMjA2NDgwNzczLDQzNjU3MDQzNyw3OTY3MjczNDYsLTIxMTUy
+MDc0ODYsLTI4MDgwNDgzOSwxMzQ1MDgwNzc0LDczMDk5ODExNl
+19
 -->
