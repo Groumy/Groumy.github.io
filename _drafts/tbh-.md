@@ -42,7 +42,7 @@ In our previous example, the range of possible values starts at 1 and end at 10.
 
 But, it's simpler to say that Jimmy the Wizard, as to roll bellow his stat *and* above the spell level than having to calculate what it's the maximum he is allowd to roll.
 
-# The actual house rule
+# The house rule
 
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
 
@@ -59,11 +59,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU2NDM2MjMsMTkwMDc1MjMzOCwtNT
-c5MTQ0NTI2LDE3MTUzOTY5ODIsLTUwNDMzMDM5OSwtMTEzOTg1
-NTk4NywtMzk3NjUyNTk1LDEyNDQ4Mjg5ODEsLTE5MzAwOTg1OD
-EsMTk0MjIzOTkzNywtNjAyODA5MDU2LDEzNTg4MTAzMzksLTEx
-NDAzNDE0MTQsLTE0ODQ0MjU5ODYsLTY3MzUxOTE4MCwtNDMyNT
-U5ODU0LDY3NDk0NjU4MywtMTgwNjg0MTk5NSwxMjA2NDgwNzcz
-LDQzNjU3MDQzN119
+eyJoaXN0b3J5IjpbMTM1ODEwMDAzLC0xOTk1NjQzNjIzLDE5MD
+A3NTIzMzgsLTU3OTE0NDUyNiwxNzE1Mzk2OTgyLC01MDQzMzAz
+OTksLTExMzk4NTU5ODcsLTM5NzY1MjU5NSwxMjQ0ODI4OTgxLC
+0xOTMwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgwOTA1NiwxMzU4
+ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OTg2LC02NzM1MT
+kxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4MDY4NDE5OTUs
+MTIwNjQ4MDc3M119
 -->
