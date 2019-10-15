@@ -34,9 +34,11 @@ Let's take an example :
 > Normaly this Wizard would have to roll  10 or less on a d20. That's 10 possibilities of success  [_1 to 10_]. Or 50% chances of success. 
 > If we say that he now have to add 1 to this roll, the value of 10 is no longer a success, as it raise the total to 11. He now have 9 possibilities of success, or 45%.
 
-Now, what if instead we shorten the range by augmenting the minimum number we can roll ? 
+That range as a minimum (1) and a maximum (10) and the _usual_ way of handling modifier is to affect the value rolled and thus reduce the maximum number we can roll. 
 
-In our previous example, the range of possible values starts at 1 and end at 9 
+Now, what if instead we alter the minimum value we can roll ? 
+
+In our previous example, the range of possible values starts at 1 and end at 10. 
 
 
 
@@ -60,11 +62,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxOTIzNjUwLC01MDQzMzAzOTksLTExMz
-k4NTU5ODcsLTM5NzY1MjU5NSwxMjQ0ODI4OTgxLC0xOTMwMDk4
-NTgxLDE5NDIyMzk5MzcsLTYwMjgwOTA1NiwxMzU4ODEwMzM5LC
-0xMTQwMzQxNDE0LC0xNDg0NDI1OTg2LC02NzM1MTkxODAsLTQz
-MjU1OTg1NCw2NzQ5NDY1ODMsLTE4MDY4NDE5OTUsMTIwNjQ4MD
-c3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3NDg2LC0y
-ODA4MDQ4MzldfQ==
+eyJoaXN0b3J5IjpbMTcxNTM5Njk4MiwtNTA0MzMwMzk5LC0xMT
+M5ODU1OTg3LC0zOTc2NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5
+ODU4MSwxOTQyMjM5OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOS
+wtMTE0MDM0MTQxNCwtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00
+MzI1NTk4NTQsNjc0OTQ2NTgzLC0xODA2ODQxOTk1LDEyMDY0OD
+A3NzMsNDM2NTcwNDM3LDc5NjcyNzM0NiwtMjExNTIwNzQ4Niwt
+MjgwODA0ODM5XX0=
 -->
