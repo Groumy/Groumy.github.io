@@ -29,7 +29,7 @@ So when you _add a number_ to a roll, basicaly what you are doing is reducing th
 
 Let's take an example :
 
-> An average Wizard with **11 in intelligence** cast a **1 first level spell** from it's spell book.
+> Jimmy, an average Wizard with **11 in intelligence** cast a **1 first level spell** from it's spell book.
 > 
 > Normaly this Wizard would have to roll  10 or less on a d20. That's 10 possibilities of success  [_1 to 10_]. Or 50% chances of success. 
 > If we say that he now have to add 1 to this roll, the value of 10 is no longer a success, as it raise the total to 11. He now have 9 possibilities of success, or 45%.
@@ -40,7 +40,7 @@ Now, what if instead we alter the minimum value we can roll ?
 
 In our previous example, the range of possible values starts at 1 and end at 10. If we add the modifier to the lowest value we can roll, we would then have a range of 2 to 10. Which is sill 9 possibilities of success and is exactly the same odds. 
 
-
+But, it's way simpler to say that Jimmy the Wizard, as to roll bellow his stat *and* above the spell level which is 1.
 
 # The Blackjack rule
 When a rule in The Black Hack ask you to _add a number_ to an attribute test, you simply have to roll _higher_ than the given number _and_ under your attribute.
@@ -62,11 +62,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTE0NDUyNiwxNzE1Mzk2OTgyLC01MD
-QzMzAzOTksLTExMzk4NTU5ODcsLTM5NzY1MjU5NSwxMjQ0ODI4
-OTgxLC0xOTMwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgwOTA1Ni
-wxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OTg2LC02
-NzM1MTkxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4MDY4ND
-E5OTUsMTIwNjQ4MDc3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2LC0y
-MTE1MjA3NDg2XX0=
+eyJoaXN0b3J5IjpbMTkwMDc1MjMzOCwtNTc5MTQ0NTI2LDE3MT
+UzOTY5ODIsLTUwNDMzMDM5OSwtMTEzOTg1NTk4NywtMzk3NjUy
+NTk1LDEyNDQ4Mjg5ODEsLTE5MzAwOTg1ODEsMTk0MjIzOTkzNy
+wtNjAyODA5MDU2LDEzNTg4MTAzMzksLTExNDAzNDE0MTQsLTE0
+ODQ0MjU5ODYsLTY3MzUxOTE4MCwtNDMyNTU5ODU0LDY3NDk0Nj
+U4MywtMTgwNjg0MTk5NSwxMjA2NDgwNzczLDQzNjU3MDQzNyw3
+OTY3MjczNDZdfQ==
 -->
