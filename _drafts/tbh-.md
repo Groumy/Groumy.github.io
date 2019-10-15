@@ -29,12 +29,10 @@ So when you _add a number_ to a roll, basicaly what you are doing is reducing th
 
 Let's take an example :
 
-> A mediocre Wizard with **10 in intelligence** cast a **1 first level spell** from it's spell book.
+> An average Wizard with **11 in intelligence** cast a **1 first level spell** from it's spell book.
 > 
-> Normaly this Wizard would have to roll  9 or less on a d20. That's 9 possibilities of success  [_1 to 9_]. Or 45% chances of success. 
-> If we say that he now have to add 1 to this roll, the value of 9 is no longer a success, as it raise the total to 10. He now have 8 possibilities of success, or 40%.
-
-So a modifier simply shorten the range  by reducing the maximum number we can roll. 
+> Normaly this Wizard would have to roll  10 or less on a d20. That's 10 possibilities of success  [_1 to 10_]. Or 50% chances of success. 
+> If we say that he now have to add 1 to this roll, the value of 10 is no longer a success, as it raise the total to 11. He now have 9 possibilities of success, or 45%.
 
 Now, what if instead we shorten the range by augmenting the minimum number we can roll ? 
 
@@ -62,11 +60,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDMzMDM5OSwtMTEzOTg1NTk4NywtMz
-k3NjUyNTk1LDEyNDQ4Mjg5ODEsLTE5MzAwOTg1ODEsMTk0MjIz
-OTkzNywtNjAyODA5MDU2LDEzNTg4MTAzMzksLTExNDAzNDE0MT
-QsLTE0ODQ0MjU5ODYsLTY3MzUxOTE4MCwtNDMyNTU5ODU0LDY3
-NDk0NjU4MywtMTgwNjg0MTk5NSwxMjA2NDgwNzczLDQzNjU3MD
-QzNyw3OTY3MjczNDYsLTIxMTUyMDc0ODYsLTI4MDgwNDgzOSwx
-MzQ1MDgwNzc0XX0=
+eyJoaXN0b3J5IjpbMjUxOTIzNjUwLC01MDQzMzAzOTksLTExMz
+k4NTU5ODcsLTM5NzY1MjU5NSwxMjQ0ODI4OTgxLC0xOTMwMDk4
+NTgxLDE5NDIyMzk5MzcsLTYwMjgwOTA1NiwxMzU4ODEwMzM5LC
+0xMTQwMzQxNDE0LC0xNDg0NDI1OTg2LC02NzM1MTkxODAsLTQz
+MjU1OTg1NCw2NzQ5NDY1ODMsLTE4MDY4NDE5OTUsMTIwNjQ4MD
+c3Myw0MzY1NzA0MzcsNzk2NzI3MzQ2LC0yMTE1MjA3NDg2LC0y
+ODA4MDQ4MzldfQ==
 -->
