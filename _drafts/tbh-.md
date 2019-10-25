@@ -18,8 +18,7 @@ I agree that he _almost_ managed to do it and in The Black Hack Second Edition t
 
 At my table, those rules comes up often. And  every time I see my players taking time to think before they roll. They take the time to subtract the modifer to their attribute score so they know what to get on their dice.
  
-They could also simply roll, then add the modifier, but for [some reasons]({{ site.baseurl }}{% post_url
-2019-09-22-going-black %}) they seems to like to know what number they have to roll before they do.  
+They could also simply roll, then add the modifier, but for some reasons they seems to like to know what number they have to roll before they do.  
 
 This got me thinking that there probably a different way of doing it. 
 
@@ -59,11 +58,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODEwMDAzLC0xOTk1NjQzNjIzLDE5MD
-A3NTIzMzgsLTU3OTE0NDUyNiwxNzE1Mzk2OTgyLC01MDQzMzAz
-OTksLTExMzk4NTU5ODcsLTM5NzY1MjU5NSwxMjQ0ODI4OTgxLC
-0xOTMwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgwOTA1NiwxMzU4
-ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OTg2LC02NzM1MT
-kxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4MDY4NDE5OTUs
-MTIwNjQ4MDc3M119
+eyJoaXN0b3J5IjpbMjkyNTI4NjcsMTM1ODEwMDAzLC0xOTk1Nj
+QzNjIzLDE5MDA3NTIzMzgsLTU3OTE0NDUyNiwxNzE1Mzk2OTgy
+LC01MDQzMzAzOTksLTExMzk4NTU5ODcsLTM5NzY1MjU5NSwxMj
+Q0ODI4OTgxLC0xOTMwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgw
+OTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OT
+g2LC02NzM1MTkxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4
+MDY4NDE5OTVdfQ==
 -->
