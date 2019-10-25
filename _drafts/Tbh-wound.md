@@ -10,8 +10,11 @@
    * D10 = 30 %
    * D12 = 41,67 %
 * Critical roll twice the dice
+* Armor raise TN
+	* Medium = 5
+	* Heavy = 6
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0OTEyMTYwXX0=
+eyJoaXN0b3J5IjpbNzA2NTU4NjA0LDI4NDkxMjE2MF19
 -->
