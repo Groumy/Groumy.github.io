@@ -48,7 +48,7 @@ If we apply this rules to the Powerful Foe rule, player's won't be able to roll 
 
 For some it might be ok that since the foe is more powerful than you, you just can't criticaly hit it, but for most players they will have the impression we have robbed them ... 
 
-So, let's say that you 
+So, now that we don't use 
 
 # The house rule
 
@@ -65,11 +65,11 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAwNjQzODEsLTEzNzc0MjY3MjYsND
-c2NTkzMzE2LDI5MjUyODY3LDEzNTgxMDAwMywtMTk5NTY0MzYy
-MywxOTAwNzUyMzM4LC01NzkxNDQ1MjYsMTcxNTM5Njk4MiwtNT
-A0MzMwMzk5LC0xMTM5ODU1OTg3LC0zOTc2NTI1OTUsMTI0NDgy
-ODk4MSwtMTkzMDA5ODU4MSwxOTQyMjM5OTM3LC02MDI4MDkwNT
-YsMTM1ODgxMDMzOSwtMTE0MDM0MTQxNCwtMTQ4NDQyNTk4Niwt
-NjczNTE5MTgwXX0=
+eyJoaXN0b3J5IjpbMTc4MTIxNjIyOSwtMTQ4MDA2NDM4MSwtMT
+M3NzQyNjcyNiw0NzY1OTMzMTYsMjkyNTI4NjcsMTM1ODEwMDAz
+LC0xOTk1NjQzNjIzLDE5MDA3NTIzMzgsLTU3OTE0NDUyNiwxNz
+E1Mzk2OTgyLC01MDQzMzAzOTksLTExMzk4NTU5ODcsLTM5NzY1
+MjU5NSwxMjQ0ODI4OTgxLC0xOTMwMDk4NTgxLDE5NDIyMzk5Mz
+csLTYwMjgwOTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0x
+NDg0NDI1OTg2XX0=
 -->
