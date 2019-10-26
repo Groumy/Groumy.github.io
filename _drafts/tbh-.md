@@ -42,7 +42,9 @@ Now, what if instead we alter the minimum value we can roll ?
 
 But, I find it simpler to say that Jimmy the Wizard, as to roll bellow his stat **and** above the spell level than having to calculate what it's the maximum he is allowed to roll.
 
+## What about Critical hits ?
 
+If Changing the way we interpret the die rolls impact critical hits. 
 
 # The house rule
 
@@ -56,16 +58,14 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 > 
 > Basically those three rules are hiding a difficulty level subsystem. One that kind of range from 1 to 10
 
-## What about Critical hits ?
-Changing the way we interpret the die rolls impact critical hits. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYwODk4NywyOTI1Mjg2NywxMzU4MT
-AwMDMsLTE5OTU2NDM2MjMsMTkwMDc1MjMzOCwtNTc5MTQ0NTI2
-LDE3MTUzOTY5ODIsLTUwNDMzMDM5OSwtMTEzOTg1NTk4NywtMz
-k3NjUyNTk1LDEyNDQ4Mjg5ODEsLTE5MzAwOTg1ODEsMTk0MjIz
-OTkzNywtNjAyODA5MDU2LDEzNTg4MTAzMzksLTExNDAzNDE0MT
-QsLTE0ODQ0MjU5ODYsLTY3MzUxOTE4MCwtNDMyNTU5ODU0LDY3
-NDk0NjU4M119
+eyJoaXN0b3J5IjpbNDc2NTkzMzE2LDI5MjUyODY3LDEzNTgxMD
+AwMywtMTk5NTY0MzYyMywxOTAwNzUyMzM4LC01NzkxNDQ1MjYs
+MTcxNTM5Njk4MiwtNTA0MzMwMzk5LC0xMTM5ODU1OTg3LC0zOT
+c2NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5ODU4MSwxOTQyMjM5
+OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOSwtMTE0MDM0MTQxNC
+wtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NTQsNjc0
+OTQ2NTgzXX0=
 -->
