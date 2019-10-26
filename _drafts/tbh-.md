@@ -31,9 +31,10 @@ Let's take an example :
 > Jimmy, an average Wizard with **11 in intelligence** cast a **1 first level spell** from it's spell book.
 > 
 > Normaly this Wizard would have to roll  10 or less on a d20. That's 10 possibilities of success  [_1 to 10_]. Or 50% chances of success. 
-> If we say that he now have to add 1 to this roll, the value of 10 is no longer a success, as it raise the total to 11. He now have 9 possibilities of success, or 45%.
 
-That range as a minimum (1) and a maximum (10) and the _usual_ way of handling modifier is to affect the value rolled and thus reduce the maximum number we can roll. 
+That range as a minimum value (1) and a maximum value (10) and the _usual_ way of handling modifier is to affect the value rolled and thus reduce the maximum number we can roll. 
+
+> *If we say that he now have to add 1 to this roll, the value of 10 is no longer a success, as it raise the total to 11. He now have 9 possibilities of success, or 45%.
 
 Now, what if instead we alter the minimum value we can roll ? 
 
@@ -58,11 +59,11 @@ Changing the way we interpret the die rolls impact critical hits.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyNTI4NjcsMTM1ODEwMDAzLC0xOTk1Nj
-QzNjIzLDE5MDA3NTIzMzgsLTU3OTE0NDUyNiwxNzE1Mzk2OTgy
-LC01MDQzMzAzOTksLTExMzk4NTU5ODcsLTM5NzY1MjU5NSwxMj
-Q0ODI4OTgxLC0xOTMwMDk4NTgxLDE5NDIyMzk5MzcsLTYwMjgw
-OTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0xNDg0NDI1OT
-g2LC02NzM1MTkxODAsLTQzMjU1OTg1NCw2NzQ5NDY1ODMsLTE4
-MDY4NDE5OTVdfQ==
+eyJoaXN0b3J5IjpbMTAxODQ5OTYxLDI5MjUyODY3LDEzNTgxMD
+AwMywtMTk5NTY0MzYyMywxOTAwNzUyMzM4LC01NzkxNDQ1MjYs
+MTcxNTM5Njk4MiwtNTA0MzMwMzk5LC0xMTM5ODU1OTg3LC0zOT
+c2NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5ODU4MSwxOTQyMjM5
+OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOSwtMTE0MDM0MTQxNC
+wtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NTQsNjc0
+OTQ2NTgzXX0=
 -->
