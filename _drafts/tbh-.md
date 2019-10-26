@@ -48,7 +48,7 @@ If we apply this rules to the Powerful Foe rule, player's won't be able to roll 
 
 For some it might be ok that since the foe is more powerful than you, you just can't criticaly hit it, but for most players they will have the impression we have robbed them ... 
 
-So, now that we don't use 
+A simple fix is to move the Critical Hit at the other end of the possible range of success, and thus when you roll the highest value you can
 
 # The house rule
 
@@ -65,11 +65,11 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTIxNjIyOSwtMTQ4MDA2NDM4MSwtMT
-M3NzQyNjcyNiw0NzY1OTMzMTYsMjkyNTI4NjcsMTM1ODEwMDAz
-LC0xOTk1NjQzNjIzLDE5MDA3NTIzMzgsLTU3OTE0NDUyNiwxNz
-E1Mzk2OTgyLC01MDQzMzAzOTksLTExMzk4NTU5ODcsLTM5NzY1
-MjU5NSwxMjQ0ODI4OTgxLC0xOTMwMDk4NTgxLDE5NDIyMzk5Mz
-csLTYwMjgwOTA1NiwxMzU4ODEwMzM5LC0xMTQwMzQxNDE0LC0x
-NDg0NDI1OTg2XX0=
+eyJoaXN0b3J5IjpbLTIxMzU1NDk1MDcsLTE0ODAwNjQzODEsLT
+EzNzc0MjY3MjYsNDc2NTkzMzE2LDI5MjUyODY3LDEzNTgxMDAw
+MywtMTk5NTY0MzYyMywxOTAwNzUyMzM4LC01NzkxNDQ1MjYsMT
+cxNTM5Njk4MiwtNTA0MzMwMzk5LC0xMTM5ODU1OTg3LC0zOTc2
+NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5ODU4MSwxOTQyMjM5OT
+M3LC02MDI4MDkwNTYsMTM1ODgxMDMzOSwtMTE0MDM0MTQxNCwt
+MTQ4NDQyNTk4Nl19
 -->
