@@ -44,7 +44,7 @@ But, I find it simpler to say that Jimmy the Wizard, as to roll bellow his stat 
 
 ## What about Critical hits ?
 
-If Changing the way we interpret the die rolls impact critical hits. 
+If we apply this rules to the Powerful Foe rule, player's won't be able to roll Critical Hits anymore
 
 # The house rule
 
@@ -61,11 +61,11 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NTkzMzE2LDI5MjUyODY3LDEzNTgxMD
-AwMywtMTk5NTY0MzYyMywxOTAwNzUyMzM4LC01NzkxNDQ1MjYs
-MTcxNTM5Njk4MiwtNTA0MzMwMzk5LC0xMTM5ODU1OTg3LC0zOT
-c2NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5ODU4MSwxOTQyMjM5
-OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOSwtMTE0MDM0MTQxNC
-wtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00MzI1NTk4NTQsNjc0
-OTQ2NTgzXX0=
+eyJoaXN0b3J5IjpbLTEzNzc0MjY3MjYsNDc2NTkzMzE2LDI5Mj
+UyODY3LDEzNTgxMDAwMywtMTk5NTY0MzYyMywxOTAwNzUyMzM4
+LC01NzkxNDQ1MjYsMTcxNTM5Njk4MiwtNTA0MzMwMzk5LC0xMT
+M5ODU1OTg3LC0zOTc2NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5
+ODU4MSwxOTQyMjM5OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOS
+wtMTE0MDM0MTQxNCwtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00
+MzI1NTk4NTRdfQ==
 -->
