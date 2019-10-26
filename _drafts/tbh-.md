@@ -12,7 +12,7 @@ In [The Black Hack Additional Things document](http://dngnsndrgns.blogspot.com/2
 > [...] _one of the main goals [he] set [himself] when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which [he] think [he's] almost managed to do_ [...]
 
 I agree that he _almost_ managed to do it and in The Black Hack Second Edition there's still some rules that requires players to apply modifiers to their rolls. Those are : 
- * Powerfull Foe
+ * Powerfull Foe ([]())
  * Banishing Undead
  * Casting Spells
 
@@ -61,11 +61,11 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc0MjY3MjYsNDc2NTkzMzE2LDI5Mj
-UyODY3LDEzNTgxMDAwMywtMTk5NTY0MzYyMywxOTAwNzUyMzM4
-LC01NzkxNDQ1MjYsMTcxNTM5Njk4MiwtNTA0MzMwMzk5LC0xMT
-M5ODU1OTg3LC0zOTc2NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5
-ODU4MSwxOTQyMjM5OTM3LC02MDI4MDkwNTYsMTM1ODgxMDMzOS
-wtMTE0MDM0MTQxNCwtMTQ4NDQyNTk4NiwtNjczNTE5MTgwLC00
-MzI1NTk4NTRdfQ==
+eyJoaXN0b3J5IjpbLTE5NDMzOTU1MTAsLTEzNzc0MjY3MjYsND
+c2NTkzMzE2LDI5MjUyODY3LDEzNTgxMDAwMywtMTk5NTY0MzYy
+MywxOTAwNzUyMzM4LC01NzkxNDQ1MjYsMTcxNTM5Njk4MiwtNT
+A0MzMwMzk5LC0xMTM5ODU1OTg3LC0zOTc2NTI1OTUsMTI0NDgy
+ODk4MSwtMTkzMDA5ODU4MSwxOTQyMjM5OTM3LC02MDI4MDkwNT
+YsMTM1ODgxMDMzOSwtMTE0MDM0MTQxNCwtMTQ4NDQyNTk4Niwt
+NjczNTE5MTgwXX0=
 -->
