@@ -46,7 +46,9 @@ But, I find it simpler to say that Jimmy the Wizard, as to roll bellow his stat 
 
 If we apply this rules to the Powerful Foe rule, player's won't be able to roll Critical Hits anymore when attacking an opponent with higher HD than their own, as the they will have to roll above their differences in HD on the D20.
 
-For some it might be ok that since the foe is 
+For some it might be ok that since the foe is more powerful than you, you just can't criticaly hit it, but for most players they will have the impression we have robbed them ... 
+
+So, let's say that you 
 
 # The house rule
 
@@ -63,11 +65,11 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MTczNDgxLC0xMzc3NDI2NzI2LDQ3Nj
-U5MzMxNiwyOTI1Mjg2NywxMzU4MTAwMDMsLTE5OTU2NDM2MjMs
-MTkwMDc1MjMzOCwtNTc5MTQ0NTI2LDE3MTUzOTY5ODIsLTUwND
-MzMDM5OSwtMTEzOTg1NTk4NywtMzk3NjUyNTk1LDEyNDQ4Mjg5
-ODEsLTE5MzAwOTg1ODEsMTk0MjIzOTkzNywtNjAyODA5MDU2LD
-EzNTg4MTAzMzksLTExNDAzNDE0MTQsLTE0ODQ0MjU5ODYsLTY3
-MzUxOTE4MF19
+eyJoaXN0b3J5IjpbLTE0ODAwNjQzODEsLTEzNzc0MjY3MjYsND
+c2NTkzMzE2LDI5MjUyODY3LDEzNTgxMDAwMywtMTk5NTY0MzYy
+MywxOTAwNzUyMzM4LC01NzkxNDQ1MjYsMTcxNTM5Njk4MiwtNT
+A0MzMwMzk5LC0xMTM5ODU1OTg3LC0zOTc2NTI1OTUsMTI0NDgy
+ODk4MSwtMTkzMDA5ODU4MSwxOTQyMjM5OTM3LC02MDI4MDkwNT
+YsMTM1ODgxMDMzOSwtMTE0MDM0MTQxNCwtMTQ4NDQyNTk4Niwt
+NjczNTE5MTgwXX0=
 -->
