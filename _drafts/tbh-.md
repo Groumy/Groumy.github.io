@@ -12,7 +12,7 @@ In [The Black Hack Additional Things document](http://dngnsndrgns.blogspot.com/2
 > [...] _one of the main goals [he] set [himself] when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which [he] think [he's] almost managed to do_ [...]
 
 I agree that he _almost_ managed to do it and in The Black Hack Second Edition there's still some rules that requires players to apply modifiers to their rolls. Those are : 
- * [Powerfull Foe](https://github.com/sdsalyer/The_Black_Hack_2e_Booklet_MD_1.0/blob/master/The_Black_Hack_2e_Booklet_MD_1.0.md#powerful-foe)
+ * Powerfull Foe
  * Banishing Undead
  * Casting Spells
 
@@ -44,7 +44,7 @@ But, I find it simpler to say that Jimmy the Wizard, as to roll bellow his stat 
 
 ## What about Critical hits ?
 
-If we apply this rules to the Powerful Foe rule, player's won't be able to roll Critical Hits anymore
+If we apply this rules to the Powerful Foe rule, player's won't be able to roll Critical Hits anymore when attacking an opponent 
 
 # The house rule
 
@@ -61,7 +61,7 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMTg2MzM4LC0xMzc3NDI2NzI2LDQ3Nj
+eyJoaXN0b3J5IjpbNzc0ODU3MDQ2LC0xMzc3NDI2NzI2LDQ3Nj
 U5MzMxNiwyOTI1Mjg2NywxMzU4MTAwMDMsLTE5OTU2NDM2MjMs
 MTkwMDc1MjMzOCwtNTc5MTQ0NTI2LDE3MTUzOTY5ODIsLTUwND
 MzMDM5OSwtMTEzOTg1NTk4NywtMzk3NjUyNTk1LDEyNDQ4Mjg5
