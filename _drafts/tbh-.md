@@ -48,7 +48,11 @@ If we apply this rules to the Powerful Foe rule, player's won't be able to roll 
 
 For some it might be ok that since the foe is more powerful than you, you just can't criticaly hit it, but for most players they will have the impression we have robbed them ... 
 
-A simple fix is to move the Critical Hit value at the other end of the possible range of success, and thus when you roll the 
+A simple fix is to move the Critical Hit value at the other end of the possible range of success, and thus :
+
+> **When you roll the number juset bellow your attribute it's a critical hit.**
+
+I  
 
 # The house rule
 
@@ -65,7 +69,7 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDA1Mjc0LDgwMjY2Njc5NiwtMjEzNT
+eyJoaXN0b3J5IjpbMjQwNjI4MzQxLDgwMjY2Njc5NiwtMjEzNT
 U0OTUwNywtMTQ4MDA2NDM4MSwtMTM3NzQyNjcyNiw0NzY1OTMz
 MTYsMjkyNTI4NjcsMTM1ODEwMDAzLC0xOTk1NjQzNjIzLDE5MD
 A3NTIzMzgsLTU3OTE0NDUyNiwxNzE1Mzk2OTgyLC01MDQzMzAz
