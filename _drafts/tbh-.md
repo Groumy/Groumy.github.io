@@ -42,6 +42,8 @@ Now, what if instead we alter the minimum value we can roll ?
 
 But, I find it simpler to say that Jimmy the Wizard, as to roll bellow his stat **and** above the spell level than having to calculate what it's the maximum he is allowed to roll.
 
+## Difficulty levels
+
 ## What about Critical hits ?
 
 If we apply this rules to the Powerful Foe rule, player's won't be able to roll Critical Hits anymore when attacking an opponent with higher HD than their own, as the they will have to roll above their differences in HD on the D20.
@@ -68,11 +70,11 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTE3NTc5MCwyNDA2MjgzNDEsODAyNj
-Y2Nzk2LC0yMTM1NTQ5NTA3LC0xNDgwMDY0MzgxLC0xMzc3NDI2
-NzI2LDQ3NjU5MzMxNiwyOTI1Mjg2NywxMzU4MTAwMDMsLTE5OT
-U2NDM2MjMsMTkwMDc1MjMzOCwtNTc5MTQ0NTI2LDE3MTUzOTY5
-ODIsLTUwNDMzMDM5OSwtMTEzOTg1NTk4NywtMzk3NjUyNTk1LD
-EyNDQ4Mjg5ODEsLTE5MzAwOTg1ODEsMTk0MjIzOTkzNywtNjAy
-ODA5MDU2XX0=
+eyJoaXN0b3J5IjpbLTczMzU0MjE4MiwtNTA5MTc1NzkwLDI0MD
+YyODM0MSw4MDI2NjY3OTYsLTIxMzU1NDk1MDcsLTE0ODAwNjQz
+ODEsLTEzNzc0MjY3MjYsNDc2NTkzMzE2LDI5MjUyODY3LDEzNT
+gxMDAwMywtMTk5NTY0MzYyMywxOTAwNzUyMzM4LC01NzkxNDQ1
+MjYsMTcxNTM5Njk4MiwtNTA0MzMwMzk5LC0xMTM5ODU1OTg3LC
+0zOTc2NTI1OTUsMTI0NDgyODk4MSwtMTkzMDA5ODU4MSwxOTQy
+MjM5OTM3XX0=
 -->
