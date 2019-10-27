@@ -52,7 +52,6 @@ A simple fix is to move the Critical Hit value at the other end of the possible 
 
 > **When you roll the number juset bellow your attribute it's a critical hit.**
 
-I 
 
 # The house rule
 
@@ -69,7 +68,7 @@ When characters attempt a task that's more difficult then usual, the GM can pick
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzcxMTA3NywyNDA2MjgzNDEsODAyNj
+eyJoaXN0b3J5IjpbLTUwOTE3NTc5MCwyNDA2MjgzNDEsODAyNj
 Y2Nzk2LC0yMTM1NTQ5NTA3LC0xNDgwMDY0MzgxLC0xMzc3NDI2
 NzI2LDQ3NjU5MzMxNiwyOTI1Mjg2NywxMzU4MTAwMDMsLTE5OT
 U2NDM2MjMsMTkwMDc1MjMzOCwtNTc5MTQ0NTI2LDE3MTUzOTY5
